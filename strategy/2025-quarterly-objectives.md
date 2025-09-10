@@ -70,6 +70,15 @@ From learnings in 2024, the Agency audience will be the key marketing focus duri
 
 ## Marketing tactics
 
+### Team Structure & Coordination
+**Marketing Team**: Dave Johnstone, Lucy Woolfenden  
+**Product Coordination**: 
+- **Q1 2025**: Product team focused on Google partnership and validation
+- **Q2 2025**: Major product investment in Aida integration and platform development
+
+### Performance Benchmarks
+**Current Outbound Success**: 2.2% lead rate vs 1-1.5% industry average - indicating strong market fit for our messaging and targeting approach.
+
 ### Core channel overview 
 
 | Channel | Current status | Q1 focus |
