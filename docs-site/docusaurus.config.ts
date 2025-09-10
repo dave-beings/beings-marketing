@@ -60,11 +60,36 @@ const config: Config = {
   themeConfig: {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
+    // Add Google Fonts
+    headTags: [
+      {
+        tagName: 'link',
+        attributes: {
+          rel: 'preconnect',
+          href: 'https://fonts.googleapis.com',
+        },
+      },
+      {
+        tagName: 'link',
+        attributes: {
+          rel: 'preconnect',
+          href: 'https://fonts.gstatic.com',
+          crossorigin: 'true',
+        },
+      },
+      {
+        tagName: 'link',
+        attributes: {
+          rel: 'stylesheet',
+          href: 'https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap',
+        },
+      },
+    ],
     navbar: {
-      title: 'Beings Marketing',
+      title: 'Beings',
       logo: {
         alt: 'Beings Logo',
-        src: 'img/logo.svg',
+        src: 'img/beings-logo.svg',
       },
       items: [
         {
