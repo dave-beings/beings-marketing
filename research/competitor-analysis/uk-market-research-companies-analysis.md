@@ -1,6 +1,6 @@
 # UK Market Research Companies Analysis
 
-*Converted from: Copy of Copy of Beings next 400 new 2 - Table 1.csv*
+*Converted from: uk-market-research-companies-analysis-table.csv*
 
 ## Overview
 This document contains a comprehensive analysis of UK-based market research and analytics companies, including their business models, services, AI adoption, and competitive positioning relative to Beings.

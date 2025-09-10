@@ -5,9 +5,9 @@ date: 2025-05-07
 
 ###### Case Study
 
-# Rebuilding UX Research for a Distributed World
+# Co-Intelligence in Action: Rebuilding UX Research for a Distributed World
 
-##### How a global tech company saved $28M and unlocked scalable, secure, anywhere research with CloudLab by Beings.
+##### How a global tech company saved $28M and transformed their research capabilities through true co-intelligence partnership with Beings.
 
 [Try for free](https://app.beings.com) ![](images/Group-334-3.png)
 
@@ -34,11 +34,11 @@ That single question sparked a transformation.
 
 ## Software-Defined Research
 
-A senior program manager on the UX Infrastructure team discovered Beings through a demo of the ‘Infinite Control Room.’ Originally designed for livestreaming and content capture, Beings' platform offered a configurable foundation for something much bigger: **a new research operating system.**
+A senior program manager on the UX Infrastructure team discovered Beings through a demo of the 'Infinite Control Room.' Originally designed for livestreaming and content capture, Beings' platform offered a configurable foundation for something much bigger: **a co-intelligence research operating system.**
 
-Other vendors declined to prioritise this company's unique needs. Beings leaned in.
+Other vendors offered generic solutions. Beings embraced true partnership.
 
-Together, we configured and deployed **CloudLab**: a secure, cloud-native platform for conducting, observing, and storing UX research anywhere—from labs to living rooms to live urban walk-throughs.
+This wasn't about replacing researchers with AI—it was about amplifying their expertise. Together, we co-created **CloudLab**: a secure, cloud-native platform that pairs expert researchers with intelligent systems to conduct, observe, and analyze UX research anywhere—from labs to living rooms to live urban walk-throughs.
 
 <iframe src="https://player.vimeo.com/video/1025160247?controls=0
 &amp;h=42efa43eda&amp;badge=0&amp;autoplay=1&amp;loop=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="BEAM"></iframe>
@@ -155,9 +155,9 @@ The program manager who led the CloudLab initiative received an internal innovat
 
 ## CloudLab empowers researchers to do what they do best: observe, understand, and improve human experience —without cables, constraints, or compromises. “CloudLab is the future of research.”
 
-## 👋 Ready to Try It?
+## 👋 Ready to Experience Co-Intelligence?
 
-You don’t need to change everything. You just need to stay curious.  
-Let Aida show you what it looks like to work with an **AI research assistant** that understands your world.
+You don't need to replace your expertise. You need to amplify it.  
+Let Aida show you what it looks like to work with a **research co-pilot** that learns from you and grows with your team.
 
 [Try for free](https://app.beings.com)
