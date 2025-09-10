@@ -68,6 +68,44 @@
 
 ---
 
+## Platform Capabilities Framework
+
+Beings supports researchers across the complete research lifecycle with integrated AI assistance:
+
+### **Prepare** 📋
+- Aida captures stakeholder requirements and translates business questions into research frameworks
+- Suggests appropriate methodologies based on research objectives and constraints  
+- Helps create focused research plans with timeline and resource optimization
+- **Value**: Reduces project setup time and ensures methodological rigor from the start
+
+### **Recruit** 👥
+- Automated end-to-end participant management with intelligent screening algorithms
+- Dynamic scheduling system with automated reminders and confirmation workflows
+- Quality control mechanisms to ensure participant fit and engagement
+- **Value**: Eliminates recruitment bottlenecks and improves participant quality
+
+### **Study** 🎥
+- Seamless integration with major video platforms (Zoom, Teams, Meet)
+- Real-time observer rooms with collaborative note-taking capabilities
+- Live sentiment analysis and key moment identification during sessions
+- **Value**: Enhances session quality and captures insights in real-time
+
+### **Insights** 🧠
+- Real-time analysis with interactive data exploration tools
+- Automated theme identification across multiple data sources
+- Multi-hop insight discovery that reveals connections humans miss
+- **Value**: Accelerates analysis phase and uncovers deeper patterns
+
+### **Act** 📊
+- Customizable reporting tools with stakeholder-specific views
+- Automated insight prioritization based on business impact
+- Integration capabilities with existing business intelligence tools
+- **Value**: Ensures insights drive action and business decisions
+
+*This end-to-end integration differentiates us from point solutions and creates switching costs for competitors.*
+
+---
+
 ## Key Messages by Persona
 
 ### For Corporate Claire (Enterprise Research Leaders):
@@ -103,6 +141,35 @@
 - **80% workflow automation** potential
 - **70% qualitative, 30% quantitative** work split (customer reality)
 - **Multiple projects simultaneously** (agency capacity challenge)
+
+---
+
+---
+
+## Value Proposition Evolution Story
+
+### **From Generic AI to Co-Intelligence** 
+Our positioning has evolved significantly based on customer feedback and market learning:
+
+**Early 2025 Position**: "AI-powered, human-led qualitative research platform that automates up to 80% of the workflow"
+- **Customer Feedback**: Concerns about AI replacing researchers and losing research skills
+- **Market Reality**: Generic AI positioning didn't address specific research needs
+
+**Current Position**: "Co-intelligence platform for qualitative research" with Hybrid Fusion Engine and Learning to Rank personalization
+- **Customer Validation**: Addresses #1 adoption blocker (skill development fears)
+- **Technical Differentiation**: Specific technical moats vs. feature-based competition
+- **Emotional Resonance**: "AI as sparring partner" language from customer interviews
+
+### **The Five Pillars Evolution**
+Original five pillars → Current "Five S's" showing strategic refinement:
+
+1. **Strengthen** → **Deeper Insights**: From "improve decision-making" to "multi-hop insights and unknown unknowns"
+2. **Scale** → **Scalable Knowledge**: From "larger datasets" to "expand capacity without expanding team"  
+3. **Speed** → **Unrivaled Speed**: From "automate tasks" to "research lifecycle from months to days"
+4. **Safety** → **Enterprise-Grade Trust**: From "data privacy" to "Buy and Build philosophy with SOC II compliance"
+5. **Satisfaction** → **The Joy of Research**: From "enjoyable tasks" to "refocus on what you love most"
+
+This evolution demonstrates deep customer understanding and product-market fit discovery rather than theoretical positioning.
 
 ---
 
