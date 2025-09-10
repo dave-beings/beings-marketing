@@ -379,6 +379,81 @@ For each newsletter topic:
 
 **Expected Outcome**: Access to established UK research audiences and credibility transfer from respected industry voices.
 
+## **💬 Direct Outreach: Tested LinkedIn Messaging Framework**
+
+### **Message Testing Strategy**
+Two distinct approaches tested for LinkedIn outreach to build newsletter audience:
+
+#### **Test 1: Problem-Focused Approach**
+```
+Hi <first name>,
+
+We've been talking with other researchers who tell us that their biggest challenges with qualitative research projects right now are, firstly, tight deadlines and, secondly, finding the right participants.
+
+We're helping research consultants tackle these with our Aida's Insights newsletter. It's all about practical AI tips that small-to-medium agencies can implement immediately.
+
+Worth a look? It takes 10 seconds to subscribe and you'll get immediate access to all our back issues.
+
+https://aidainsights.substack.com/
+
+Let me know if you have any questions! Dave
+```
+
+**Framework Analysis**:
+- **Hook**: Specific pain points from customer research
+- **Social Proof**: "Other researchers tell us"
+- **Value Prop**: Practical AI tips for immediate implementation
+- **CTA**: Low friction ("10 seconds") with immediate value ("back issues")
+- **Tone**: Professional, direct, solution-focused
+
+#### **Test 2: Curiosity-Driven Approach**
+```
+Hi <first name>,
+
+Ever wonder if AI is making research better or just... different?
+
+Our latest Aida's Insights newsletter explores this question in depth:
+• When to trust your instinct over the algorithm
+• Why the "human touch" in research still matters
+
+I hope you'll enjoy our piece on "the soul of research belongs to humans" - it's sparked some fascinating conversations.
+
+If you're curious, you can check it out with a quick subscribe. no pressure though!
+
+[subscribe link]
+
+What's your take on this? I'd love to hear your thoughts.
+
+Cheers, Dave
+```
+
+**Framework Analysis**:
+- **Hook**: Thought-provoking question about AI impact
+- **Content Preview**: Specific bullet points showing value
+- **Social Proof**: "Sparked fascinating conversations"
+- **CTA**: Curiosity-driven with explicit no pressure
+- **Engagement**: Asks for their perspective, encourages dialogue
+- **Tone**: Conversational, colleague-to-colleague, inquisitive
+
+### **Message Testing Insights**
+
+**Test 1 Strengths**:
+- Direct problem/solution fit
+- Clear value proposition for busy professionals
+- Immediate access incentive
+
+**Test 2 Strengths**:
+- Addresses emotional concerns about AI
+- Encourages engagement and conversation
+- Less sales-focused, more relationship-building
+
+### **Recommended Usage**:
+- **Test 1**: For prospects showing clear signs of operational pain (time pressure, recruitment challenges)
+- **Test 2**: For thought leaders and senior researchers who engage with strategic AI discussions
+- **A/B Testing**: Continue testing both approaches to optimize conversion rates
+
+**Key Learning**: Both messages avoid typical sales language and focus on peer-to-peer value sharing, aligning with the professional research community's communication style.
+
 ## **📍 Traction Metrics to Watch**
 
 | Funnel Stage | Example Metric | Q1 Target |

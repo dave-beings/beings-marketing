@@ -27,11 +27,8 @@ jobs:
           node-version: 18
           cache: 'npm'
           
-      - name: Install dependencies
-        run: npm ci
-        
-      - name: Build
-        run: npm run build
+      - name: Copy simple HTML
+        run: cp index-simple.html index.html
         
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -39,7 +36,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './dist'
+          path: './'
 
   deploy:
     environment:

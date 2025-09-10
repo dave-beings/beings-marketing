@@ -1,0 +1,259 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beings Marketing Knowledge Base - CMO Review</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f9fafb; }
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 20px; }
+        
+        header { background: white; border-bottom: 1px solid #e5e7eb; padding: 24px 0; }
+        .header-content { display: flex; justify-content: space-between; align-items: center; }
+        h1 { font-size: 2rem; font-weight: bold; color: #111827; }
+        .subtitle { color: #6b7280; margin-top: 4px; }
+        .date { color: #9ca3af; font-size: 0.875rem; }
+        
+        .main-content { padding: 32px 0; }
+        .overview { background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); padding: 24px; margin-bottom: 32px; }
+        .stats { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 16px; }
+        .stat { text-align: center; }
+        .stat-number { font-size: 1.5rem; font-weight: bold; }
+        .stat-number.blue { color: #2563eb; }
+        .stat-number.green { color: #059669; }
+        .stat-number.purple { color: #7c3aed; }
+        .stat-label { color: #6b7280; margin-top: 4px; }
+        
+        .sections-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(350px, 1fr)); gap: 24px; margin-bottom: 32px; }
+        .section-card { background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); padding: 24px; cursor: pointer; transition: box-shadow 0.2s; border-left: 4px solid; }
+        .section-card:hover { box-shadow: 0 4px 6px rgba(0,0,0,0.1); }
+        .section-card.high { border-color: #ef4444; background: #fef2f2; }
+        .section-card.medium { border-color: #f59e0b; background: #fffbeb; }
+        .section-card.low { border-color: #10b981; background: #f0fdf4; }
+        
+        .section-header { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 16px; }
+        .section-title { font-size: 1.125rem; font-weight: 600; color: #111827; }
+        .priority-badge { font-size: 0.75rem; padding: 4px 8px; border-radius: 9999px; background: #f3f4f6; color: #6b7280; }
+        .section-description { color: #6b7280; font-size: 0.875rem; margin-bottom: 16px; }
+        .file-count { color: #9ca3af; font-size: 0.875rem; }
+        
+        .guide { background: #dbeafe; border-radius: 8px; padding: 24px; }
+        .guide h3 { color: #1e40af; margin-bottom: 8px; }
+        .guide ul { color: #1e40af; font-size: 0.875rem; }
+        .guide li { margin-bottom: 4px; }
+        
+        .file-list { display: none; background: white; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,0.1); padding: 24px; margin-top: 24px; }
+        .file-list.active { display: block; }
+        .file-item { padding: 8px 0; border-bottom: 1px solid #f3f4f6; }
+        .file-item:last-child { border-bottom: none; }
+        .file-link { color: #2563eb; text-decoration: none; font-size: 0.875rem; }
+        .file-link:hover { text-decoration: underline; }
+        .back-btn { background: #2563eb; color: white; border: none; padding: 8px 16px; border-radius: 4px; cursor: pointer; margin-bottom: 16px; }
+        .back-btn:hover { background: #1d4ed8; }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <div class="header-content">
+                <div>
+                    <h1>Beings Marketing OS</h1>
+                    <p class="subtitle">Comprehensive marketing knowledge base for CMO review</p>
+                </div>
+                <div class="date">Last updated: <span id="current-date"></span></div>
+            </div>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="container">
+            <div id="dashboard">
+                <div class="overview">
+                    <h2 style="margin-bottom: 16px; color: #111827;">📋 Quick Overview</h2>
+                    <div class="stats">
+                        <div class="stat">
+                            <div class="stat-number blue">6</div>
+                            <div class="stat-label">Content Sections</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number green">200+</div>
+                            <div class="stat-label">Marketing Assets</div>
+                        </div>
+                        <div class="stat">
+                            <div class="stat-number purple">Q1 2025</div>
+                            <div class="stat-label">Current Focus</div>
+                        </div>
+                    </div>
+                </div>
+
+                <h2 style="margin-bottom: 24px; color: #111827;">🗂️ Marketing Sections</h2>
+                <div class="sections-grid">
+                    <div class="section-card high" onclick="showSection('strategy')">
+                        <div class="section-header">
+                            <div class="section-title">🎯 Strategy & Planning</div>
+                            <div class="priority-badge">🔴 High Priority</div>
+                        </div>
+                        <div class="section-description">Core marketing strategy, objectives, and quarterly plans</div>
+                        <div class="file-count">4 files</div>
+                    </div>
+
+                    <div class="section-card high" onclick="showSection('brand')">
+                        <div class="section-header">
+                            <div class="section-title">🎨 Brand & Messaging</div>
+                            <div class="priority-badge">🔴 High Priority</div>
+                        </div>
+                        <div class="section-description">Brand guidelines, voice, personas, and value propositions</div>
+                        <div class="file-count">6 files</div>
+                    </div>
+
+                    <div class="section-card high" onclick="showSection('content')">
+                        <div class="section-header">
+                            <div class="section-title">📝 Content Strategy</div>
+                            <div class="priority-badge">🔴 High Priority</div>
+                        </div>
+                        <div class="section-description">Content planning, calendars, and production workflows</div>
+                        <div class="file-count">5 files</div>
+                    </div>
+
+                    <div class="section-card medium" onclick="showSection('research')">
+                        <div class="section-header">
+                            <div class="section-title">🔍 Market Research</div>
+                            <div class="priority-badge">🟡 Medium Priority</div>
+                        </div>
+                        <div class="section-description">Customer discovery, competitor analysis, and market insights</div>
+                        <div class="file-count">50+ files</div>
+                    </div>
+
+                    <div class="section-card medium" onclick="showSection('content-library')">
+                        <div class="section-header">
+                            <div class="section-title">📚 Content Library</div>
+                            <div class="priority-badge">🟡 Medium Priority</div>
+                        </div>
+                        <div class="section-description">Blog posts, case studies, newsletters, and video scripts</div>
+                        <div class="file-count">150+ files</div>
+                    </div>
+
+                    <div class="section-card low" onclick="showSection('sales')">
+                        <div class="section-header">
+                            <div class="section-title">💼 Sales Support</div>
+                            <div class="priority-badge">🟢 Low Priority</div>
+                        </div>
+                        <div class="section-description">Testimonials, social proof, and sales enablement materials</div>
+                        <div class="file-count">2 files</div>
+                    </div>
+                </div>
+
+                <div class="guide">
+                    <h3>💡 How to Use This Knowledge Base</h3>
+                    <ul>
+                        <li><strong>Start with Strategy & Planning</strong> - Get the big picture first</li>
+                        <li><strong>Review Brand & Messaging</strong> - Understand positioning and voice</li>
+                        <li><strong>Dive into Content Strategy</strong> - See execution plans and calendars</li>
+                        <li><strong>Explore Research</strong> - Understand market and customer insights</li>
+                        <li>Click on any section to browse files and documents</li>
+                    </ul>
+                </div>
+            </div>
+
+            <div id="file-browser" class="file-list">
+                <button class="back-btn" onclick="showDashboard()">← Back to Overview</button>
+                <h3 id="section-title"></h3>
+                <div id="file-list-content"></div>
+            </div>
+        </div>
+    </main>
+
+    <script>
+        // Set current date
+        document.getElementById('current-date').textContent = new Date().toLocaleDateString();
+
+        const sections = {
+            'strategy': {
+                title: '🎯 Strategy & Planning',
+                files: [
+                    { name: '2025 Marketing Strategy', path: 'strategy/2025-marketing-strategy.md' },
+                    { name: '2025 Marketing Plan', path: 'strategy/2025-marketing-plan.md' },
+                    { name: '2025 Quarterly Objectives', path: 'strategy/2025-quarterly-objectives.md' },
+                    { name: 'Marketing OS Framework', path: 'strategy/Marketing_OS.md' }
+                ]
+            },
+            'brand': {
+                title: '🎨 Brand & Messaging',
+                files: [
+                    { name: 'Brand Voice Guide', path: 'brand/Brand_Voice_Guide.md' },
+                    { name: 'Audience Personas', path: 'brand/Audience_Personas.md' },
+                    { name: 'Value Propositions', path: 'brand/Value_Propositions.md' },
+                    { name: 'Messaging Framework v2', path: 'brand/messaging-framework-v2.md' },
+                    { name: 'Content Pillars', path: 'brand/Content_Pillars.md' },
+                    { name: 'Ideal Customer Profile', path: 'brand/ideal-customer-profile.md' }
+                ]
+            },
+            'content': {
+                title: '📝 Content Strategy',
+                files: [
+                    { name: 'Lead Nurturing System', path: 'strategy/content-planning/lead-nurturing-system.md' },
+                    { name: 'Q1 2025 Substack Calendar', path: 'strategy/content-planning/q1-2025-substack-calendar.md' },
+                    { name: 'Weekly Content Planner', path: 'strategy/content-planning/weekly-content-planner.md' },
+                    { name: 'Content Repurposing Workflows', path: 'strategy/content-planning/content-repurposing-workflows.md' },
+                    { name: 'SEO Optimization Strategy', path: 'strategy/content-planning/seo-optimization-strategy.md' }
+                ]
+            },
+            'research': {
+                title: '🔍 Market Research',
+                files: [
+                    { name: 'Market Sizing (TAM/SAM/SOM)', path: 'research/market-sizing-tam-sam-som.md' },
+                    { name: 'Customer Discovery Folder', path: 'research/customer-discovery/' },
+                    { name: 'Competitor Analysis Folder', path: 'research/competitor-analysis/' },
+                    { name: 'Qualitative Research Folder', path: 'research/qualitative-research/' },
+                    { name: 'Quantitative Research Folder', path: 'research/quantitative-research/' },
+                    { name: 'AI Research Interviews', path: 'research/ai-research-interviews/' }
+                ]
+            },
+            'content-library': {
+                title: '📚 Content Library',
+                files: [
+                    { name: 'Blog Posts Folder', path: 'content/blog-posts/' },
+                    { name: 'Case Studies Folder', path: 'content/case-studies/' },
+                    { name: 'Newsletters Folder', path: 'content/newsletters/' },
+                    { name: 'Video Scripts Folder', path: 'content/video-scripts/' },
+                    { name: 'Website Content', path: 'content/website/markdown/pages/' }
+                ]
+            },
+            'sales': {
+                title: '💼 Sales Support',
+                files: [
+                    { name: 'Customer Testimonials Library', path: 'sales/customer-testimonials-library.md' },
+                    { name: 'Social Proof Library', path: 'sales/social-proof-library-expanded.md' }
+                ]
+            }
+        };
+
+        function showSection(sectionId) {
+            const section = sections[sectionId];
+            document.getElementById('dashboard').style.display = 'none';
+            document.getElementById('file-browser').classList.add('active');
+            document.getElementById('section-title').textContent = section.title;
+            
+            const fileListContent = document.getElementById('file-list-content');
+            fileListContent.innerHTML = section.files.map(file => `
+                <div class="file-item">
+                    <a href="#" class="file-link" onclick="openFile('${file.path}')">${file.name}</a>
+                    <div style="font-size: 0.75rem; color: #9ca3af; margin-top: 4px;">
+                        Path: ${file.path}
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function showDashboard() {
+            document.getElementById('dashboard').style.display = 'block';
+            document.getElementById('file-browser').classList.remove('active');
+        }
+
+        function openFile(path) {
+            alert(`To open this file, use your terminal:\n\nopen "${path}"\n\nOr navigate to: ${path}`);
+        }
+    </script>
+</body>
+</html>
