@@ -30,86 +30,116 @@ function HomepageHeader() {
 
 function HomepageContent() {
   return (
-    <section className="container margin-vert--lg">
+    <section className="container margin-vert--xl">
+      {/* Clean intro */}
       <div className="row">
-        <div className="col col--12">
-          <div className="text--center margin-bottom--lg">
-            <h2>🎯 Ready for Your October CMO Review</h2>
-            <p className="margin-bottom--lg">
-              Your marketing knowledge base is organized and ready for comprehensive review. 
-              All marketing assets are categorized by priority for systematic evaluation.
+        <div className="col col--8 col--offset-2">
+          <div className="text--center margin-bottom--xl">
+            <h2 style={{fontSize: '2rem', fontWeight: '600', color: '#1976d2', marginBottom: '1rem'}}>
+              Marketing Knowledge Base
+            </h2>
+            <p style={{fontSize: '1.1rem', color: '#666', lineHeight: '1.6'}}>
+              Comprehensive marketing strategy and execution materials organized for systematic CMO review. 
+              Start with high-priority sections and work through the complete strategic foundation.
             </p>
           </div>
         </div>
       </div>
-      
-      <div className="row">
-        <div className="col col--4">
-          <div className="card margin-bottom--lg" style={{borderLeft: '4px solid #dc3545', height: '100%'}}>
-            <div className="card__header">
-              <h3>🔴 High Priority</h3>
-            </div>
+
+      {/* Clean stats */}
+      <div className="row margin-bottom--xl">
+        <div className="col col--10 col--offset-1">
+          <div className="card" style={{background: 'linear-gradient(135deg, #f8f9fa 0%, #e3f2fd 100%)', border: 'none'}}>
             <div className="card__body">
-              <p><strong>Essential sections for CMO review:</strong></p>
-              <ul>
-                <li><Link to="/docs/strategy/2025-marketing-strategy">🎯 Strategy & Planning</Link></li>
-                <li><Link to="/docs/brand/Brand_Voice_Guide">🎨 Brand & Messaging</Link></li>
-                <li><Link to="/docs/strategy/content-planning/lead-nurturing-system">📝 Content Strategy</Link></li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        
-        <div className="col col--4">
-          <div className="card margin-bottom--lg" style={{borderLeft: '4px solid #ffc107', height: '100%'}}>
-            <div className="card__header">
-              <h3>🟡 Medium Priority</h3>
-            </div>
-            <div className="card__body">
-              <p><strong>Supporting materials:</strong></p>
-              <ul>
-                <li><Link to="/docs/research/market-sizing-tam-sam-som">🔍 Market Research</Link></li>
-                <li>📚 Content Library (in main folders)</li>
-              </ul>
-            </div>
-          </div>
-        </div>
-        
-        <div className="col col--4">
-          <div className="card margin-bottom--lg" style={{borderLeft: '4px solid #28a745', height: '100%'}}>
-            <div className="card__header">
-              <h3>🟢 Low Priority</h3>
-            </div>
-            <div className="card__body">
-              <p><strong>Sales enablement:</strong></p>
-              <ul>
-                <li><Link to="/docs/sales/customer-testimonials-library">💼 Sales Support</Link></li>
-              </ul>
+              <div className="row">
+                <div className="col col--4 text--center">
+                  <h3 style={{color: '#1976d2', fontSize: '2.5rem', margin: '0', fontWeight: '700'}}>17</h3>
+                  <p style={{margin: '0.5rem 0 0 0', color: '#666'}}>Core Documents</p>
+                </div>
+                <div className="col col--4 text--center">
+                  <h3 style={{color: '#1976d2', fontSize: '2.5rem', margin: '0', fontWeight: '700'}}>4</h3>
+                  <p style={{margin: '0.5rem 0 0 0', color: '#666'}}>Priority Sections</p>
+                </div>
+                <div className="col col--4 text--center">
+                  <h3 style={{color: '#1976d2', fontSize: '2.5rem', margin: '0', fontWeight: '700'}}>Q1 2025</h3>
+                  <p style={{margin: '0.5rem 0 0 0', color: '#666'}}>Strategic Focus</p>
+                </div>
+              </div>
             </div>
           </div>
         </div>
       </div>
 
-      <div className="row margin-top--lg">
-        <div className="col col--12">
-          <div className="card">
-            <div className="card__header">
-              <h3>📊 Knowledge Base Overview</h3>
+      {/* Clean navigation cards */}
+      <div className="row">
+        <div className="col col--10 col--offset-1">
+          <div className="row">
+            <div className="col col--6 margin-bottom--lg">
+              <div className="card" style={{height: '100%', border: '1px solid #1976d2', borderRadius: '12px'}}>
+                <div className="card__header" style={{background: 'linear-gradient(135deg, #1976d2 0%, #1e88e5 100%)', color: 'white'}}>
+                  <h3 style={{margin: '0', color: 'white'}}>🔴 High Priority</h3>
+                </div>
+                <div className="card__body">
+                  <p style={{marginBottom: '1rem', color: '#666'}}>Start here - Core strategic foundation</p>
+                  <div style={{display: 'flex', flexDirection: 'column', gap: '0.5rem'}}>
+                    <Link to="/docs/strategy/marketing-strategy" className="button button--outline button--primary" style={{justifyContent: 'flex-start'}}>
+                      🎯 Strategy & Planning
+                    </Link>
+                    <Link to="/docs/brand/Brand_Voice_Guide" className="button button--outline button--primary" style={{justifyContent: 'flex-start'}}>
+                      🎨 Brand & Messaging
+                    </Link>
+                    <Link to="/docs/strategy/content-planning/lead-nurturing-system" className="button button--outline button--primary" style={{justifyContent: 'flex-start'}}>
+                      📝 Content Strategy
+                    </Link>
+                  </div>
+                </div>
+              </div>
             </div>
-            <div className="card__body">
-              <div className="row">
-                <div className="col col--4 text--center">
-                  <h4 style={{color: '#1976d2', fontSize: '2rem', margin: '0'}}>17</h4>
-                  <p>Total Documents</p>
+            
+            <div className="col col--6 margin-bottom--lg">
+              <div className="card" style={{height: '100%', border: '1px solid #f57c00', borderRadius: '12px'}}>
+                <div className="card__header" style={{background: 'linear-gradient(135deg, #f57c00 0%, #ff9800 100%)', color: 'white'}}>
+                  <h3 style={{margin: '0', color: 'white'}}>🟡 Medium Priority</h3>
                 </div>
-                <div className="col col--4 text--center">
-                  <h4 style={{color: '#1976d2', fontSize: '2rem', margin: '0'}}>4</h4>
-                  <p>Core Sections</p>
+                <div className="card__body">
+                  <p style={{marginBottom: '1rem', color: '#666'}}>Supporting research and content</p>
+                  <div style={{display: 'flex', flexDirection: 'column', gap: '0.5rem'}}>
+                    <Link to="/docs/research/market-sizing-tam-sam-som" className="button button--outline" style={{justifyContent: 'flex-start', borderColor: '#f57c00', color: '#f57c00'}}>
+                      🔍 Market Research
+                    </Link>
+                    <div className="button button--outline" style={{justifyContent: 'flex-start', borderColor: '#f57c00', color: '#f57c00', cursor: 'default'}}>
+                      📚 Content Library
+                    </div>
+                  </div>
                 </div>
-                <div className="col col--4 text--center">
-                  <h4 style={{color: '#1976d2', fontSize: '2rem', margin: '0'}}>Q1 2025</h4>
-                  <p>Current Focus</p>
+              </div>
+            </div>
+          </div>
+          
+          <div className="row">
+            <div className="col col--6">
+              <div className="card" style={{border: '1px solid #2e7d32', borderRadius: '12px'}}>
+                <div className="card__header" style={{background: 'linear-gradient(135deg, #2e7d32 0%, #4caf50 100%)', color: 'white'}}>
+                  <h3 style={{margin: '0', color: 'white'}}>🟢 Low Priority</h3>
                 </div>
+                <div className="card__body">
+                  <p style={{marginBottom: '1rem', color: '#666'}}>Sales enablement materials</p>
+                  <Link to="/docs/sales/customer-testimonials-library" className="button button--outline" style={{borderColor: '#2e7d32', color: '#2e7d32'}}>
+                    💼 Sales Support
+                  </Link>
+                </div>
+              </div>
+            </div>
+            
+            <div className="col col--6">
+              <div style={{padding: '2rem', background: 'linear-gradient(135deg, #e3f2fd 0%, #f8f9fa 100%)', borderRadius: '12px', height: '100%', display: 'flex', flexDirection: 'column', justifyContent: 'center'}}>
+                <h4 style={{color: '#1976d2', marginBottom: '1rem'}}>💡 Review Guide</h4>
+                <ul style={{listStyle: 'none', padding: '0', margin: '0'}}>
+                  <li style={{marginBottom: '0.5rem', color: '#666'}}>✓ Start with high priority sections</li>
+                  <li style={{marginBottom: '0.5rem', color: '#666'}}>✓ Use sidebar navigation to browse</li>
+                  <li style={{marginBottom: '0.5rem', color: '#666'}}>✓ Search for specific topics</li>
+                  <li style={{color: '#666'}}>✓ Focus on strategic alignment</li>
+                </ul>
               </div>
             </div>
           </div>
