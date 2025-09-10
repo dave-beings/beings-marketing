@@ -4,7 +4,9 @@ A comprehensive content management system using Cursor AI to centrally manage al
 
 ## 🎯 Overview
 
-This repository implements a "Marketing OS" approach where all marketing content, brand guidelines, and project workflows are managed in structured markdown files, enabling AI-powered content creation and maintaining brand consistency across all materials.
+This repository implements a "Marketing OS" approach where all marketing knowledge - from foundational brand identity to tactical content execution - is organized in a logical, scalable structure that enables AI-powered content creation and maintains brand consistency across all materials.
+
+**🎉 CONVERSION COMPLETE**: All research and marketing files have been converted to accessible markdown format with comprehensive organization and full searchability.
 
 ## 🚀 Live Site
 
@@ -14,20 +16,42 @@ This repository implements a "Marketing OS" approach where all marketing content
 ## 📁 Project Structure
 
 ```
-├── content/                           # Marketing OS Core
-│   ├── Provisional_Brand_Voice_Guide.md    # Active brand voice guidelines
-│   ├── Marketing_OS.md                     # Strategic foundation (template)
-│   ├── Audience_Personas.md                # Target personas (template)
-│   ├── Content_Pillars.md                  # Content themes (template)
-│   ├── Value_Propositions.md               # Key messaging (template)
-│   └── q3-brochure-project/                # Live Project Example
-│       ├── Q3_Brochure_Project.md          # Project hub with workflow
-│       └── source-drafts/                  # 12 organized content files
-│           ├── 01-introduction-to-aida-in-beings.md
-│           ├── 03-setting-up-your-first-research-project.md
-│           ├── 06-how-to-write-effective-aida-prompts.md
-│           └── [... 9 more numbered source files]
-├── src/                               # React/Vite Website
+├── brand/                             # Foundational Brand Identity
+│   ├── Brand_Voice_Guide.md               # Brand voice guidelines
+│   ├── Audience_Personas.md               # Target personas
+│   ├── Content_Pillars.md                 # Content themes
+│   └── Value_Propositions.md              # Key messaging
+├── research/                          # Research Data & Insights
+│   ├── competitor-analysis/               # Market and competitor research
+│   ├── message-mining/                    # Voice of customer research
+│   ├── qualitative-research/              # Qual research and interviews
+│   │   ├── transcripts/                   # Interview transcripts
+│   │   └── admin/                         # Administrative documents
+│   ├── quantitative-research/             # Survey data and analysis
+│   │   └── data/                          # Survey responses and analysis
+│   ├── ai-research-interviews/            # AI adoption research (19 files)
+│   ├── customer-discovery/                # Customer interviews and discovery
+│   └── podcast-interviews/                # Podcast content and interviews
+├── strategy/                          # Marketing Strategy & Planning
+│   ├── 2025-marketing-strategy.md         # Annual marketing strategy
+│   ├── Marketing_OS.md                    # Marketing operating system
+│   └── content-planning/                  # Content calendars and planning
+├── content/                           # External-Facing Content Assets
+│   ├── blog-posts/                        # Published and planned blog content
+│   ├── newsletters/                       # Newsletter content and series
+│   ├── guides/                            # User guides and documentation
+│   │   ├── onboarding/                    # User onboarding materials
+│   │   └── prompting-guides/              # AI prompting guides
+│   ├── video-scripts/                     # Video content scripts
+│   ├── advertising/                       # Ad campaigns and copy
+│   └── website/                           # Website-specific content
+├── sales/                             # Sales Enablement
+│   └── Beings_Playbook.md                 # Sales playbook and materials
+├── archive/                           # Historical Versions
+│   ├── brand-iterations/                  # Previous brand versions
+│   ├── deliverables/                      # Past project deliverables
+│   └── reports/                           # Historical reports
+├── src/                               # React/Vite Website Application
 │   ├── App.tsx
 │   └── main.tsx
 └── .github/workflows/                 # Auto-deployment
@@ -37,15 +61,19 @@ This repository implements a "Marketing OS" approach where all marketing content
 ## 🧠 Marketing OS Concept
 
 ### Core Principles
-- **Single Source of Truth:** All content centrally managed in version-controlled files
-- **AI-Powered:** Content generation using structured prompts with brand context
-- **Brand Consistency:** Every piece references foundation files for consistent voice
-- **Scalable Workflow:** Reusable templates and processes for all projects
+- **Logical Organization:** Knowledge flows from foundational elements (brand, research) through strategic planning to tactical execution
+- **Single Source of Truth:** All marketing knowledge centrally managed in version-controlled files
+- **AI-Powered:** Content generation using structured prompts with brand context and research insights
+- **Brand Consistency:** Every piece references foundation files for consistent voice and messaging
+- **Scalable Workflow:** Clear separation between strategy, execution, and enablement materials
 
-### Foundation Files
-- `Provisional_Brand_Voice_Guide.md` - Seth Godin-style brand voice with examples
-- Template files for personas, content pillars, and value propositions
-- Project-specific hubs that organize source materials and track progress
+### Knowledge Architecture
+- **`brand/`** - Core brand identity that informs all other work
+- **`research/`** - Customer insights and market intelligence that drives strategy
+- **`strategy/`** - High-level planning and content calendars
+- **`content/`** - All external-facing assets and materials
+- **`sales/`** - Sales enablement materials and playbooks
+- **`archive/`** - Historical versions and past iterations
 
 ## 🎯 Q3 Brochure Project (Live Example)
 
