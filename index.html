@@ -1,63 +1,404 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
+  <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Beings Marketing Knowledge Base - CMO Review</title>
-    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
-</head>
-<body class="bg-gray-50">
-    <header class="bg-white shadow-sm border-b">
-        <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-            <div class="flex justify-between items-center py-6">
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        :root {
+            /* Material 3 Design Tokens */
+            --md-sys-color-primary: #1976d2;
+            --md-sys-color-on-primary: #ffffff;
+            --md-sys-color-primary-container: #d3e3fd;
+            --md-sys-color-on-primary-container: #001c38;
+            --md-sys-color-secondary: #565f71;
+            --md-sys-color-on-secondary: #ffffff;
+            --md-sys-color-secondary-container: #dae2f9;
+            --md-sys-color-on-secondary-container: #131c2b;
+            --md-sys-color-surface: #fefbff;
+            --md-sys-color-on-surface: #1a1c1e;
+            --md-sys-color-surface-variant: #e1e2ec;
+            --md-sys-color-on-surface-variant: #44474f;
+            --md-sys-color-error: #ba1a1a;
+            --md-sys-color-error-container: #ffdad6;
+            --md-sys-color-warning: #f57c00;
+            --md-sys-color-warning-container: #fff3e0;
+            --md-sys-color-success: #2e7d32;
+            --md-sys-color-success-container: #e8f5e8;
+            
+            /* Typography */
+            --md-sys-typescale-display-large-font: 'Roboto';
+            --md-sys-typescale-display-large-size: 57px;
+            --md-sys-typescale-display-large-weight: 400;
+            --md-sys-typescale-headline-large-font: 'Roboto';
+            --md-sys-typescale-headline-large-size: 32px;
+            --md-sys-typescale-headline-large-weight: 400;
+            --md-sys-typescale-headline-medium-font: 'Roboto';
+            --md-sys-typescale-headline-medium-size: 28px;
+            --md-sys-typescale-headline-medium-weight: 400;
+            --md-sys-typescale-title-large-font: 'Roboto';
+            --md-sys-typescale-title-large-size: 22px;
+            --md-sys-typescale-title-large-weight: 400;
+            --md-sys-typescale-body-large-font: 'Roboto';
+            --md-sys-typescale-body-large-size: 16px;
+            --md-sys-typescale-body-large-weight: 400;
+            --md-sys-typescale-body-medium-font: 'Roboto';
+            --md-sys-typescale-body-medium-size: 14px;
+            --md-sys-typescale-body-medium-weight: 400;
+            
+            /* Elevation */
+            --md-sys-elevation-1: 0px 1px 3px rgba(0,0,0,0.12), 0px 1px 2px rgba(0,0,0,0.24);
+            --md-sys-elevation-2: 0px 3px 6px rgba(0,0,0,0.16), 0px 3px 6px rgba(0,0,0,0.23);
+            --md-sys-elevation-3: 0px 10px 20px rgba(0,0,0,0.19), 0px 6px 6px rgba(0,0,0,0.23);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        
+        body {
+            font-family: var(--md-sys-typescale-body-large-font);
+            font-size: var(--md-sys-typescale-body-large-size);
+            font-weight: var(--md-sys-typescale-body-large-weight);
+            background: var(--md-sys-color-surface);
+            color: var(--md-sys-color-on-surface);
+            line-height: 1.5;
+        }
+
+        .container { max-width: 1200px; margin: 0 auto; padding: 0 24px; }
+        
+        /* Material 3 Components */
+        .md-surface {
+            background: var(--md-sys-color-surface);
+            border-radius: 12px;
+            box-shadow: var(--md-sys-elevation-1);
+        }
+        
+        .md-surface-variant {
+            background: var(--md-sys-color-surface-variant);
+            color: var(--md-sys-color-on-surface-variant);
+        }
+        
+        .md-card {
+            background: var(--md-sys-color-surface);
+            border-radius: 12px;
+            box-shadow: var(--md-sys-elevation-1);
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            cursor: pointer;
+            overflow: hidden;
+        }
+        
+        .md-card:hover {
+            box-shadow: var(--md-sys-elevation-2);
+            transform: translateY(-2px);
+        }
+        
+        .md-card.high-priority {
+            border-left: 4px solid var(--md-sys-color-error);
+            background: var(--md-sys-color-error-container);
+        }
+        
+        .md-card.medium-priority {
+            border-left: 4px solid var(--md-sys-color-warning);
+            background: var(--md-sys-color-warning-container);
+        }
+        
+        .md-card.low-priority {
+            border-left: 4px solid var(--md-sys-color-success);
+            background: var(--md-sys-color-success-container);
+        }
+        
+        .md-button {
+            background: var(--md-sys-color-primary);
+            color: var(--md-sys-color-on-primary);
+            border: none;
+            border-radius: 20px;
+            padding: 10px 24px;
+            font-family: var(--md-sys-typescale-body-medium-font);
+            font-size: var(--md-sys-typescale-body-medium-size);
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            box-shadow: var(--md-sys-elevation-1);
+        }
+        
+        .md-button:hover {
+            box-shadow: var(--md-sys-elevation-2);
+        }
+        
+        .md-chip {
+            background: var(--md-sys-color-secondary-container);
+            color: var(--md-sys-color-on-secondary-container);
+            border-radius: 8px;
+            padding: 6px 12px;
+            font-size: 12px;
+            font-weight: 500;
+        }
+        
+        /* Typography */
+        .display-large {
+            font-family: var(--md-sys-typescale-display-large-font);
+            font-size: var(--md-sys-typescale-headline-large-size);
+            font-weight: var(--md-sys-typescale-headline-large-weight);
+            line-height: 1.2;
+        }
+        
+        .headline-medium {
+            font-family: var(--md-sys-typescale-headline-medium-font);
+            font-size: var(--md-sys-typescale-headline-medium-size);
+            font-weight: var(--md-sys-typescale-headline-medium-weight);
+            line-height: 1.3;
+        }
+        
+        .title-large {
+            font-family: var(--md-sys-typescale-title-large-font);
+            font-size: var(--md-sys-typescale-title-large-size);
+            font-weight: 500;
+            line-height: 1.4;
+        }
+        
+        .body-medium {
+            font-family: var(--md-sys-typescale-body-medium-font);
+            font-size: var(--md-sys-typescale-body-medium-size);
+            font-weight: var(--md-sys-typescale-body-medium-weight);
+        }
+        
+        /* Layout */
+        .grid { display: grid; gap: 24px; }
+        .grid-cols-1 { grid-template-columns: repeat(1, 1fr); }
+        .grid-cols-3 { grid-template-columns: repeat(3, 1fr); }
+        
+        @media (max-width: 768px) {
+            .grid-cols-3 { grid-template-columns: 1fr; }
+        }
+        
+        /* Utilities */
+        .p-24 { padding: 24px; }
+        .p-16 { padding: 16px; }
+        .mb-24 { margin-bottom: 24px; }
+        .mb-16 { margin-bottom: 16px; }
+        .mb-8 { margin-bottom: 8px; }
+        .mt-8 { margin-top: 8px; }
+        .flex { display: flex; }
+        .items-center { align-items: center; }
+        .justify-between { justify-content: space-between; }
+        .text-center { text-align: center; }
+        
+        /* Priority indicators */
+        .priority-high { color: var(--md-sys-color-error); }
+        .priority-medium { color: var(--md-sys-color-warning); }
+        .priority-low { color: var(--md-sys-color-success); }
+        
+        /* Links */
+        a {
+            color: var(--md-sys-color-primary);
+            text-decoration: none;
+            transition: opacity 0.2s ease;
+        }
+        
+        a:hover {
+            opacity: 0.8;
+            text-decoration: underline;
+        }
+        
+        /* Header */
+        header {
+            background: var(--md-sys-color-surface);
+            box-shadow: var(--md-sys-elevation-1);
+            border-bottom: 1px solid var(--md-sys-color-surface-variant);
+        }
+    </style>
+  </head>
+  <body>
+    <header>
+        <div class="container">
+            <div class="flex items-center justify-between p-24">
                 <div>
-                    <h1 class="text-3xl font-bold text-gray-900">Beings Marketing Knowledge Base</h1>
-                    <p class="text-gray-600 mt-1">Comprehensive marketing strategy and execution guide for CMO review</p>
+                    <h1 class="display-large mb-8">Beings Marketing Knowledge Base</h1>
+                    <p class="body-medium" style="color: var(--md-sys-color-on-surface-variant);">
+                        Comprehensive marketing strategy and execution guide for CMO review
+                    </p>
+                </div>
+                <div class="md-chip">
+                    <span class="material-icons" style="font-size: 16px; margin-right: 4px;">schedule</span>
+                    Updated Sept 2025
                 </div>
             </div>
         </div>
     </header>
 
-    <main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <div class="bg-blue-50 rounded-lg p-6 mb-8">
-            <h2 class="text-lg font-semibold text-blue-900 mb-2">🎯 Ready for Your October CMO Review</h2>
-            <p class="text-blue-800">Your marketing knowledge base is now organized and ready for comprehensive review. All 200+ marketing assets are categorized by priority for systematic evaluation.</p>
-        </div>
-
-        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
-            <div class="bg-white rounded-lg shadow p-6 border-l-4 border-red-400">
-                <h3 class="text-lg font-semibold text-gray-900 mb-2">🔴 High Priority</h3>
-                <ul class="space-y-2 text-sm text-gray-600">
-                    <li><a href="strategy/2025-marketing-strategy.md" class="text-blue-600 hover:underline">2025 Marketing Strategy</a></li>
-                    <li><a href="brand/Brand_Voice_Guide.md" class="text-blue-600 hover:underline">Brand Voice Guide</a></li>
-                    <li><a href="strategy/content-planning/lead-nurturing-system.md" class="text-blue-600 hover:underline">Lead Nurturing System</a></li>
-                </ul>
+    <main class="container" style="padding-top: 32px; padding-bottom: 32px;">
+        <!-- Hero Section -->
+        <div class="md-surface p-24 mb-24" style="background: var(--md-sys-color-primary-container); color: var(--md-sys-color-on-primary-container);">
+            <div class="flex items-center mb-16">
+                <span class="material-icons" style="font-size: 32px; margin-right: 12px;">analytics</span>
+                <h2 class="headline-medium">Ready for Your October CMO Review</h2>
             </div>
-
-            <div class="bg-white rounded-lg shadow p-6 border-l-4 border-yellow-400">
-                <h3 class="text-lg font-semibold text-gray-900 mb-2">🟡 Medium Priority</h3>
-                <ul class="space-y-2 text-sm text-gray-600">
-                    <li><a href="research/" class="text-blue-600 hover:underline">Market Research</a></li>
-                    <li><a href="content/" class="text-blue-600 hover:underline">Content Library</a></li>
-                </ul>
-            </div>
-
-            <div class="bg-white rounded-lg shadow p-6 border-l-4 border-green-400">
-                <h3 class="text-lg font-semibold text-gray-900 mb-2">🟢 Low Priority</h3>
-                <ul class="space-y-2 text-sm text-gray-600">
-                    <li><a href="sales/" class="text-blue-600 hover:underline">Sales Support</a></li>
-                </ul>
+            <p class="body-large">
+                Your marketing knowledge base is now organized and ready for comprehensive review. 
+                All 200+ marketing assets are categorized by priority for systematic evaluation.
+            </p>
+            
+            <!-- Quick Stats -->
+            <div class="grid grid-cols-3 mt-24">
+                <div class="text-center">
+                    <div class="title-large" style="color: var(--md-sys-color-primary);">6</div>
+                    <div class="body-medium">Content Sections</div>
+                </div>
+                <div class="text-center">
+                    <div class="title-large" style="color: var(--md-sys-color-primary);">200+</div>
+                    <div class="body-medium">Marketing Assets</div>
+                </div>
+                <div class="text-center">
+                    <div class="title-large" style="color: var(--md-sys-color-primary);">Q1 2025</div>
+                    <div class="body-medium">Current Focus</div>
+                </div>
             </div>
         </div>
 
-        <div class="mt-8 bg-white rounded-lg shadow p-6">
-            <h3 class="text-lg font-semibold text-gray-900 mb-4">📋 CMO Review Instructions</h3>
-            <div class="prose text-gray-600">
-                <p><strong>Recommended approach:</strong> Start with high-priority sections (red) to understand the strategic foundation, then review medium-priority materials for supporting insights.</p>
-                <p class="mt-2"><strong>All files are accessible:</strong> Click any link above or browse the folder structure directly in your file system.</p>
+        <!-- Priority Sections -->
+        <div class="mb-24">
+            <h2 class="headline-medium mb-16">
+                <span class="material-icons priority-high" style="font-size: 28px; margin-right: 8px;">priority_high</span>
+                High Priority - Review First
+            </h2>
+            <div class="grid grid-cols-3">
+                <div class="md-card high-priority p-24">
+                    <div class="flex items-center mb-16">
+                        <span class="material-icons" style="font-size: 24px; margin-right: 8px;">track_changes</span>
+                        <h3 class="title-large">Strategy & Planning</h3>
+                    </div>
+                    <p class="body-medium mb-16" style="color: var(--md-sys-color-on-surface-variant);">
+                        Core marketing strategy, objectives, and quarterly plans
+                    </p>
+                    <div style="border-top: 1px solid var(--md-sys-color-surface-variant); padding-top: 16px;">
+                        <a href="strategy/2025-marketing-strategy.md" style="display: block; margin-bottom: 8px;">2025 Marketing Strategy</a>
+                        <a href="strategy/2025-marketing-plan.md" style="display: block; margin-bottom: 8px;">2025 Marketing Plan</a>
+                        <a href="strategy/2025-quarterly-objectives.md" style="display: block; margin-bottom: 8px;">Quarterly Objectives</a>
+                        <a href="strategy/Marketing_OS.md" style="display: block;">Marketing OS Framework</a>
+                    </div>
+                </div>
+
+                <div class="md-card high-priority p-24">
+                    <div class="flex items-center mb-16">
+                        <span class="material-icons" style="font-size: 24px; margin-right: 8px;">palette</span>
+                        <h3 class="title-large">Brand & Messaging</h3>
+                    </div>
+                    <p class="body-medium mb-16" style="color: var(--md-sys-color-on-surface-variant);">
+                        Brand guidelines, voice, personas, and value propositions
+                    </p>
+                    <div style="border-top: 1px solid var(--md-sys-color-surface-variant); padding-top: 16px;">
+                        <a href="brand/Brand_Voice_Guide.md" style="display: block; margin-bottom: 8px;">Brand Voice Guide</a>
+                        <a href="brand/Audience_Personas.md" style="display: block; margin-bottom: 8px;">Audience Personas</a>
+                        <a href="brand/Value_Propositions.md" style="display: block; margin-bottom: 8px;">Value Propositions</a>
+                        <a href="brand/messaging-framework-v2.md" style="display: block;">Messaging Framework v2</a>
+                    </div>
+                </div>
+
+                <div class="md-card high-priority p-24">
+                    <div class="flex items-center mb-16">
+                        <span class="material-icons" style="font-size: 24px; margin-right: 8px;">edit_note</span>
+                        <h3 class="title-large">Content Strategy</h3>
+                    </div>
+                    <p class="body-medium mb-16" style="color: var(--md-sys-color-on-surface-variant);">
+                        Content planning, calendars, and production workflows
+                    </p>
+                    <div style="border-top: 1px solid var(--md-sys-color-surface-variant); padding-top: 16px;">
+                        <a href="strategy/content-planning/lead-nurturing-system.md" style="display: block; margin-bottom: 8px;">Lead Nurturing System</a>
+                        <a href="strategy/content-planning/q1-2025-substack-calendar.md" style="display: block; margin-bottom: 8px;">Q1 2025 Content Calendar</a>
+                        <a href="strategy/content-planning/weekly-content-planner.md" style="display: block;">Weekly Content Planner</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Medium Priority -->
+        <div class="mb-24">
+            <h2 class="headline-medium mb-16">
+                <span class="material-icons priority-medium" style="font-size: 28px; margin-right: 8px;">info</span>
+                Medium Priority - Supporting Materials
+            </h2>
+            <div class="grid grid-cols-1" style="grid-template-columns: 1fr 1fr; gap: 24px;">
+                <div class="md-card medium-priority p-24">
+                    <div class="flex items-center mb-16">
+                        <span class="material-icons" style="font-size: 24px; margin-right: 8px;">search</span>
+                        <h3 class="title-large">Market Research</h3>
+                    </div>
+                    <p class="body-medium mb-16" style="color: var(--md-sys-color-on-surface-variant);">
+                        Customer discovery, competitor analysis, and market insights
+                    </p>
+                    <div style="border-top: 1px solid var(--md-sys-color-surface-variant); padding-top: 16px;">
+                        <a href="research/" style="display: block; margin-bottom: 8px;">📁 Browse Research Folder</a>
+                        <a href="research/market-sizing/" style="display: block; margin-bottom: 8px;">Market Sizing Analysis</a>
+                        <a href="research/customer-discovery/" style="display: block;">Customer Discovery Interviews</a>
+                    </div>
+                </div>
+
+                <div class="md-card medium-priority p-24">
+                    <div class="flex items-center mb-16">
+                        <span class="material-icons" style="font-size: 24px; margin-right: 8px;">library_books</span>
+                        <h3 class="title-large">Content Library</h3>
+                    </div>
+                    <p class="body-medium mb-16" style="color: var(--md-sys-color-on-surface-variant);">
+                        Blog posts, case studies, newsletters, and video scripts
+                    </p>
+                    <div style="border-top: 1px solid var(--md-sys-color-surface-variant); padding-top: 16px;">
+                        <a href="content/" style="display: block; margin-bottom: 8px;">📁 Browse Content Folder</a>
+                        <a href="content/blog-posts/" style="display: block; margin-bottom: 8px;">Blog Posts</a>
+                        <a href="content/newsletters/" style="display: block;">Newsletter Series</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Low Priority -->
+        <div class="mb-24">
+            <h2 class="headline-medium mb-16">
+                <span class="material-icons priority-low" style="font-size: 28px; margin-right: 8px;">check_circle</span>
+                Low Priority - Sales Enablement
+            </h2>
+            <div class="md-card low-priority p-24" style="max-width: 400px;">
+                <div class="flex items-center mb-16">
+                    <span class="material-icons" style="font-size: 24px; margin-right: 8px;">business_center</span>
+                    <h3 class="title-large">Sales Support</h3>
+                </div>
+                <p class="body-medium mb-16" style="color: var(--md-sys-color-on-surface-variant);">
+                    Testimonials, social proof, and sales enablement materials
+                </p>
+                <div style="border-top: 1px solid var(--md-sys-color-surface-variant); padding-top: 16px;">
+                    <a href="sales/" style="display: block; margin-bottom: 8px;">📁 Browse Sales Folder</a>
+                    <a href="sales/customer-testimonials-library.md" style="display: block;">Customer Testimonials</a>
+                </div>
+            </div>
+        </div>
+
+        <!-- Instructions -->
+        <div class="md-surface p-24" style="background: var(--md-sys-color-secondary-container); color: var(--md-sys-color-on-secondary-container);">
+            <div class="flex items-center mb-16">
+                <span class="material-icons" style="font-size: 24px; margin-right: 8px;">lightbulb</span>
+                <h3 class="title-large">CMO Review Instructions</h3>
+            </div>
+            <div class="grid grid-cols-1" style="grid-template-columns: 1fr 1fr; gap: 24px;">
+                <div>
+                    <h4 class="title-large mb-8">📋 Recommended Review Order</h4>
+                    <ol style="list-style: decimal; padding-left: 20px; line-height: 1.8;">
+                        <li><strong>Strategy & Planning</strong> - Get the big picture first</li>
+                        <li><strong>Brand & Messaging</strong> - Understand positioning and voice</li>
+                        <li><strong>Content Strategy</strong> - See execution plans and calendars</li>
+                        <li><strong>Market Research</strong> - Customer and competitive insights</li>
+                    </ol>
+                </div>
+                <div>
+                    <h4 class="title-large mb-8">💡 Review Tips</h4>
+                    <ul style="list-style: disc; padding-left: 20px; line-height: 1.8;">
+                        <li>Start with red (high priority) sections</li>
+                        <li>Take notes on strategic alignment</li>
+                        <li>Identify resource gaps and opportunities</li>
+                        <li>Focus on execution readiness</li>
+                    </ul>
+                </div>
             </div>
         </div>
     </main>
-</body>
+  </body>
 </html>
