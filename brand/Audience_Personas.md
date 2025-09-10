@@ -32,16 +32,17 @@
 - **Technology adoption**: Limited time to learn new tools effectively
 
 **Content Preferences**:
+- **Self-service trial access**: Immediate hands-on experience with the product
 - **Efficiency case studies**: Examples of agencies using AI to improve margins
-- **Client success stories**: How to deliver better results and win more business
-- **Practical guides**: Step-by-step implementation and best practices
+- **"Try it yourself" content**: Guides that encourage product trial
+- **User success stories**: How other researchers achieved quick wins
 - **Industry networking**: LinkedIn content and peer discussions
-- **ROI calculators**: Clear business case tools for justifying investment
+- **Bottom-up adoption**: Content that helps researchers make internal case
 
 **Key Messages for Alex**:
+- "See immediate results with our free trial - no sales calls required"
+- "Your team can start saving time today"
 - "Win more business with AI-powered research capabilities"
-- "Deliver premium insights at competitive prices"
-- "Transform tedious tasks into competitive advantages"
 - "Purpose-built for research agencies, not generic AI tools"
 
 ---
@@ -80,9 +81,12 @@
 - Strives to build strong client relationships based on trust and expertise.
 
 **Technology Adoption**:
-- Early adopter of new technologies and tools.
-- Seeks solutions that streamline workflows and deliver tangible results.
-- Open to experimenting with AI-powered research tools to enhance efficiency and insights.
+- Early adopter of new technologies and tools
+- Prefers to test tools herself before recommending to management
+- Values self-service trial experiences over sales demos
+- Seeks solutions that streamline workflows and deliver tangible results
+- Open to experimenting with AI-powered research tools to enhance efficiency and insights
+- **PLG Behavior**: Likely to discover tool independently, trial it on real project, then advocate internally
 
 ---
 

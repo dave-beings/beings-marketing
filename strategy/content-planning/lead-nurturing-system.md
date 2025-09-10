@@ -1,13 +1,13 @@
-# Lead Nurturing System
+# User Success System (Formerly Lead Nurturing)
 
-*Welcome email sequences and lead magnet strategy for Agency Alex persona*
+*Trial user onboarding and activation sequences optimized for PLG approach*
 
 ## Overview
 
-**Primary Goal**: Convert newsletter subscribers and content consumers into qualified leads ready for product demo  
-**Target Persona**: Agency Alex (Research Agency Decision-Makers)  
-**Strategy**: Education-first nurturing that builds trust and demonstrates value before selling  
-**Timeline**: 8-week nurture sequence with multiple touchpoints  
+**Primary Goal**: Convert trial users into activated users and paying customers through product success  
+**Target Personas**: Agency Alex (Decision-Makers) + Sarah Lee (Practitioners)  
+**Strategy**: Product-led nurturing that helps users achieve value within the trial period  
+**Timeline**: 14-day trial activation sequence with usage-based triggers  
 
 ---
 
@@ -215,9 +215,9 @@ P.S. Our latest newsletter explores this topic in depth: [Newsletter Link]
 
 ---
 
-### **Email 6: Soft Demo Invitation** (Day 18)
+### **Email 6: Trial Invitation** (Day 18)
 
-**Subject**: "See ADA in action (no sales pitch, just demo)"
+**Subject**: "Ready to try ADA yourself? (Free 14-day trial)"
 
 **Content**:
 ```
@@ -227,22 +227,26 @@ Over the past few weeks, I've shared stories about agencies using AI to work sma
 
 You might be curious what this actually looks like in practice.
 
-I'd love to show you a quick demo of ADA - our co-intelligence platform. No sales pitch, just a 15-minute walkthrough of how it works with real research data.
+Instead of just talking about it, why not try it yourself?
 
-You'll see:
-• How it structures unorganized interview feedback
-• The psychometric analysis that Ben called "like having our own little psychiatrist"
-• How it learns your briefing style and methodology
-• The quality of insights it generates
+Start your free 14-day trial of ADA - no credit card required, no sales calls, just you and the platform.
 
-Interested? Just hit reply and I'll send over some times that work.
+You'll be able to:
+• Upload your own interview data and see the analysis
+• Experience the psychometric insights Ben called "like having our own little psychiatrist"
+• Test how it learns your briefing style and methodology
+• Generate insights from your real research data
 
-If not, no worries - I'll keep sharing useful insights either way.
+Ready to see what ADA can do for your work?
+
+Start your free trial: [Trial Signup Link]
+
+Questions? Just hit reply - I'm here to help you succeed.
 
 Best,
 Dave
 
-P.S. Here's what Ben from Quadrangle said after using it: "I'll buy your hand off for that." 
+P.S. Most researchers see value within their first session. Give it 15 minutes and see what you think.
 ```
 
 ---
@@ -279,7 +283,7 @@ P.S. All 19 interviews confirmed the same thing: researchers want to focus on in
 
 ---
 
-### **Email 8: Final Value Proposition** (Day 32)
+### **Email 8: Final Trial Push** (Day 32)
 
 **Subject**: "The choice every research agency faces"
 
@@ -303,11 +307,13 @@ The Google team saved $28M and called it "the future of research."
 
 The pattern is clear: AI isn't replacing researchers. It's elevating them.
 
-Ready to see what elevation looks like for your agency?
+Ready to experience elevation for yourself?
 
-Book a 15-minute demo here: [Demo Booking Link]
+Start your free trial here: [Trial Signup Link]
 
-Or if you have questions, just hit reply. I'm here to help.
+No meetings, no demos, no sales calls. Just you, your data, and ADA.
+
+Questions? Hit reply - I'm here to help you succeed.
 
 Best,
 Dave

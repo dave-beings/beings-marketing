@@ -197,49 +197,51 @@ See `content/Provisional_Brand_Voice_Guide.md` for complete guidelines.
 4. **Implement technical infrastructure** to support lead generation and nurturing
 5. **Scale content operations** with structured calendar and repurposing workflows
 
-## 🚀 Development Roadmap
+## 🚀 Development Roadmap - PLG-First Approach
 
-This roadmap is organized into three core missions, designed to build a complete marketing and sales engine. Each mission builds on the last, from establishing a repeatable sales process to scaling our reach.
+**STRATEGIC SHIFT**: Moving from traditional B2B sales-led to Product-Led Growth (PLG) approach optimized for solo founder + fractional CMO team structure.
 
-### **Mission 1: Build the Conversion Engine (Next 3 Months)**
+This roadmap is organized into three core missions, designed to build a complete product-led growth engine. Each mission builds on the last, from establishing a self-service product experience to scaling reach.
 
-**Goal:** Equip the sales team with everything they need to close deals and create a system to nurture leads into customers. This is the highest priority.
+### **Mission 1: Build the Product-Led Conversion Engine (Next 3 Months)**
 
-| **Initiative** | **Key Deliverables** | **Success Metric** |
-| :--- | :--- | :--- |
-| **1. Sales Enablement Foundation** | • Expanded Sales Playbook<br>• Objection Handling Guide<br>• Demo Scripts<br>• First 3 Case Studies | • Time to First Demo <br>• Demo-to-Trial Conversion Rate |
-| **2. Brand Asset Pack** | • **Visual Brand Guidelines** (Logo, Color, Typography)<br>• Master Slide Deck Template<br>• Social Media Image Templates | • Time to create new asset <br>• Brand consistency score |
-| **3. Lead Nurturing System** | • Welcome Email Sequence<br>• Lead Magnet (e.g., "AI in Research" Whitepaper)<br>• Automated Nurture Campaign (5 emails) | • Lead-to-MQL Conversion Rate<br>• Email Open/Click Rates |
-| **4. Customer Success Kickstart** | • Customer Onboarding Checklist<br>• First Retention Email Sequence | • Time to "Aha!" Moment<br>• 30-day Retention Rate |
-
-### **Mission 2: Scale Lead Generation (Months 4-6)**
-
-**Goal:** Move from foundational selling to a scalable system for generating and qualifying leads through multiple channels.
+**Goal:** Make the product itself the primary driver of user acquisition, activation, and conversion. Focus dev resources on frictionless self-service experience.
 
 | **Initiative** | **Key Deliverables** | **Success Metric** |
 | :--- | :--- | :--- |
-| **1. Performance Marketing Launch** | • Analytics & KPI Dashboard<br>• Lead Scoring Model<br>• First A/B Test Framework (Landing Page)<br>• Initial Paid Ad Campaigns (LinkedIn) | • Cost Per MQL<br>• MQL-to-SQL Conversion Rate<br>• Landing Page Conversion Rate |
-| **2. Content Repurposing Engine** | • Content Atomization Playbook (Blog to Social)<br>• SEO Keyword Strategy & On-Page SEO Guide<br>• Video Content from Blog Posts | • Organic Traffic Growth (MoM)<br>• Keyword Rankings for Top 10 Terms |
-| **3. Social Media System** | • Platform-Specific Content Playbooks<br>• Community Engagement SOPs<br>• Social Proof & Testimonial Workflow | • Social Media Engagement Rate<br>• Website Traffic from Social |
+| **1. Frictionless Trial Experience** | • Self-service signup flow<br>• Instant product access<br>• Guided onboarding in-app<br>• First value within 5 minutes | • Trial signup conversion<br>• Time to first value<br>• Trial-to-paid conversion >23.4% |
+| **2. User Success Content** | • In-app tutorials and tooltips<br>• Email sequence for trial users<br>• "Quick Win" use case guides<br>• Progress tracking dashboard | • Feature adoption rates<br>• User engagement scores<br>• Trial completion rates |
+| **3. Product-Qualified Lead System** | • Usage milestone tracking<br>• Behavioral scoring model<br>• Automated upgrade prompts<br>• High-intent user identification | • PQL-to-paid conversion<br>• Sales efficiency metrics<br>• User activation rates |
+| **4. Social Proof Integration** | • In-product testimonials<br>• Case study snippets<br>• User success stories<br>• Trust indicators throughout flow | • Conversion lift from social proof<br>• User confidence metrics<br>• Trial-to-paid improvement |
 
-### **Mission 3: Amplify Market Presence (Months 7-12)**
+### **Mission 2: Scale Product-Led Acquisition (Months 4-6)**
 
-**Goal:** Expand our reach through strategic partnerships, events, and thought leadership to become a recognized voice in the industry.
+**Goal:** Build scalable channels that drive qualified users directly into the product experience, reducing dependency on sales.
 
 | **Initiative** | **Key Deliverables** | **Success Metric** |
 | :--- | :--- | :--- |
-| **1. Partnership Program** | • Co-marketing & Affiliate Program Framework<br>• Partner Onboarding Kit<br>• First 3 Strategic Partnerships | • Leads Generated from Partners<br>• Partner Activation Rate |
-| **2. Thought Leadership Platform** | • PR & Media Kit<br>• Webinar & Event Strategy<br>• Speaker Bureau & Topics | • Media Mentions / Backlinks<br>• Webinar Attendance & Leads |
-| **3. Internationalization Toolkit** | • Market Localization Guide (for US/EU)<br>• Region-Specific Messaging | • Website Traffic from Target Regions<br>• International Leads |
+| **1. Content-to-Product Funnel** | • "Start Free Trial" as primary CTA<br>• Landing pages optimized for trial signup<br>• SEO content with trial CTAs<br>• Newsletter with product integration | • Trial signup rate from content<br>• Content-to-activation conversion<br>• Organic trial acquisition |
+| **2. Referral & Viral Loops** | • In-product sharing features<br>• User referral program<br>• Team collaboration features<br>• Success story sharing | • Viral coefficient (K-factor)<br>• Referral conversion rates<br>• User-generated acquisition |
+| **3. Community-Led Growth** | • User community platform<br>• Customer success showcases<br>• Peer-to-peer learning content<br>• Agency networking events | • Community engagement rates<br>• Community-to-trial conversion<br>• User advocacy scores |
 
-## 🎯 Immediate Next Steps (Based on Comprehensive Review)
+### **Mission 3: Scale Product-Led Revenue (Months 7-12)**
 
-### **🚨 URGENT: Foundation Fixes (Week 1-2)**
-1. **Complete Brand Foundation**
-   - [ ] Fill `Brand_Voice_Guide.md` using `messaging-framework-v2.md` content
-   - [ ] Document audience personas in `Audience_Personas.md` using customer interview insights
-   - [ ] Define content pillars based on existing content analysis
-   - [ ] Create value propositions framework from messaging v2
+**Goal:** Optimize the entire product-led funnel for sustainable growth and expand market presence through product-driven channels.
+
+| **Initiative** | **Key Deliverables** | **Success Metric** |
+| :--- | :--- | :--- |
+| **1. Product-Led Sales (PLS)** | • High-intent user identification<br>• Automated outreach for PQLs<br>• Self-service upgrade flows<br>• Usage-based pricing tiers | • PQL-to-customer conversion<br>• Average deal size growth<br>• Sales cycle reduction |
+| **2. Expansion Revenue Engine** | • Usage-based upsell triggers<br>• Feature adoption campaigns<br>• Team seat expansion flows<br>• Customer success automation | • Net Revenue Retention >110%<br>• Expansion revenue %<br>• Customer lifetime value |
+| **3. Market Expansion** | • Product localization<br>• Regional trial campaigns<br>• Local case studies<br>• Market-specific onboarding | • International trial signups<br>• Regional conversion rates<br>• Market penetration metrics |
+
+## 🎯 PLG-First Immediate Next Steps
+
+### **🚨 URGENT: PLG Foundation (Week 1-2)**
+1. **Complete Brand Foundation** ✅ COMPLETED
+   - [x] Fill `Brand_Voice_Guide.md` using `messaging-framework-v2.md` content
+   - [x] Document audience personas in `Audience_Personas.md` using customer interview insights
+   - [x] Define content pillars based on existing content analysis
+   - [x] Create value propositions framework from messaging v2
 
 2. **Organize Content Strategy**
    - [ ] Create Q1 2025 editorial calendar for agency focus
@@ -253,37 +255,37 @@ This roadmap is organized into three core missions, designed to build a complete
    - [ ] Create proof point library with specific metrics
    - [ ] Document customer success stories for sales enablement
 
-### **🛠️ HIGH PRIORITY: Infrastructure (Week 3-8)**
-1. **Website Development**
-   - [ ] Build proper marketing website using React/TypeScript foundation
-   - [ ] Implement landing pages for Google Ads campaigns
-   - [ ] Add analytics tracking (GA4, Mixpanel)
-   - [ ] Create conversion funnels from content to trial
+### **🛠️ HIGH PRIORITY: PLG Infrastructure (Week 3-8)**
+1. **Product-Led Website**
+   - [ ] **Primary CTA: "Start Free Trial"** (not "Book Demo")
+   - [ ] Self-service trial signup flow
+   - [ ] Product-focused landing pages
+   - [ ] Trial user analytics tracking (GA4, Mixpanel)
 
-2. **Content Optimization**
-   - [ ] SEO optimize existing high-quality blog content
-   - [ ] Implement content performance tracking
-   - [ ] Create content repurposing workflows (blog → newsletter → social → video)
-   - [ ] Establish content distribution strategy
+2. **User Success Systems**
+   - [ ] In-app onboarding flow
+   - [ ] Trial user email automation
+   - [ ] Usage milestone tracking
+   - [ ] Product-qualified lead scoring
 
-3. **Lead Generation System**
-   - [ ] Set up HubSpot CRM integration as planned
-   - [ ] Launch Google Ads campaigns using existing strategy
-   - [ ] Implement MeetAlfred outbound as planned
-   - [ ] Create lead nurturing email sequences
+3. **Content-to-Product Funnel**
+   - [ ] Update all content CTAs to drive trial signups
+   - [ ] Create "try it yourself" content formats
+   - [ ] SEO optimize for trial-intent keywords
+   - [ ] Newsletter integration with product usage
 
-### **📈 GROWTH: Scale Operations (Month 3-6)**
-1. **Channel Development**
-   - [ ] Scale Substack newsletter with consistent publishing
-   - [ ] Execute podcast strategy with industry experts
-   - [ ] Build LinkedIn social media presence
-   - [ ] Develop video content from existing scripts
+### **📈 PLG GROWTH: Scale Product Adoption (Month 3-6)**
+1. **Product-Led Channels**
+   - [ ] Content that drives trial signups (not just awareness)
+   - [ ] User-generated content and success stories
+   - [ ] Community-driven growth initiatives
+   - [ ] Referral and viral product features
 
-2. **Performance Optimization**
-   - [ ] Track key metrics: >23.4% trial conversion, >50% retention at 6 months
-   - [ ] Optimize conversion funnel based on data
-   - [ ] A/B test messaging and value propositions
-   - [ ] Refine ICP based on actual customer behavior
+2. **Product-Led Metrics**
+   - [ ] Trial-to-paid conversion >23.4%
+   - [ ] Time to first value <24 hours
+   - [ ] Product-qualified lead conversion
+   - [ ] User activation and retention cohorts
 
 *This plan leverages the strong foundation already established in brand positioning, customer research, and content strategy while addressing critical execution gaps.*
 
