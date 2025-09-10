@@ -20,6 +20,9 @@ const config: Config = {
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/beings-marketing/',
 
+  // Redirect homepage to knowledge base
+  trailingSlash: false,
+
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: 'dave-beings', // Usually your GitHub org/user name.
@@ -92,12 +95,6 @@ const config: Config = {
         src: 'img/beings-logo.svg',
       },
       items: [
-        {
-          type: 'docSidebar',
-          sidebarId: 'tutorialSidebar',
-          position: 'left',
-          label: 'Knowledge Base',
-        },
         {
           href: 'https://github.com/dave-beings/beings-marketing',
           label: 'GitHub',
