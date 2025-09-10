@@ -21,14 +21,16 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          node-version: 18
-          cache: 'npm'
+          python-version: '3.x'
           
-      - name: Copy simple HTML
-        run: cp index-simple.html index.html
+      - name: Install MkDocs
+        run: pip install mkdocs-material
+        
+      - name: Build MkDocs
+        run: mkdocs build
         
       - name: Setup Pages
         uses: actions/configure-pages@v4
@@ -36,7 +38,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: './'
+          path: './site'
 
   deploy:
     environment:
