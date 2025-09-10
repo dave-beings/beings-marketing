@@ -603,7 +603,7 @@ Dave
 #### **ARR-to-CPA Relationship**
 - **Sustainable Range**: 10-20% of ARR = £2,000–£4,000 CPA
 - **Early-Stage Acceptable**: Up to 30% of ARR = £6,000 CPA (while testing product-market fit)
-- **Long-term Target**: <15% of ARR = <£3,000 CPA for sustainable growth
+- **Long-term Target**: &lt;15% of ARR = &lt;£3,000 CPA for sustainable growth
 
 ### **Channel-Specific CPA Expectations**
 

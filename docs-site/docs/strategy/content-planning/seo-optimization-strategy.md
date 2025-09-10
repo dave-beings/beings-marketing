@@ -261,7 +261,7 @@ Methodology articles → link to "Research Craft" content
 
 ### **Content Performance**:
 - **Average time on page**: >3 minutes
-- **Bounce rate**: <60%
+- **Bounce rate**: &lt;60%
 - **Pages per session**: >2.5
 - **Social shares**: 50+ per article
 
