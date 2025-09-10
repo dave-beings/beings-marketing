@@ -2,7 +2,13 @@
 
 ## Beings
 
-Objective: Validate the market, build initial credibility, and reach product-market fit as efficiently as possible.
+**Team**: Dave Johnstone, Lucy Woolfenden, Danielle Jones, Anna Sandford-James
+
+**Objective**: Validate the market, build initial credibility, and reach product-market fit as efficiently as possible.
+
+**Product Coordination**: 
+- **Q1 2025**: Product team focused on Google partnership and validation
+- **Q2 2025**: Major product investment in Aida integration and platform development
 
 # 🔥 Phase 0: Foundation (Weeks 1–2)
 
@@ -161,6 +167,53 @@ Objective: Validate the market, build initial credibility, and reach product-mar
 
 ---
 
+## **📧 Newsletter Strategy: Core Content Engine**
+
+### **Newsletter Purpose & Positioning**
+**Mission**: Make the reader the most informed employee about how AI enhances their work.
+
+**Key Objectives**:
+- Enable researchers to fight back against AI naysayers with intelligent, objective arguments
+- Position subscribers as the font of knowledge for any AI tool review in their organization
+- Encourage critical thinking and evidence-based opinions on AI in research
+- Debunk common myths about AI in general and research specifically
+- Build UK-specific insights while setting stage for global AI research exploration
+- Be the voice in researchers' heads - conversational, colleague-to-colleague tone
+
+**Target Outcome**: Help readers anticipate industry trends, adapt skillsets, and provide actionable AI guidance.
+
+### **Content Delivery Structure**
+For each newsletter topic:
+1. **Hero Substack piece** (main newsletter content)
+2. **Supporting website blog** (SEO-optimized, detailed)
+3. **Expert interview/quotes** (leveraging Anna's expert interview program)
+4. **Cross-channel promotion** (LinkedIn, organic social)
+
+### **Editorial Calendar (Q1 2025)**
+
+| Week | Topic | Key Insight | Status |
+|------|-------|-------------|---------|
+| **Week 1** | The research skills debate: Does AI make us lazy? | Researchers fear AI will diminish their critical thinking skills | LIVE |
+| **Week 2** | Ethics and accountability: Is AI removing the soul from research? | AI raises concerns about transparency and human judgment | LIVE |
+| **Week 3** | Why small agencies are SO important in the AI age | Small agencies offer agility and personalization that large firms can't match | LIVE (27th Feb) |
+| **Week 4** | Manual work in research - how much and why tolerate it? | Quantify time spent on manual tasks and cost of inaction | 6th Mar |
+| **Week 5** | Data overload: More insights, harder decisions | Having more data doesn't automatically improve decision-making | 13th Mar |
+| **Week 6** | Research fatigue: Are we over-surveying participants? | Participant burnout affects data quality and response rates | 20th Mar |
+| **Week 7** | The learning curve: Leveraging AI tools in research | Researchers struggle with AI adoption due to training/time constraints | 27th Mar |
+| **Week 8** | AI as research assistant: Delegating mundane, focusing on insight | Researchers want admin automation, not analysis replacement | 3rd Apr |
+| **Week 9** | Human oversight: Trusting AI without losing control | Balance between AI efficiency and human verification needs | 10th Apr |
+| **Week 10** | Future of research: AI as collaborative partner | Position AI as enhancer rather than replacer of human expertise | 17th Apr |
+| **Week 11** | AI identifies patterns, but can it understand why? | Explore limitations of AI in behavioral understanding | 24th Apr |
+| **Week 12** | Fast research, slow impact: Speed vs depth balance | Quick turnarounds don't always mean better insights | 1st May |
+
+### **Content Repurposing Workflow**
+1. **Long-form blog** (1,500 words) on website for SEO
+2. **Newsletter adaptation**: Personal hook + key insights + link to full article
+3. **LinkedIn content**: Bite-sized insights and discussion starters
+4. **Exclusive Substack content**: Unique insights not available elsewhere
+
+---
+
 ## **🛠 Suggested Tools (Grouped by Function)**
 
 | Function | Tools |
@@ -175,16 +228,69 @@ Objective: Validate the market, build initial credibility, and reach product-mar
 
 ---
 
+## **💰 Paid Strategy: Newsletter-Focused Acquisition**
+
+### **Google Search Ads**
+**Target**: Qualitative research-related search queries  
+**Approach**: Newsletter-focused ads with value proposition  
+**Example Creative**: "Insights for forward-thinking research agencies—be the smartest in the room."
+
+### **LinkedIn Strategy**
+
+#### **Lead Gen Ads**
+- Use LinkedIn's Lead Gen Forms to pre-fill email addresses and reduce friction
+- **Hook Example**: "Stay ahead in qualitative research: Exclusive insights straight to your inbox."
+
+#### **Sponsored Posts**
+- Promote high-performing Substack content with strong newsletter CTAs
+- Focus on posts addressing pain points or offering quick insights for researchers
+
+#### **Retargeting**
+- Retarget website visitors and LinkedIn content engagers with newsletter subscription ads
+
+### **Organic LinkedIn Execution**
+
+#### **Dave as Company Voice**
+- Share newsletter teasers: "This week's newsletter covers how research agencies can... [key insight]. Be the smartest in the office. Subscribe here."
+- Engage with research professionals and LinkedIn groups (qualitative research, market research communities)
+
+#### **Company Page (Aida's Page)**
+- Highlight top-performing newsletters with bite-sized insights
+- Consider LinkedIn's Newsletter feature to repackage Substack content
+
+### **Newsletter Sign-Up Optimization**
+
+#### **Website Placement**
+- **Homepage**: Top right banner with strong CTA
+- **Blog Posts**: Mid-post and end-of-article sign-up buttons
+- **Sidebar/Sticky Widget**: Non-intrusive, follows reader down page
+- **Exit-Intent Modal**: "Don't miss the latest in AI for research. Subscribe now."
+
+#### **LinkedIn Profile Optimization**
+- **Dave's Bio**: "Sharing AI insights for qualitative researchers—subscribe here [link]"
+- **Featured Section**: Clickable newsletter link
+- **Company About Section**: Newsletter link and pinned post
+
+## **🔄 Lead Management Strategy**
+
+### **Current Lead Handling (Q1)**
+**SoPro Leads**: No Aida trials available - focus on:
+1. **Meeting-focused approach**: Direct to consultation/discovery calls
+2. **Nurture funnel**: Educational content sequence preparing for Q2 product launch
+3. **Relationship building**: Position for early beta access when product ready
+
+**Question for Resolution**: Detailed lead nurture sequence and handoff process with João
+
 ## **📍 Traction Metrics to Watch**
 
-| Funnel Stage | Example Metric |
-| ----- | ----- |
-| Awareness | Website visitors, content views |
-| Interest | Email signups, waitlist |
-| Consideration | Calls booked, demos |
-| Activation | Product signups, time-to-first-use |
-| Retention | Weekly active users, churn |
-| Advocacy | Referrals, testimonials, NPS |
+| Funnel Stage | Example Metric | Q1 Target |
+| ----- | ----- | ----- |
+| Awareness | Website visitors, content views | Newsletter subscriber growth |
+| Interest | Email signups, waitlist | 5%+ LinkedIn CTR, newsletter engagement |
+| Consideration | Calls booked, demos | Meeting conversion from SoPro leads |
+| Activation | Product signups, time-to-first-use | Q2 preparation metrics |
+| Retention | Weekly active users, churn | Newsletter open/click rates |
+| Advocacy | Referrals, testimonials, NPS | Content sharing, engagement quality |
 
 ---
 

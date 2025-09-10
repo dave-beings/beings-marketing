@@ -95,22 +95,35 @@ From learnings in 2024, the Agency audience will be the key marketing focus duri
 
 ## Tactics explained: Building the audience
 
-Focus on building an audience through an off-platform newsletter. We will use Substack for this as its best for:
+### Off-Platform Newsletter Strategy
 
-1. Building a subscriber base of loyal market researchers.  
-2. Producing in-depth, regular newsletters or exclusive content.  
-3. Long-term audience engagement is a priority.
+Focus on building an audience through an off-platform newsletter using **Substack** as the primary platform.
 
-### Why build the newsletter off-platform?
+**Why Substack is optimal for our approach**:
+1. **Building a subscriber base of loyal market researchers** - Direct relationship with audience
+2. **Producing in-depth, regular newsletters** - Platform designed for substantial content  
+3. **Long-term audience engagement** - Built-in features for subscriber retention and growth
 
-Go where this audience is already 'hanging out'. Capitalise on existing audiences on external platforms as a means of reaching our audience when they aren't actively searching for specific solutions. 
+### Strategic Rationale: Off-Platform Approach
 
-1. Discoverability & trust building  
-   1. Audience are likely to be actively browsing here for knowledge and insights. Content can appear more credible when it’s published on respected platforms (transfer of trust)  
-2. Network effect  
-   1. More scope for community engagement. Content gets recommended by platform algorithms, comments and discussions increase visibility  
-3. Indirect Influence  
-   1. Creates familiarity before need arises. By contributing to external communities, it helps position Beings as a contributor to the industry
+**Core Principle**: Go where our audience is already 'hanging out' rather than trying to pull them to our owned properties.
+
+#### **1. Discoverability & Trust Building**
+- Research professionals actively browse Substack for industry knowledge and insights
+- Content appears more credible when published on respected platforms (transfer of trust)
+- Reduces barriers to initial engagement compared to gated company content
+
+#### **2. Network Effect & Algorithmic Amplification**  
+- Platform algorithms recommend content to similar audiences
+- Comments and discussions increase organic visibility
+- Cross-pollination with other research industry newsletters
+
+#### **3. Indirect Influence & Brand Building**
+- Creates familiarity before purchase need arises
+- Positions Beings as thought leader and industry contributor
+- Builds personal brand for founders alongside company brand
+
+**Expected Outcome**: Higher engagement rates and more qualified subscribers compared to traditional company newsletter approach.
 
 ## Key traffic drivers:
 
