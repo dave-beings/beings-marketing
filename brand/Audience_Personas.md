@@ -1,13 +1,14 @@
 # Audience Personas
 
-*Detailed profiles of Beings' target customers based on 19+ customer interviews and qualitative research, focusing on UK-based research agencies.*
+*Detailed profiles of Beings' target customers based on 19+ customer interviews and qualitative research, enhanced with insights from MRS 400 Company Analysis (2025) covering UK-based research agencies.*
 
 ## Primary Persona: The Agency Decision-Maker
 
 ### Agency Alex
 **Role**: Managing Director, Head of Insights, Research Director  
-**Company Size**: 10-100 employees (Small to medium agencies)  
+**Company Size**: 11-200 employees (SME agencies - validated by MRS 400 analysis as highest revenue segment)  
 **Industry**: Market Research Agency, Consulting, Strategy
+**Primary Focus**: Multisector (720 companies) or Consumer-focused Multisector (91 companies) - based on MRS 400 segmentation
 
 **Demographics**:
 - Age: 40-55
@@ -38,6 +39,24 @@
 - **User success stories**: How other researchers achieved quick wins
 - **Industry networking**: LinkedIn content and peer discussions
 - **Bottom-up adoption**: Content that helps researchers make internal case
+
+## Market Context (MRS 400 Analysis Insights)
+
+**Target Market Validation**:
+- **SME agencies (11-200 employees) dominate revenue** - confirmed as primary target
+- **Average company turnover**: £40.4M across dataset - substantial buying power
+- **Multisector focus dominates**: 720 companies serve multiple industries - broader addressable market
+- **Geographic expansion potential**: Multisector agencies have 361 countries with offices
+
+**Customer Landscape**:
+- **Technology sector agencies**: 53 countries presence - high-value international customers
+- **Healthcare/Pharma specialists**: 58 countries, premium pricing - willing to pay for specialized tools
+- **Public sector focus**: UK-based only - localized customer segment
+
+**Strategic Implications**:
+- **Primary target**: Multisector SME agencies (11-200 employees) - highest revenue potential
+- **Premium opportunity**: Healthcare/pharma agencies - willing to pay premium for specialized features
+- **Global expansion**: Follow multisector agency international footprint for market entry
 
 **Key Messages for Alex**:
 - "See immediate results with our free trial - no sales calls required"

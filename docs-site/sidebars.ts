@@ -24,9 +24,9 @@ const sidebars: SidebarsConfig = {
           type: 'category',
           label: '🎯 Strategy & Planning',
           items: [
-            'strategy/2025-marketing-strategy',
-            'strategy/2025-marketing-plan',
-            'strategy/2025-quarterly-objectives',
+            'strategy/marketing-strategy',
+            'strategy/marketing-plan',
+            'strategy/quarterly-objectives',
             'strategy/Marketing_OS',
           ],
         },
