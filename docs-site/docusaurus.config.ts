@@ -73,9 +73,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'Beings Marketing',
+      title: 'My Site',
       logo: {
-        alt: 'Beings Logo',
+        alt: 'My Site Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -83,10 +83,11 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Knowledge Base',
+          label: 'Tutorial',
         },
+        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/dave-beings/beings-marketing',
+          href: 'https://github.com/facebook/docusaurus',
           label: 'GitHub',
           position: 'right',
         },
