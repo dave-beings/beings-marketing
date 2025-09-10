@@ -61,9 +61,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/docusaurus-social-card.jpg',
     navbar: {
-      title: 'My Site',
+      title: 'Beings Marketing',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Beings Logo',
         src: 'img/logo.svg',
       },
       items: [
@@ -71,11 +71,10 @@ const config: Config = {
           type: 'docSidebar',
           sidebarId: 'tutorialSidebar',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Knowledge Base',
         },
-        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/dave-beings/beings-marketing',
           label: 'GitHub',
           position: 'right',
         },
@@ -85,46 +84,42 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Marketing Sections',
           items: [
             {
-              label: 'Tutorial',
-              to: '/docs/intro',
+              label: 'Strategy & Planning',
+              to: '/docs/strategy/2025-marketing-strategy',
+            },
+            {
+              label: 'Brand & Messaging',
+              to: '/docs/brand/Brand_Voice_Guide',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Resources',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+              label: 'Market Research',
+              to: '/docs/research/market-sizing-tam-sam-som',
             },
             {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'X',
-              href: 'https://x.com/docusaurus',
+              label: 'Sales Support',
+              to: '/docs/sales/customer-testimonials-library',
             },
           ],
         },
         {
-          title: 'More',
+          title: 'Links',
           items: [
             {
-              label: 'Blog',
-              to: '/blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              label: 'GitHub Repository',
+              href: 'https://github.com/dave-beings/beings-marketing',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Beings. Marketing Knowledge Base for CMO Review.`,
     },
     prism: {
       theme: prismThemes.github,
