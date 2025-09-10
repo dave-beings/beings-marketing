@@ -89,11 +89,7 @@ const config: Config = {
       },
     ],
     navbar: {
-      title: 'Beings',
-      logo: {
-        alt: 'Beings Logo',
-        src: 'img/beings-logo.svg',
-      },
+      title: 'Beings Marketing Knowledge Base',
       items: [
         {
           href: 'https://github.com/dave-beings/beings-marketing',
