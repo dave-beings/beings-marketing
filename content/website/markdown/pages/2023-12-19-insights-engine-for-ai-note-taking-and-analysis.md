@@ -1,0 +1,44 @@
+---
+title: "Insights Engine for AI Note-taking and analysis"
+date: 2023-12-19
+coverImage: "Studio-1-Single.png"
+---
+
+Insights Engine
+
+# AI note-taking & analysis for research
+
+#### Get insights from your video interviews faster than ever.
+
+![](images/Macbook-glow-2048x1271.png) 
+
+<iframe src="https://player.vimeo.com/video/896101481?controls=0
+&amp;h=42efa43eda&amp;badge=0&amp;autoplay=1&amp;loop=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="BEAM"></iframe>
+
+![](images/Macbook-glow.png)
+
+<iframe src="https://player.vimeo.com/video/896101460?controls=0
+&amp;h=42efa43eda&amp;badge=0&amp;autoplay=1&amp;loop=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="BEAM"></iframe>
+
+##### Add your videos
+
+# Upload your videos or record a meeting
+
+Capture and transcribe accurately and effortlessly. 
+
+[Learn more](#)
+
+Tagging
+
+# AI topic tagging
+
+#### Ask the AI to tag the key topics in the transcript.
+
+[Learn more](https://beings.com/studio/) ![](images/Macbook-glow-2048x1271.png)
+
+<iframe src="https://player.vimeo.com/video/896101529?controls=0
+&amp;h=42efa43eda&amp;badge=0&amp;autoplay=1&amp;loop=1&amp;autopause=0&amp;player_id=0&amp;app_id=58479&amp;muted=1" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="BEAM"></iframe>
+
+## Putting together a proposal?
+
+Let us help you get stakeholders on board. Answer a few questions and we'll generate a presentation you can download and share with your team.
