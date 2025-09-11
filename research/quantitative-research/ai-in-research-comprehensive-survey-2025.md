@@ -2,9 +2,9 @@
 
 ## A Paradigm Shift in Time, Technology, and Ethics
 
-# Executive Summary {#executive-summary}
+# Executive Summary \{#executive-summary\}
 
-## AI's Role in Revolutionising Research {#ai's-role-in-revolutionising-research}
+## AI's Role in Revolutionising Research \{#ai's-role-in-revolutionising-research\}
 
 This report summarises the findings of a comprehensive survey on researchers' perspectives on integrating artificial intelligence (AI) into research workflows. The survey covered various dimensions, including time allocation, interest in AI tools, and the potential impact of AI on research processes. The insights from the survey inform strategic recommendations for implementing AI within research environments, particularly in a business context.
 
@@ -38,7 +38,7 @@ The recommendations are as follows:
 
 # 
 
-# Table of Contents {#table-of-contents}
+# Table of Contents \{#table-of-contents\}
 
 [Executive Summary	1](#executive-summary)
 
@@ -106,7 +106,7 @@ The recommendations are as follows:
 
 [11\. Conclusion	37](#conclusion)
 
-## List of Tables {#list-of-tables}
+## List of Tables \{#list-of-tables\}
 
 [Table 1\. Average Time spent in repetitive administrative tasks	13](#table-1.-average-time-spent-in-repetitive-administrative-tasks)
 
@@ -120,7 +120,7 @@ The recommendations are as follows:
 
 [Table 6\. Participants’ Rating on Impactful AI Technologies on their Work	30](#table-6.-participants’-rating-on-impactful-ai-technologies-on-their-work)
 
-## List of Figures {#list-of-figures}
+## List of Figures \{#list-of-figures\}
 
 [Figure 1\. Distribution of Participants based on Gender	6](#figure-1.-distribution-of-participants-based-on-gender)
 
@@ -152,7 +152,7 @@ The recommendations are as follows:
 
 # 
 
-1. # Description of Survey  {#description-of-survey}
+1. # Description of Survey  \{#description-of-survey\}
 
 The survey is a comprehensive study that aims to gauge the research community's interest in and perceived impact of various AI technologies on research practices. The questionnaire is divided into multiple sections, each with questions requiring respondents to provide unique identifiers, industry focus, experience levels, and time allocation across research activities. The survey included 75 survey items and six open-ended questions, with the remaining being multiple-choice. 
 
@@ -170,11 +170,11 @@ The survey's goal is to identify key areas where AI can be most beneficial, as w
 
 The findings from this survey will be used to develop AI tools that are tailored to the needs and priorities of researchers.
 
-# 2\. Demographic Details of Participants  {#2.-demographic-details-of-participants}
+# 2\. Demographic Details of Participants  \{#2.-demographic-details-of-participants\}
 
 221 participants completed the survey. However, 14 participants did not provide their demographic information. Thus, a total of 207 participants demographic information is presented. 
 
-1. ## Industry of Participants {#industry-of-participants}
+1. ## Industry of Participants \{#industry-of-participants\}
 
 The survey results reveal a diverse array of industries where current research is being conducted, with a few dominant sectors emerging prominently. The most significant representation comes from the healthcare sector, encompassing 31.7% of the respondents. This indicates a strong focus on research in areas related to health, medicine, and associated fields, reflecting the sector's critical importance and dynamic nature. 
 
@@ -184,17 +184,17 @@ The e-commerce sector also shows notable representation, with 9.0% of the respon
 
 Apart from these leading sectors, the survey captures various other industries, each contributing to a smaller fraction of the total. These include architecture, engineering, education, finance, government, law and marketing. The presence of these diverse fields illustrates the broad applicability and interest in research across various domains, reflecting the multifaceted nature of contemporary research endeavours.
 
-2. ## Gender {#gender}
+2. ## Gender \{#gender\}
 
 The demographic breakdown of the survey participants presents a nearly equalitative distribution between genders, with females constituting 50.2% and males making up 49.8% of the respondents. This gender parity within the participant group provides a balanced perspective across the survey's findings, reflecting the views and insights of a diverse audience. The even representation could potentially contribute to a more comprehensive understanding of the attitudes towards AI integration in research across different gender experiences within the demographic.
 
-#### *Figure 1\. Distribution of Participants based on Gender* {#figure-1.-distribution-of-participants-based-on-gender}
+#### *Figure 1\. Distribution of Participants based on Gender* \{#figure-1.-distribution-of-participants-based-on-gender\}
 
 ![][image1]
 
 ## 
 
-3. ## Education Level {#education-level}
+3. ## Education Level \{#education-level\}
 
 The educational background of the survey participants reveals a highly educated demographic. The majority of respondents hold graduate degrees, encompassing 44.4%, which indicates a significant representation of those with advanced knowledge and expertise, likely impacting their perceptions and expectations of AI in research. 
 
@@ -202,13 +202,13 @@ Undergraduate degree holders account for 35.3%, suggesting that a substantial po
 
 This distribution showcases a broad spectrum of educational experiences, potentially correlating with a varied understanding and integration of AI technologies in their respective fields.
 
-#### *Figure 2\. Proportion of the Highest Education of Participants*  {#figure-2.-proportion-of-the-highest-education-of-participants}
+#### *Figure 2\. Proportion of the Highest Education of Participants*  \{#figure-2.-proportion-of-the-highest-education-of-participants\}
 
 ![][image2]
 
 ## 
 
-4. ## Participants’ Age  {#participants’-age}
+4. ## Participants’ Age  \{#participants’-age\}
 
 The participant age distribution in the survey spans from 20 to 69 years, with an average age of 34 and a standard deviation of 10 years. This indicates a relatively young cohort with a significant representation in the early and mid-career stages. The age bracket of 26-31 years holds the most significant percentage of participants at 27.7%, suggesting that the sample has a strong contingent of professionals potentially in the early stages of establishing their careers. 
 
@@ -218,27 +218,27 @@ These brackets could represent seasoned professionals with deeper expertise and 
 
 Overall, the age distribution highlights a diverse mix of youth and experience within the participant pool, which could reflect a wide range of perspectives on using AI in research and related fields.
 
-#### *Figure 3\. The proportion of Participants in each Age Bracket*  {#figure-3.-the-proportion-of-participants-in-each-age-bracket}
+#### *Figure 3\. The proportion of Participants in each Age Bracket*  \{#figure-3.-the-proportion-of-participants-in-each-age-bracket\}
 
 ![][image3]
 
-5. ## Ethnicity of Participants {#ethnicity-of-participants}
+5. ## Ethnicity of Participants \{#ethnicity-of-participants\}
 
 The ethnic composition of the survey participants is predominantly White, comprising 57.0% of the total respondents, suggesting that the majority of feedback and perspectives captured may be representative of this demographic. Asian and Black participants are almost equalitatively represented, with 15.5% and 15.9%, respectively, indicating a significant contribution from these groups to the survey insights. Those identifying as Mixed ethnicity constitute 7.2%, while a smaller fraction of participants, at 4.3%, have specified their ethnicity as 'Other'. 
 
 This ethnic diversity among the respondents ensures a range of cultural and potentially varying academic backgrounds, which may influence their approach to and opinions on the use of AI in research practices.
 
-#### *Figure 4\. Ethnicity distribution of the Participants*  {#figure-4.-ethnicity-distribution-of-the-participants}
+#### *Figure 4\. Ethnicity distribution of the Participants*  \{#figure-4.-ethnicity-distribution-of-the-participants\}
 
 ![][image4]
 
-6. ## Country of Residence  {#country-of-residence}
+6. ## Country of Residence  \{#country-of-residence\}
 
 The survey participants are almost evenly split between the United Kingdom and the United States, with 50.7% residing in the UK and 49.3% residing in the US. 
 
 This geographical distribution indicates a balanced representation from both sides of the Atlantic, allowing for a comparative understanding of research practices and attitudes towards AI tools in these two nations. 
 
-7. ## Employment Status  {#employment-status}
+7. ## Employment Status  \{#employment-status\}
 
 The demographic data regarding the employment status of participants reveals a majority are engaged in full-time work, with 69.6% of respondents indicating this as their primary employment status. This suggests a high level of professional commitment among the participants, which is likely to reflect in their research involvement or interest in AI applications within their professional activities. 
 
@@ -248,25 +248,25 @@ Those who are actively seeking employment account for 4.3% of the participants, 
 
 These insights into employment statuses can aid in tailoring AI research tools to meet the varied needs and time availability of the research community.
 
-#### *Figure 5\. Employment Status of Participants*  {#figure-5.-employment-status-of-participants}
+#### *Figure 5\. Employment Status of Participants*  \{#figure-5.-employment-status-of-participants\}
 
 ![][image5]
 
-8. ## Years of Experience  {#years-of-experience}
+8. ## Years of Experience  \{#years-of-experience\}
 
 The survey data provides insightful perspectives on the demographic and operational aspects of the research community. Specifically, when examining the years of research experience, a significant plurality of respondents (36.2%) report having between 1-3 years of experience, indicative of a substantial presence of early-career researchers in the field. This is closely followed by those with over 7 years of experience (35.7%), demonstrating a balanced mix of both novice and seasoned researchers. 
 
 Mid-level researchers, with 4-6 years of experience, constitute 19.5% of the participants, while those with less than a year of experience account for 8.6%, reflecting an influx of new entrants into the research domain.
 
-#### *Figure 6\. Participants’ Years of Experience in Research* {#figure-6.-participants’-years-of-experience-in-research}
+#### *Figure 6\. Participants’ Years of Experience in Research* \{#figure-6.-participants’-years-of-experience-in-research\}
 
 ![][image6]
 
-# 3\. How Researcher’s spend their time {#3.-how-researcher’s-spend-their-time}
+# 3\. How Researcher’s spend their time \{#3.-how-researcher’s-spend-their-time\}
 
 This section was further divided into subsections to capture participant opinion regarding the average time they spent with research participants, average monthly time spent in administrative work and average time spent in actual research-related work. Further details of each section are discussed in the following. 
 
-## 3.1 Average Time Spent with Research Participants  {#3.1-average-time-spent-with-research-participants}
+## 3.1 Average Time Spent with Research Participants  \{#3.1-average-time-spent-with-research-participants\}
 
 In terms of engagement with research participants, the survey reveals a diverse range of interaction levels. A notable 28.1% of researchers spend less than 10% of their work time directly communicating with participants, suggesting a reliance on indirect or secondary research methods. The next significant segment (16.3%) spends 10-20% of their time in such interactions, indicating a moderate level of participant engagement. 
 
@@ -274,7 +274,7 @@ The remaining categories, spanning 21-100% of time spent in direct communication
 
 Interestingly, a small proportion of respondents (5.9%) indicate that direct interaction with research participants is not applicable to their work, highlighting the presence of purely theoretical or non-empirical research methodologies within the field.
 
-#### *Figure 7\. Time Spent directly talking with Research Participants* {#figure-7.-time-spent-directly-talking-with-research-participants}
+#### *Figure 7\. Time Spent directly talking with Research Participants* \{#figure-7.-time-spent-directly-talking-with-research-participants\}
 
 ![][image7]
 
@@ -300,7 +300,7 @@ This research’s Participants were also asked if they feel that the amount of t
 
 These responses collectively suggest that while researchers recognise the importance of interacting with participants, the reality of research practices—dominated by administrative responsibilities, data processing demands, and various logistical challenges—often limits this interaction. 
 
-## 3.2 Average Time Spent in Administrative Tasks  {#3.2-average-time-spent-in-administrative-tasks}
+## 3.2 Average Time Spent in Administrative Tasks  \{#3.2-average-time-spent-in-administrative-tasks\}
 
 An analysis of the allocation of work time between repetitive administrative tasks and actual research activities among the survey respondents reveals a noteworthy distribution. A substantial portion of the participants, specifically 24.0%, report spending 21-30% of their work time on administrative tasks, which suggests that such tasks take up a significant chunk of the researchers' schedules. The next most common range is 31-40%, with 16.7% of respondents falling into this category. 
 
@@ -308,7 +308,7 @@ Interestingly, only 7.2% of researchers spend less than 10% of their time on the
 
 Those reporting that they devote between 61% and 100% of their time to administrative tasks make up a combined 17.7%, showcasing that for some researchers, administrative responsibilities occupy most of their work time. 
 
-##### *Table 1\. Average Time spent in repetitive administrative tasks*  {#table-1.-average-time-spent-in-repetitive-administrative-tasks}
+##### *Table 1\. Average Time spent in repetitive administrative tasks*  \{#table-1.-average-time-spent-in-repetitive-administrative-tasks\}
 
 | On average, what percentage of your work time is spent on repetitive administrative tasks as opposed to actual research activities? Please choose the most accurate range. |  |  |
 | :---- | ----- | ----- |
@@ -326,7 +326,7 @@ Those reporting that they devote between 61% and 100% of their time to administr
 
 Furthermore, participants were asked if a significant portion of their time is spent on administrative tasks, what types of tasks consume the most time. The participants' responses to the open-ended question about the types of administrative tasks that consume the most time indicate several key activities, as shown in the following figure:
 
-#### *Figure 8\. Major Administrative tasks that consume the most time*  {#figure-8.-major-administrative-tasks-that-consume-the-most-time}
+#### *Figure 8\. Major Administrative tasks that consume the most time*  \{#figure-8.-major-administrative-tasks-that-consume-the-most-time\}
 
 1. Data Entry: This is frequently cited as a significant time-consuming task, with many participants indicating that it requires meticulous attention to detail and often involves transferring data from various sources into digital formats.
 
@@ -344,7 +344,7 @@ Furthermore, participants were asked if a significant portion of their time is s
 
 These tasks are critical for the maintenance of research integrity and project management, but they also divert time away from core research activities and participant interaction. The responses suggest a need for more efficient processes, possibly through automation or better administrative support, to enable researchers to dedicate more time to the substantive aspects of their research.
 
-1. ## Average percentages of time spent on different stages of the research process {#average-percentages-of-time-spent-on-different-stages-of-the-research-process}
+1. ## Average percentages of time spent on different stages of the research process \{#average-percentages-of-time-spent-on-different-stages-of-the-research-process\}
 
 Participants were asked to estimate the percentage of time they typically spend on each of the following stages of the research process. The survey's quantitative analysis of the time allocation across various stages of the research process presents an informative breakdown in the following figure. 
 
@@ -365,35 +365,35 @@ Conversely, the data collection and analysis phases appear to be the most time-c
 
 The reporting phase sees an even split, with half of the participants spending less than 10% and the other 42% spending between 10 to 19% of their time. Lastly, the review and publish phase has the largest percentage of respondents (65%) spending less than 10% of their time, which may suggest a relative efficiency in finalising and disseminating research findings or possibly the involvement of external parties in the publication process.
 
-#### *Figure 9\. Percentage of Time Spend on Each Research Stage*  {#figure-9.-percentage-of-time-spend-on-each-research-stage}
+#### *Figure 9\. Percentage of Time Spend on Each Research Stage*  \{#figure-9.-percentage-of-time-spend-on-each-research-stage\}
 
 ![][image8]
 
 ![][image9]
 
-2. ##  Average Time Duration in Completing Research Study {#average-time-duration-in-completing-research-study}
+2. ##  Average Time Duration in Completing Research Study \{#average-time-duration-in-completing-research-study\}
 
 In terms of time duration to complete a study, participants reported the approximate time typically it takes them to complete a research study from start to finish. A small minority of researchers (5%) report the ability to complete a study in less than one week, which may suggest the execution of rapid, focused, and possibly smaller-scale studies. An equalitative proportion (5%) indicates a completion time between 1-2 weeks. The distribution of completion times broadens significantly for longer durations. Each of the intervals from 3-4 weeks to more than 12 months garners a notable fraction of the total, each accounting for approximately 14% of the responses. This reflects that a significant number of research projects are medium to long-term endeavours, with 3-4 weeks and 1-2 months being common timeframes, each reported by 14% of participants. Similarly, projects extending between 3-4 months, 5-6 months, and 7-12 months, each occupy 11% of respondents' experiences.
 
 Importantly, a consistent 14% of participants note that their research extends beyond 12 months, highlighting the existence of extensive, possibly multi-phase or longitudinal studies that require substantial time investment. Additionally, 12% of the participants acknowledge that the time it takes to complete a research study "varies significantly," which underscores the dynamic nature of research projects that can be influenced by various factors such as changes in scope, unexpected results, or external dependencies.
 
-#### *Figure 10\. Average Time Duration to Complete the Research Study*  {#figure-10.-average-time-duration-to-complete-the-research-study}
+#### *Figure 10\. Average Time Duration to Complete the Research Study*  \{#figure-10.-average-time-duration-to-complete-the-research-study\}
 
 ![][image10]
 
 As a follow-up question, participants were also asked if the duration of their research studies varies widely, could they briefly describe the factors that influence the length of time spent. The participants’ responses to the question about the factors influencing the length of time spent on research studies underscore several key determinants described in the following figure.
 
-#### *Figure 11\. Factors that Influence the Time Spent on a Research Study*  {#figure-11.-factors-that-influence-the-time-spent-on-a-research-study}
+#### *Figure 11\. Factors that Influence the Time Spent on a Research Study*  \{#figure-11.-factors-that-influence-the-time-spent-on-a-research-study\}
 
-2. # Budgeting in Research  {#budgeting-in-research}
+2. # Budgeting in Research  \{#budgeting-in-research\}
 
 The survey data regarding the budget allocation for single research studies as well as monthly budgets for research activities as described in the following sections. 
 
-1. ## Budget for Single Research Study  {#budget-for-single-research-study}
+1. ## Budget for Single Research Study  \{#budget-for-single-research-study\}
 
 The survey data regarding the budget allocation for single research studies within organisations reveals a distribution that spans a wide range of financial resources. The most common budget range reported by participants is $5,001 to $10,000, which accounts for 18.6% of the responses, suggesting that a significant number of research studies are conducted with modest funding. This is closely followed by the $1,000 to $5,000 bracket, representing 16.3% of the studies, further indicating that many research projects operate with limited financial support. In contrast, a smaller proportion of studies benefit from higher budgets, with 14.5% of participants reporting allocations of $10,001 to $25,000, and an equalitative percentage of 10.0% for both $25,001 to $50,000 and $100,001 to $250,000 ranges. The $50,001 to $100,000 bracket encompasses 10.9% of the studies, highlighting that a non-negligible segment of research work is backed by substantial funding, allowing for more expansive and potentially more complex research activities. Interestingly, 8.6% of the studies have the luxury of a budget exceeding $250,000, suggesting the presence of highly funded research projects which likely have the scope for extensive, possibly multi-disciplinary or long-term research endeavours.
 
-##### *Table 2\. Average Budget Allocation for a Single Research Study*  {#table-2.-average-budget-allocation-for-a-single-research-study}
+##### *Table 2\. Average Budget Allocation for a Single Research Study*  \{#table-2.-average-budget-allocation-for-a-single-research-study\}
 
 | Amount | Count | Percentage |
 | :---- | :---- | :---- |
@@ -409,17 +409,17 @@ The survey data regarding the budget allocation for single research studies with
 
 As a follow-up question participants were asked If there are specific factors that significantly impact the budget of their research studies. The participants' responses highlight several key factors that significantly influence the budget of research studies, each contributing to the financial requirements of conducting research.
 
-#### *Figure 12\. Factors that Impact the Budget of Research Studies*  {#figure-12.-factors-that-impact-the-budget-of-research-studies}
+#### *Figure 12\. Factors that Impact the Budget of Research Studies*  \{#figure-12.-factors-that-impact-the-budget-of-research-studies\}
 
 These factors are commonly highlighted as the primary drivers behind the budgeting for research, affecting how financial resources are allocated and managed throughout the research process. Understanding these factors can help organisations and researchers better prepare and allocate resources to meet the financial demands of their research endeavours.
 
-2. ## Monthly Budget for Research Activities  {#monthly-budget-for-research-activities}
+2. ## Monthly Budget for Research Activities  \{#monthly-budget-for-research-activities\}
 
 Furthermore, participants were also asked to mention their organisations’ average monthly budget allocation specifically for research activities. Following figure shows the proportion of monthly budget allocation in research activities by various organisations. 
 
 The distribution of monthly budgets allocated for research activities across various organisations, as indicated by the survey, shows a wide range of funding levels. The largest single group, comprising 12.6% of the organisations, allocates more than $250,000 per month for research, highlighting the presence of entities engaged in extensive research activities with substantial financial backing. Close behind, each with slightly over 10% of responses, are organisations with smaller monthly budgets ranging from $1,000 to $5,000 and those who did not disclose their budget. Budgets of $5,001 to $10,000 and $10,001 to $25,000 per month each represent approximately 9.8% and 9.3% of the responses, respectively, indicating that a significant number of organisations have moderate funding levels for research. In contrast, a smaller percentage of organisations work with very limited funds, with 3.7% having less than $50 per month and 6.1% having between $51 and $100.
 
-#### *Figure 13\. Monthly Average Budget Allocation for Research Activities*  {#figure-13.-monthly-average-budget-allocation-for-research-activities}
+#### *Figure 13\. Monthly Average Budget Allocation for Research Activities*  \{#figure-13.-monthly-average-budget-allocation-for-research-activities\}
 
 ![][image11]
 
@@ -439,7 +439,7 @@ As a follow-up question, participants were asked if there are specific factors t
 
 These factors combined suggest that the variability in monthly research budgets is tied to internal project demands and external economic conditions. 
 
-3. # Research Methods Used {#research-methods-used}
+3. # Research Methods Used \{#research-methods-used\}
 
 Approximately two-thirds of the participants used survey and questionnaire methods for their studies. Surveys and questionnaires emerged as the predominant research method used by participants, with a substantial 67% utilising this approach in the last 12 months. This suggests a strong preference for methods that can capture a wide range of data directly from participants in a structured manner. 
 
@@ -447,11 +447,11 @@ Web analytics and heatmaps are also among the methods employed, at 7% and 6%, re
 
 Specialised methods such as eye-tracking studies, usability testing, and biometric response analysis are less commonly used, constituting 2% or less of the responses. More niche methods like ethnographic studies, diary studies, experience sampling, and blockchain for provenance were not reported as being used by the participants, suggesting either a lack of applicability to their research needs or a preference for more established methods.
 
-4. # Ratio of Researchers in the Organisation  {#ratio-of-researchers-in-the-organisation}
+4. # Ratio of Researchers in the Organisation  \{#ratio-of-researchers-in-the-organisation\}
 
 The Following table shows approximately the ratio of researchers to the total number of employees. The ratio of researchers to total employees within organisations varies, reflecting different emphases on research within their operational structures. A notable 28.5% of organisations have a high concentration of researchers, with a ratio of 1:1-10, indicating that research is a significant part of their activity. In contrast, 16.7% of organisations maintain a ratio of 1:11-20, and 14.9% have a ratio of 1:21-50, suggesting a moderate emphasis on research activities relative to their total employee count. A smaller percentage of organisations, 9.5% and 5.9%, respectively, have a lower prevalence of researchers, with ratios of 1:51-100 and 1:101-200. This might reflect a larger employee base engaged in non-research roles or a more focused investment in a select number of researchers. An even smaller group, 8.1%, have a ratio of 1:201 or more, which indicates that research roles are quite specialised and few relative to the total workforce. Interestingly, 16.3% of the responses indicate that the question is not applicable, possibly because their entire organisation is research-focused. This suggests that for these entities, the majority, if not all, employees are engaged in research.
 
-##### *Table 3\. Ratio of Researchers to the Total Number of Employees*  {#table-3.-ratio-of-researchers-to-the-total-number-of-employees}
+##### *Table 3\. Ratio of Researchers to the Total Number of Employees*  \{#table-3.-ratio-of-researchers-to-the-total-number-of-employees\}
 
 |  Ratio | Count | Percentages |
 | :---- | :---- | :---- |
@@ -481,11 +481,11 @@ With the follow-up question, participants were also asked to respond if there ar
 
 These factors suggest that the researcher-to-employee ratio is dynamic and can vary widely across different organisations, influenced by internal considerations like project needs and strategic direction, and external factors such as market demands and funding opportunities.
 
-5. # Application of AI in Research Process {#application-of-ai-in-research-process}
+5. # Application of AI in Research Process \{#application-of-ai-in-research-process\}
 
 The survey highlights researchers' varied perspectives on integrating AI into research processes. Most respondents are somewhat interested in using predictive analytics to define research objectives, indicating a cautious optimism about AI's potential to refine the direction of their studies. When it comes to automated stakeholder alignment via NLP, the majority perceive it to have a moderate impact, suggesting that while seen as beneficial, it may not be a game-changer for all. The concept of AI-based automated method selection is met with enthusiasm, as a significant majority see its usefulness, signalling an openness to AI-assisted decision-making in research design. Conversely, there's a split in attitudes towards chatbots for surveys and automated A/B testing, reflecting a mix of potential interest and scepticism about the efficacy and application of these tools. The ethical use of emotion or sentiment analysis, mainly via facial recognition, divides opinion evenly, illustrating the ethical considerations researchers grapple with concerning AI. Interest in automated coding and tagging for qualitative data is moderately high, indicating a trend towards embracing AI for data management. Anomaly detection is viewed as having a high to moderate impact by most, pointing to a recognition of AI's value in enhancing data integrity. Auto-generated insights and AI-powered data visualisation tools are met with a strong interest, suggesting a readiness to adopt AI for data interpretation and presentation. Real-time dashboards managed by AI also receive strong support, emphasising the desire for streamlined, efficient data management systems. However, sentiments on reinforcement learning's impact vary, reflecting differing views on the practicality of this approach in research. Overall, the survey paints a picture of an industry cautiously yet progressively leaning towards AI integration while still weighing its implications and potential ethical concerns.
 
-##### *Table 4\. Participants' Perception of the Use of AI in Various Processes of Research*  {#table-4.-participants'-perception-of-the-use-of-ai-in-various-processes-of-research}
+##### *Table 4\. Participants' Perception of the Use of AI in Various Processes of Research*  \{#table-4.-participants'-perception-of-the-use-of-ai-in-various-processes-of-research\}
 
 | *Question* | Options | Count | Percentage |
 | ----- | :---- | ----- | ----- |
@@ -558,11 +558,11 @@ Following are the key findings regarding using AI technologies in various resear
 
 13. Real-Time Dashboards: A strong majority (76.9%) would find real-time dashboards managed by AI useful, while 23.1% would not.
 
-6. # Participants’ Level of Interest in AI Technologies {#participants’-level-of-interest-in-ai-technologies}
+6. # Participants’ Level of Interest in AI Technologies \{#participants’-level-of-interest-in-ai-technologies\}
 
 Participants' interest in various AI technologies for enhancing their research capabilities spanned a spectrum from least (1) to most (5) interested. Predictive Analytics was met with the highest interest, where 38.5% of respondents rated it a 4 out of 5\. Automated Stakeholder Alignment through NLP had the greatest number of participants rating it a 3 out of 5, suggesting moderate interest. An Automated Method Selection tool also saw a balance between moderate and high interest, with 29.4% rating it a 4\. For Resource optimisation in research design, there was a significant lean towards high interest, with 37.1% giving it a 4\. The use of Chatbots for conducting surveys had a notable distribution across the spectrum, with the highest percentage (28.1%) leaning towards a higher interest at a rating of 4\. Automated A/B Testing saw the majority of participants (31.2%) giving a moderate interest rating of 3\. Automated Coding and tagging for qualitative data revealed a strong interest, with 32.1% rating it a 4, while Anomaly Detection in data showed a substantial inclination towards most interest, with 31.2% giving it a 5\. Overall, these insights underscore the varied levels of enthusiasm for integrating AI into research methodologies among the participants.
 
-##### *Table 5\. Participants’ Rating on each AI technologies Interest*  {#table-5.-participants’-rating-on-each-ai-technologies-interest}
+##### *Table 5\. Participants’ Rating on each AI technologies Interest*  \{#table-5.-participants’-rating-on-each-ai-technologies-interest\}
 
 | Rate your Interest level | 1 (Least) |  | 2 |  | 3 |  | 4 |  | 5 (Most) |  |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -585,17 +585,17 @@ Participants' interest in various AI technologies for enhancing their research c
 
 Based on the mean rating responses shown in the following figure, AI-powered Data Visualization tools emerged as the most interesting AI technology to participants, with the highest mean interest rating of 3.92. This suggests that visualising complex data sets in an intuitive manner is highly valued among the respondents. Anomaly Detection in data also garnered substantial interest, with a mean rating of 3.81, indicating a strong inclination towards technologies that can identify outliers or unusual patterns within data sets. Conversely, both Emotion Analysis using Facial Recognition and Emotion Analysis using Voice Recognition received the lowest mean interest ratings, each at 2.33. This reflects a relative disinterest or potential concerns about the ethical implications and effectiveness of these technologies within research contexts. The moderately low interest in Automated Stakeholder Alignment through NLP and Chatbots for conducting surveys, with mean ratings of 2.83 and 2.86 respectively, suggests these areas may be less prioritised or seen as less impactful compared to other technologies. Overall, these ratings provide a clear indicator of which AI technologies are currently perceived as most and least valuable in the context of research enhancement.
 
-#### *Figure 14\. Average Rating on each AI technologies Interest* {#figure-14.-average-rating-on-each-ai-technologies-interest}
+#### *Figure 14\. Average Rating on each AI technologies Interest* \{#figure-14.-average-rating-on-each-ai-technologies-interest\}
 
 ![][image12]
 
-7. # Impactful AI Technologies on Participants’ Work  {#impactful-ai-technologies-on-participants’-work}
+7. # Impactful AI Technologies on Participants’ Work  \{#impactful-ai-technologies-on-participants’-work\}
 
 In assessing the impact of various AI technologies on work, Predictive Analytics for identifying research objectives received a high rating, with the largest percentage of respondents (37.1%) rating it as 4 out of 5 in terms of potential impact. This suggests that many see significant value in leveraging predictive analytics to enhance their research focus. Similarly, Resource optimisation for research design also scored high, with 36.2% of participants giving it a 4 out of 5, indicating that optimising resources through AI is considered to be quite impactful. Conversely, Chatbots for conducting surveys and Emotion Analysis using Facial Recognition were rated less favourably in terms of impact, with the highest percentages of respondents rating these technologies at 1 out of 5, at 30.8% and 42.1% respectively. This demonstrates a considerable scepticism about the effectiveness of these tools in improving research work. 
 
 Other technologies such as Automated A/B Testing and Emotion Analysis using Voice Recognition also garnered a notable degree of uncertainty or perceived lower impact, with the largest proportion of responses at the lower end of the scale. In contrast, AI-powered Data Visualization tools were anticipated to be highly impactful, with 34.8% of participants assigning the highest impact rating of 5, indicating a strong belief in the transformative potential of visualising data through AI. Anomaly Detection in data also received a significant endorsement, with 29.4% of responses at the highest impact level, suggesting that detecting data outliers is seen as a critical capability for research advancement.
 
-##### *Table 6\. Participants’ Rating on Impactful AI Technologies on their Work*  {#table-6.-participants’-rating-on-impactful-ai-technologies-on-their-work}
+##### *Table 6\. Participants’ Rating on Impactful AI Technologies on their Work*  \{#table-6.-participants’-rating-on-impactful-ai-technologies-on-their-work\}
 
 | Rate your Interest level:  | 1 (Least) |  | 2 |  | 3 |  | 4 |  | 5 (Most) |  |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
@@ -617,7 +617,7 @@ Other technologies such as Automated A/B Testing and Emotion Analysis using Voic
 | **PII (Personally Identifiable Information) redaction for safety and privacy** | 33 | 14.9% | 43 | 19.5% | 52 | 23.5% | 58 | 26.2% | 35 | 15.8% |
 | **Predictive Analytics for identifying research objectives** | 27 | 12.2% | 23 | 10.4% | 57 | 25.8% | 82 | 37.1% | 32 | 14.5% |
 
-8. # Key Findings of Overall Survey Results  {#key-findings-of-overall-survey-results}
+8. # Key Findings of Overall Survey Results  \{#key-findings-of-overall-survey-results\}
 
 1. Industry Representation: A diverse array of industries was represented among the participants, indicating a broad interest and application of research methodologies across sectors.  
 2. Time Allocation: A significant portion of participants reported spending a notable amount of their work time on repetitive administrative tasks rather than actual research, with 24% spending 21-30% of their time on such tasks.  
@@ -633,7 +633,7 @@ Other technologies such as Automated A/B Testing and Emotion Analysis using Voic
 
 These findings provide insights into the current state of research practices, the potential for AI and automation to improve efficiency, and the diverse factors that influence the research process.
 
-9. # Implications of the Survey Findings {#implications-of-the-survey-findings}
+9. # Implications of the Survey Findings \{#implications-of-the-survey-findings\}
 
 The findings from the survey have several practical implications for research and development sectors, as well as for organisational management:
 
@@ -648,7 +648,7 @@ The findings from the survey have several practical implications for research an
 
 Overall, the key findings suggest a shift towards more technologically integrated research processes, emphasising the importance of balancing human resources with AI capabilities to enhance research outcomes.
 
-# Recommendations based on Survey Findings {#recommendations-based-on-survey-findings}
+# Recommendations based on Survey Findings \{#recommendations-based-on-survey-findings\}
 
 Based on the survey findings, here are concrete recommendations for integrating internal AI research tools within a large organisation:
 
@@ -710,7 +710,7 @@ Based on the survey findings, here are concrete recommendations for integrating 
 
 These recommendations focus on improving efficiency, optimising resources, and enhancing the quality of research through AI, which is likely to resonate well with researchers looking to integrate AI into their workflows.
 
-10. # Path Forward: Strategic Steps for AI Adoption in Research {#path-forward:-strategic-steps-for-ai-adoption-in-research}
+10. # Path Forward: Strategic Steps for AI Adoption in Research \{#path-forward:-strategic-steps-for-ai-adoption-in-research\}
 
 Based on the survey findings, here are some proposed strategic steps to integrate AI tools into research workflows effectively:
 
@@ -730,7 +730,7 @@ Based on the survey findings, here are some proposed strategic steps to integrat
 
 These steps should be underpinned by a clear strategy that emphasises user adoption, continuous learning, and responsible AI use, ensuring that AI tools become a beneficial addition to the research ecosystem.
 
-11. # Conclusion  {#conclusion}
+11. # Conclusion  \{#conclusion\}
 
 To conclude, the survey shows an accelerating trajectory towards AI being used in research, particularly in tools that enhance data visualisation and predictive analytics. Researchers are willing to integrate AI into their work, but only if the tools are ethical and user-friendly. AI has the potential to streamline administrative tasks and enrich data analysis, making research more efficient and insightful. 
 
@@ -738,7 +738,7 @@ However, it is important that AI is used ethically and that researchers receive 
 
 12. # Glossary 
 
-## Predictive Analytics {#predictive-analytics}
+## Predictive Analytics \{#predictive-analytics\}
 
 **How could AI use Predictive Analytics for Identifying Research Objectives?** 
 
@@ -763,7 +763,7 @@ Predictive Analytics for Identifying Research Objectives involves the use of mac
 
 While the advantages are clear, it's worth noting that relying solely on predictive analytics could introduce a bias towards "known unknowns," potentially leading you to miss out on discovering groundbreaking or unexpected insights ("unknown unknowns").
 
-## Automated Stakeholder Alignment {#automated-stakeholder-alignment}
+## Automated Stakeholder Alignment \{#automated-stakeholder-alignment\}
 
 Automated Stakeholder Alignment through Natural Language Processing (NLP) is an advanced application of machine learning algorithms designed to optimise communications, decision-making, and strategy planning among key stakeholders in an organisation or project. Leveraging such technology can be a game-changer in ensuring that all parties involved are in sync with business objectives and strategies.
 
@@ -793,7 +793,7 @@ Automated stakeholder alignment tools could help in several ways:
 2. **Enhanced Collaboration**: Greater transparency and understanding among stakeholders foster a collaborative environment.  
 3. **Strategic Focus**: By automating the alignment process, stakeholders can focus more on strategic initiatives rather than getting bogged down with miscommunications or misunderstandings.
 
-## Automated Research Method Selection Tool {#automated-research-method-selection-tool}
+## Automated Research Method Selection Tool \{#automated-research-method-selection-tool\}
 
 An AI-based Automated Method Selection tool is a platform that leverages machine learning and other advanced algorithms to recommend the most suitable research methods for a given problem, data set, or research objective. The goal is to optimise the research process by matching objectives and available resources to the most effective and efficient research methods.
 
@@ -908,7 +908,7 @@ Automated A/B Testing involves using machine learning algorithms and automation 
 6. **Resource Allocation**: By automating repetitive tasks, human resources are freed to focus on more complex and creative aspects of the project.  
 7. **Personalisation**: Over time, the ML algorithms can learn from the accumulated data to personalise user experiences more effectively.
 
-## Sentiment Analysis {#sentiment-analysis}
+## Sentiment Analysis \{#sentiment-analysis\}
 
 Emotion Analysis Using Facial Recognition: 
 
@@ -932,7 +932,7 @@ Emotion Analysis using Facial Recognition employs computer vision, machine learn
 5. **Micro-Expressions**: These are rapid facial changes that reveal true emotions before a person can mask them. Capturing these can offer deep insights into user reactions that might not be expressed verbally.  
 6. **Longitudinal Studies**: Emotion tracking over a period can help in understanding long-term issues.
 
-## Automated Coding & Tagging for qualitative Data  {#automated-coding-&-tagging-for-qualitative-data}
+## Automated Coding & Tagging for qualitative Data  \{#automated-coding-&-tagging-for-qualitative-data\}
 
 **How It Works**
 
@@ -959,7 +959,7 @@ Automated Coding & Tagging systems for qualitative data use Natural Language Pro
 
 Leverage this technology to help drill down into customer interviews & reviews, open-ended survey responses, or even social media mentions, automatically extracting actionable insights that could help shape strategies or campaigns.
 
-## Anomaly Detection in Data {#anomaly-detection-in-data}
+## Anomaly Detection in Data \{#anomaly-detection-in-data\}
 
 **How It Works**
 
@@ -1017,7 +1017,7 @@ An Auto-Generated Insights tool is a sophisticated platform that uses machine le
 
 An Auto-Generated Insights tool could be the missing link between raw data and actionable business intelligence. For instance, the tool could automatically flag shifts in customer sentiment or declining engagement metrics.
 
-## AI-powered Data Visualisation Tools {#ai-powered-data-visualisation-tools}
+## AI-powered Data Visualisation Tools \{#ai-powered-data-visualisation-tools\}
 
 **How It Works**
 

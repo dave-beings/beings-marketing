@@ -26,17 +26,17 @@ Now Yeah, might be. 'cause it's Google Meet as well. We're normally on teams, so
  Speaker 1 (3:41 - 3:45): 
 Sorry about that. It's real pain, isn't it? Jumping through all these different 
  Speaker 2 (3:45 - 3:46): 
-Systems. <laugh>, 
+Systems. [laugh], 
  Speaker 1 (3:51 - 3:54): 
 While we're waiting, why don't you, um, tell me a little bit about yourself, Yasmin. 
  Speaker 2 (3:55 - 4:07): 
-Well, um, yeah, I'm actually quite new to Wrangle. Mm-Hmm. <affirmative>. Um, and I've never used beings before either, so double whammy. Yeah. Um, I used 
+Well, um, yeah, I'm actually quite new to Wrangle. Mm-Hmm. [affirmative]. Um, and I've never used beings before either, so double whammy. Yeah. Um, I used 
  Speaker 1 (4:07 - 4:09): 
 To work. Have you used many other tools? 
  Speaker 2 (4:10 - 4:21): 
-Um, not really. I'm normally more, um, quants, um, leaning. Mm-Hmm. <affirmative>, um, I'm sure obviously beings applies to that as well, but Yeah, 
+Um, not really. I'm normally more, um, quants, um, leaning. Mm-Hmm. [affirmative], um, I'm sure obviously beings applies to that as well, but Yeah, 
  Speaker 1 (4:22 - 4:56): 
-Not, yeah, actually we're super focused on the qual, like there's so many quant platforms out there, um, that we kind of decided when we got into this a couple of years ago to really focus on the, the conversational stuff, really focused on the, the qu side. Um, and so that's, yeah, we, I think quite likely to add quant stuff in future. Um, but at the moment we're trying to look at finding ways to, uh, to structure the data that's collected through conversation, um, and often quantify. So quantify the qual <laugh>. Um, but, uh, but yeah, really that's, that's the focus at the moment. Where, what were you doing before? Where were you before? 
+Not, yeah, actually we're super focused on the qual, like there's so many quant platforms out there, um, that we kind of decided when we got into this a couple of years ago to really focus on the, the conversational stuff, really focused on the, the qu side. Um, and so that's, yeah, we, I think quite likely to add quant stuff in future. Um, but at the moment we're trying to look at finding ways to, uh, to structure the data that's collected through conversation, um, and often quantify. So quantify the qual [laugh]. Um, but, uh, but yeah, really that's, that's the focus at the moment. Where, what were you doing before? Where were you before? 
  Speaker 2 (4:56 - 5:01): 
 Um, yeah, before I was at Reuters and then before that. Ipsos. Yeah. 
  Speaker 1 (5:01 - 5:02): 
@@ -54,7 +54,7 @@ Cool. Yeah, I've never worked in a small business, so it's been quite nice, actu
  Speaker 1 (5:27 - 5:29): 
 Amazing. A bit less process, I bet. 
  Speaker 2 (5:30 - 5:37): 
-Yeah, definitely. Yeah. Like <inaudible> is very like process heavy. Mm-Hmm. <affirmative>. Yeah. What about you? What's your backgrounds? 
+Yeah, definitely. Yeah. Like [inaudible] is very like process heavy. Mm-Hmm. [affirmative]. Yeah. What about you? What's your backgrounds? 
  Speaker 1 (5:37 - 6:21): 
 So, I'm a technologist. Um, I actually started out, uh, founding a business that does, um, broadcasting and live streaming equipment rental. Um, which is obviously a bit random and unrelated to research. Um, but we got involved. Um, uh, so yeah, so I've, I've not been in that business in 2015. My, actually, my brother runs that one. Um, and I was looking to start a software business and looking in the world of ai and actually we'd done a lot of work with Google, um, and we were introduced to their research team. Um, and they were looking for video solutions to use as part of their usability testing. They do a huge amount of usability testing, um, which is, you know, not massively dissimilar from, from qual. It's just got, you know, a specific application. Um, they want to understand how their customers are using their products and services. 
  Speaker 1 (6:21 - 7:11): 
@@ -62,15 +62,15 @@ Um, so we kinda got dragged into it that way. Um, and then just kind of fed in l
  Speaker 2 (7:13 - 7:36): 
 It's good. Start there. It was like when I saw the platform I was like, this is actually so useful. Yeah. You can see your potential. Cool. Yeah. 'cause I mean it takes hours for researchers to analyze, call interviews and then just being able to ask it questions and it just give you the response. Like find key quotes, things like that was really useful. Cool. Um, yeah. 
  Speaker 1 (7:37 - 7:41): 
-Yeah. Anything that was awful. Was there anything when you first used, you're like, what the hell is this <laugh>? 
+Yeah. Anything that was awful. Was there anything when you first used, you're like, what the hell is this [laugh]? 
  Speaker 2 (7:43 - 7:48): 
 Um, no, it was quite clear in terms of like his design and everything. Okay. 
  Speaker 1 (7:48 - 7:54): 
-Um, thought the layout kind of made sense broadly. Like now you can tell I'm doing a bit of, do the research on you, <laugh> 
+Um, thought the layout kind of made sense broadly. Like now you can tell I'm doing a bit of, do the research on you, [laugh] 
  Speaker 2 (7:56 - 8:10): 
 The layout makes sense to me personally. Yeah. Um, I think it's just getting used to like, which prompts to like, like the prompts to give it basically to get what you need. Yeah. But yeah, my colleagues as well, they knew a bit more about it, so. 
  Speaker 1 (8:10 - 8:36): 
-Cool. Cool. Great. Um, yeah, Ben was just telling me yesterday he did, he'd just uploaded a whole nother project or something, um, yesterday and started kind of querying some, some bits and pieces and we just sort of mm-Hmm, <affirmative> added an additional kind of upgraded model option on advanced mode, um, just this week. So I don't know, you may not have had a chance to, when, when have you been, when have you been using it? If you don't mind me asking? Like, over the last couple of weeks or? 
+Cool. Cool. Great. Um, yeah, Ben was just telling me yesterday he did, he'd just uploaded a whole nother project or something, um, yesterday and started kind of querying some, some bits and pieces and we just sort of mm-Hmm, [affirmative] added an additional kind of upgraded model option on advanced mode, um, just this week. So I don't know, you may not have had a chance to, when, when have you been, when have you been using it? If you don't mind me asking? Like, over the last couple of weeks or? 
  Speaker 2 (8:36 - 8:41): 
 Yeah, it would've been mainly like towards the end of like last week. Yeah. 
  Speaker 1 (8:41 - 9:27): 
@@ -84,13 +84,13 @@ I think one of the big challenges with AI is people like, they know that they ca
  Speaker 2 (11:09 - 11:10): 
 Think that's the one, yeah. 
  Speaker 1 (11:11 - 12:00): 
-Cool. Um, so I was gonna ask if you wanted just to like maybe screen share and sort of walk through, like, almost do like a think out loud style of study. So as you're kind of going through, just explain to me what you would be doing in the, in the, through your analysis and sort of we can then look at how you're prompting or how that maps onto the prompting, if that makes sense. Um, so let me start with a brief overview. I'll just share these couple of docs first, um, that I put together for, uh, RID and Ben. So, um, <inaudible>, um, so yeah, just kind of a, a way of kind of thinking about it is, you know, think about the AI as a bit of a junior research. You've gotta be relatively strict and focused, um, with, uh, with how you're constructing your prompts. 
+Cool. Um, so I was gonna ask if you wanted just to like maybe screen share and sort of walk through, like, almost do like a think out loud style of study. So as you're kind of going through, just explain to me what you would be doing in the, in the, through your analysis and sort of we can then look at how you're prompting or how that maps onto the prompting, if that makes sense. Um, so let me start with a brief overview. I'll just share these couple of docs first, um, that I put together for, uh, RID and Ben. So, um, [inaudible], um, so yeah, just kind of a, a way of kind of thinking about it is, you know, think about the AI as a bit of a junior research. You've gotta be relatively strict and focused, um, with, uh, with how you're constructing your prompts. 
  Speaker 1 (12:00 - 12:44): 
 So you can't just sort of say, gimme a summary, um, or you can, but it's a little bit too open-ended actually the way to get a better quality responses think in terms of these kind of four Cs. So, um, giving it a bit of context, um, you need to kind of set the scene. So instead of saying summarize this, you could say this is an interview transcript with a long-term member of the company health plan. Our goal is to understand the drivers. So setting up that context and that goal. Um, the sec, so that's context. The second C is, is clarity. Um, so just trying to be quite specific. Um, again, instead of sort of tell me of some themes or tell me some topics or whatever, just sort of list the top five frustrations mentioned in this transcript related to the service process or whatever it is that you're trying to understand. 
  Speaker 1 (12:45 - 13:29): 
 And then, you know, focus specifically on bureaucracy, communication and approvals or, you know, whatever it is that's relevant to that, to the, um, analysis at that point. Um, so again, that, that clarity that comes from being a bit more specific, um, give it some constraints 'cause otherwise it really can sort of go off and sort of come up with all sorts of things. Um, so again, just when you're thinking about putting that prompt together, like just constrain it. So rather than what the key points, you know, give me three direct quotes about, and again, within that kind of, in terms of what you might say with the about, you might then link that back to the, the, the, the specific clarity points. Um, and then you can say to it like, give me it in a table, or you can say to it, just give me it as, um, a bullet point list or you can say to it, like, put it like, show me as a quote. 
  Speaker 1 (13:29 - 14:12): 
-Um, you can ask it for details. So you can say like, alongside its participant ID or alongside, um, the piece of context name. So, um, in the UI, if you selected two or three um, bits of context, you can just ask it to be, be specific in that way. Um, and then the fourth C is just, is converse. Um, so once you've given it that little bit kind of, uh, Ben messaged me earlier and he said that he started saying thank you today, and he noticed that it would then, it was almost like it was being nicer back to him as well. <laugh> really? And he, yeah, and he felt like, 'cause it was almost encouraging conversation and so it was almost prompting him to think stuff, which he would then sort of go back with. But just randomly he was like, I'm pretty sure that when I'm nice to it, ADA does actually give me more <laugh>. 
+Um, you can ask it for details. So you can say like, alongside its participant ID or alongside, um, the piece of context name. So, um, in the UI, if you selected two or three um, bits of context, you can just ask it to be, be specific in that way. Um, and then the fourth C is just, is converse. Um, so once you've given it that little bit kind of, uh, Ben messaged me earlier and he said that he started saying thank you today, and he noticed that it would then, it was almost like it was being nicer back to him as well. [laugh] really? And he, yeah, and he felt like, 'cause it was almost encouraging conversation and so it was almost prompting him to think stuff, which he would then sort of go back with. But just randomly he was like, I'm pretty sure that when I'm nice to it, ADA does actually give me more [laugh]. 
  Speaker 1 (14:12 - 15:00): 
 Um, so that's quite funny as well. Um, so yeah, rather than just kind of, uh, the example here is what process fun, uh, frustrations are mentioned in this transcript. You can say like, that's a key finding. Can you expand on that point about, and then be specific again about that point that it may have said so that you can expand on it. Does that make sense? So, um, just to go back through those, the four Cs context, clarity, constraint, and then conversation. Just, just feel free to chat back and forth with it. Um, and then I guess I wanted to go through, um, uh, I guess one of the key limitations of the current technology, um, which we are working on, but it's gonna take us probably three to six months, um, is it has what's called like a context window. So it can only review a certain number of words in one go. 
  Speaker 1 (15:00 - 15:48): 
@@ -100,17 +100,17 @@ And then that can kind of, you can ask it to create a summary for cohort one, th
  Speaker 1 (16:31 - 17:13): 
 Um, and yeah, there's just some other useful stuff. Like if you, one of our ideas is that in future you guys can record some of your internal meetings. You can upload like the briefing documents and all of that, and then sort of ask it to help you build discussion guides and you sort of use it to kind of stress test, um, you know, bias within your discussion guides, things like that. Um, so I've just got a little hint of that later. Um, and then I probably won't go through this one right now, but I'll send this one to you afterwards. You can just go through it. This was specifically in relation to this, um, project based on the limited information I kind of had at it as, um, as you guys were starting. Um, but it just, it just goes into that kind of phased approach, um, in a little bit more detail. 
  Speaker 1 (17:13 - 17:56): 
-So it was a way of a way of structuring like how you're capturing those insights. Um, so that idea of you, you might be looking at emotion, emotion and sentiment. You might be looking at sort of profiling the participants first. You can sort of look at these different things and create these kind of subgroups within notes. And then once they're in your notes, you can send them back to the left hand side, send them back to, to become sources and then run more analysis on them again. So that I, that concept of, of looping round and round, um, is, uh, is, is super useful. Um, so yeah, I'll let you kind of go through that a little bit more sort of on your own time. Um, and feel free to email me with any questions or once you've tried anything, just sort of say, Hey Dave, this doesn't make sense, or this does <laugh> 
+So it was a way of a way of structuring like how you're capturing those insights. Um, so that idea of you, you might be looking at emotion, emotion and sentiment. You might be looking at sort of profiling the participants first. You can sort of look at these different things and create these kind of subgroups within notes. And then once they're in your notes, you can send them back to the left hand side, send them back to, to become sources and then run more analysis on them again. So that I, that concept of, of looping round and round, um, is, uh, is, is super useful. Um, so yeah, I'll let you kind of go through that a little bit more sort of on your own time. Um, and feel free to email me with any questions or once you've tried anything, just sort of say, Hey Dave, this doesn't make sense, or this does [laugh] 
  Speaker 2 (17:57 - 17:57): 
-<laugh>. 
+[laugh]. 
  Speaker 1 (17:57 - 18:57): 
 Cool. Uh, so I'll leave it there for now. Um, why don't you screen share if you, if you're happy to. Um, so in the middle there's a little share screen button with a little upwards arrow. If you click that one, it'll then ask you to share a window, I think. Um, so then if you share your browser window. Yeah. Cool. Perfect. Um, f and then just to let you know, um, there's a little at the top, very top right hand side, there's a little settings cog. Um, if you prefer light mode or dark mode, you can just kind of select that there, um, different people have different preferences, um, just so you're aware there's some sort of comfort options there. Um, so yeah, why don't you talk me through, um, uh, yeah, your sort of involvement in the project first. So, um, I'd love to know like, when did you join the project? Did you join at the discovery phase or the kind of planning phase or the kind of, um, you know, data collection phase or just the analysis phase? Like just talk me through a little bit about, um, about your role in the project. 
  Speaker 2 (18:58 - 19:19): 
-So my role in the project was quite new, so literally since last week. Um, and then yeah, in the analysis stage, so going on here mm-hmm, <affirmative> and picking out like key quotes to include and like the report for the client Mm-Hmm. <affirmative> of the different kind of groups that we have in the sample. Mm-Hmm. <affirmative>. Um, so that was my main role and that was the main thing I used beings for. Mm-Hmm. <affirmative>. Yeah. 
+So my role in the project was quite new, so literally since last week. Um, and then yeah, in the analysis stage, so going on here mm-hmm, [affirmative] and picking out like key quotes to include and like the report for the client Mm-Hmm. [affirmative] of the different kind of groups that we have in the sample. Mm-Hmm. [affirmative]. Um, so that was my main role and that was the main thing I used beings for. Mm-Hmm. [affirmative]. Yeah. 
  Speaker 1 (19:19 - 19:27): 
 Fabulous. And did, what materials were you given in order for you to be able to understand the project? Like what Yeah, how were you briefed? How did that come about? 
  Speaker 2 (19:28 - 19:41): 
-Um, I had a call with the rest of the team members. Mm-Hmm. <affirmative> and then kind of went through the report as it was and the different concepts they're testing. Mm-Hmm. <affirmative>. So that was the main, main thing that they kind of did. Yeah. 
+Um, I had a call with the rest of the team members. Mm-Hmm. [affirmative] and then kind of went through the report as it was and the different concepts they're testing. Mm-Hmm. [affirmative]. So that was the main, main thing that they kind of did. Yeah. 
  Speaker 1 (19:41 - 19:51): 
 Great. So it was mostly discussion based. Did you have much materials like any PowerPoints or PDFs or sort of Word documents that you also kind of referred to, to sort of build up your initial understanding of the project? 
  Speaker 2 (19:52 - 19:58): 
@@ -122,23 +122,23 @@ Um, yeah, once had the initial conversations went through the report and the dif
  Speaker 1 (21:20 - 21:26): 
 And so who, who took you on, who showed you beings for the first time? Was it, or did they just say like, click on this link and see what happens? 
  Speaker 2 (21:27 - 21:36): 
-<laugh>, I think, um, it was kind of a mixture, Peter. I think maybe Ridder as well. Mm-Hmm. <affirmative> like a quick kind of demo. Yeah. And how it works. 
+[laugh], I think, um, it was kind of a mixture, Peter. I think maybe Ridder as well. Mm-Hmm. [affirmative] like a quick kind of demo. Yeah. And how it works. 
  Speaker 1 (21:37 - 21:44): 
 Cool. Nice. Um, and so as you approached that analysis, what, um, yeah, what was just, what was the first thing you wanted to, to try and do? 
  Speaker 2 (21:46 - 21:54): 
-I think, because I know you mentioned earlier to only select a few of the, the interviews or something, I actually selected all of them, which makes <laugh>. 
+I think, because I know you mentioned earlier to only select a few of the, the interviews or something, I actually selected all of them, which makes [laugh]. 
  Speaker 1 (21:55 - 21:57): 
 And did it break completely or 
  Speaker 2 (21:58 - 22:27): 
-It didn't break completely? It did, it did do some, give me some good quotes actually. Um, but it, it kind of makes more sense just choosing, for instance, it's like the four I have on the screen for HAC, like having a child rather than like all of them in the sample. And I guess it's less information I say for it to process. But yeah, that's my initially selected all, um, and asked it to kinda give me like four key co quotes. Mm-Hmm. <affirmative> from each sample group on this concept or something like that. 
+It didn't break completely? It did, it did do some, give me some good quotes actually. Um, but it, it kind of makes more sense just choosing, for instance, it's like the four I have on the screen for HAC, like having a child rather than like all of them in the sample. And I guess it's less information I say for it to process. But yeah, that's my initially selected all, um, and asked it to kinda give me like four key co quotes. Mm-Hmm. [affirmative] from each sample group on this concept or something like that. 
  Speaker 1 (22:28 - 22:54): 
 Okay. Gotcha. Nice. Cool. Um, so, uh, uh, as you were starting to, yeah, so what was sort of the first question. What was your first kind of goal that you were trying to achieve? You were just trying to get some quotes out of it, um, as quickly as possible that, and you already had an idea in your head of like what you wanted those quotes to say? Or like how did you know whether that Ada was giving you what, what you needed or not? I suppose? Um, 
  Speaker 2 (22:55 - 23:11): 
-Yeah, I think for the quotes I was trying to find, it was just more general sentiments of each sample group. Mm-Hmm. <affirmative> and their feeling towards the concepts and then just the general sentiments overall. Yeah. Gotcha. <crosstalk> as a group. Yeah. I think that was the 
+Yeah, I think for the quotes I was trying to find, it was just more general sentiments of each sample group. Mm-Hmm. [affirmative] and their feeling towards the concepts and then just the general sentiments overall. Yeah. Gotcha. [crosstalk] as a group. Yeah. I think that was the 
  Speaker 1 (23:11 - 23:23): 
 Main, so why don't you go ahead and, um, maybe just click on, uh, Louis, Louis or Louis, I dunno. Um, yeah. Uh, and then just, yeah, just, just just show me what you, what you would've typed. I know it doesn't, doesn't have to be perfect, but like, whatever it was. Um, 
  Speaker 2 (23:25 - 23:51): 
-Something along the lines of recently on this, I think. Mm-Hmm. <affirmative>. Cool. Yeah, 
+Something along the lines of recently on this, I think. Mm-Hmm. [affirmative]. Cool. Yeah, 
  Speaker 1 (23:52 - 23:54): 
 Then go ahead and fire that off. Cool. 
  Speaker 2 (24:01 - 24:01): 
@@ -150,17 +150,17 @@ Oops.
  Speaker 1 (24:45 - 24:48): 
 Oh, no, no. I mean, I mean for you like, uh, oh, 
  Speaker 2 (24:48 - 24:48): 
-<laugh>, 
+[laugh], 
  Speaker 1 (24:48 - 26:00): 
 Sorry. Um, so he, what he said, so Louis said, I'm a bit of an actual skeptic, so I do wonder what feeds into how they calculate, you know, their actual health age. I think the concept's quite appealing. It's an assessment for how are we doing, uh, I guess, you know, yeah. So you could say something like, that's an interesting quote. You could just for now just try to like expand on this, um, and see what it comes back with. Or tell me more. Yeah, just sort of something simple. Um, do you notice already it's taken slightly longer, but again, so that is in advanced mode and so sometimes you don't need advanced mode and it's just easier to sort of move quicker. Um, and you'll sort of see also comes back with quite a bit more. So like, um, it, again, it might be too much. You might find, oh, it's taking ages to read. Um, but, uh, but equally you might find, oh, you can skim it sometimes and go, oh, there's some interesting, maybe there's something interesting here that I can explore further. Right. So further, um, go on, tell me your impression of that in relation to what you were trying to analyze. Um, and is there anything there that, uh, 
  Speaker 2 (26:05 - 26:18): 
-Yeah, it's quite interesting. Um, it's kind of like summarized it into different themes as well. Mm-Hmm. <affirmative>, which is useful. Yeah. Like the, the issues that they have with it. 
+Yeah, it's quite interesting. Um, it's kind of like summarized it into different themes as well. Mm-Hmm. [affirmative], which is useful. Yeah. Like the, the issues that they have with it. 
  Speaker 1 (26:19 - 26:19): 
 Cool. 
  Speaker 2 (26:22 - 26:32): 
 Yeah. And like these are things that we eventually came to the conclusion of as well. Mm-Hmm. Through the research, but with that advanced toggle, we just get it a bit quicker I guess. Cool. 
  Speaker 1 (26:32 - 27:22): 
-Um, so then scroll down to the bottom of that. Um, that response, you see there's three icons that appear when you hover over the chat box, uh, sorry, over the response box. If you h hover over the text down at the bottom right, they're a bit subtle there, but if you hover over each but your mouse over each of those one by one, you'll see there's a convert to source which sends it to the left <laugh>, and the next one along is convert to note. So the difference with note and source is as when it's a note, you could edit it. So if you just click convert to note a moment, and there's also like a copy. So if you just needed to copy that, the last one on the right there just copies that. So if you wanted just to take it straight into a, a Word document or something just to again, be able to sort of make your own notes off the platform, you can do that as well. Um, seems to be stuck thinking about that one, doesn't it? 
+Um, so then scroll down to the bottom of that. Um, that response, you see there's three icons that appear when you hover over the chat box, uh, sorry, over the response box. If you h hover over the text down at the bottom right, they're a bit subtle there, but if you hover over each but your mouse over each of those one by one, you'll see there's a convert to source which sends it to the left [laugh], and the next one along is convert to note. So the difference with note and source is as when it's a note, you could edit it. So if you just click convert to note a moment, and there's also like a copy. So if you just needed to copy that, the last one on the right there just copies that. So if you wanted just to take it straight into a, a Word document or something just to again, be able to sort of make your own notes off the platform, you can do that as well. Um, seems to be stuck thinking about that one, doesn't it? 
  Speaker 2 (27:28 - 27:29): 
 And it saves here. 
  Speaker 1 (27:30 - 27:37): 
@@ -168,7 +168,7 @@ Yes. It should just appear at the top there in a minute. Um, is that the one?
  Speaker 2 (27:38 - 27:41): 
 Yeah, I think so. Yeah. 
  Speaker 1 (27:42 - 28:21): 
-Yeah. Cool. Um, and then you can see there's a little sort of text icon at the bottom if you do want to sort of change formatting and stuff like that, if you just click on that one pops up a little toolbar so you can sort of get some of the normal tools. Um, and then it's, it is just saving it automatically to go along so you can just hit escape to get outta that or the X at the top. Right. Um, and then equally, like once you finished that, say you were doing that for each of those individual, um, uh, participants. So like you went, you did Lewis and you did the same thing for Hannah, did the same thing for <inaudible>, same thing for Chloe, and you ended up with like a few of those. You could then, um, push all of those back into a source and then select those, those is it 1, 2, 3, 4, count, 1, 2, 4. 
+Yeah. Cool. Um, and then you can see there's a little sort of text icon at the bottom if you do want to sort of change formatting and stuff like that, if you just click on that one pops up a little toolbar so you can sort of get some of the normal tools. Um, and then it's, it is just saving it automatically to go along so you can just hit escape to get outta that or the X at the top. Right. Um, and then equally, like once you finished that, say you were doing that for each of those individual, um, uh, participants. So like you went, you did Lewis and you did the same thing for Hannah, did the same thing for [inaudible], same thing for Chloe, and you ended up with like a few of those. You could then, um, push all of those back into a source and then select those, those is it 1, 2, 3, 4, count, 1, 2, 4. 
  Speaker 1 (28:21 - 29:23): 
 Um, and then kind of ask another set of questions in relation to how they, where, where things might have been different. Do you see what I mean? Because they might all being, say, they might all be saying similar things, but there might be some nuances actually. Um, either in relation to their particular demographic, you know, they might be, or, or in relation to their personality. You know, you might be able to say, you know, looking at the, um, you know, the five different personality types, you're finding the introverts or whatever, or extroverts tend to be more like this or they tend to be responding in this way. Do you see what I mean? And you can start to um, sort of shift away at layers of, of, of, uh, yeah. Of things. Um, okay, cool. Uh, is that helpful as the sort of first step? I don't wanna overload you like there is a huge amount, it's also very open-ended, so being, making sure you stay really goal focused is really important. I know that sounds kind of sim silly, but like I just find myself going off down all sorts of rabbit holes unless I keep in mind like I, no, this is specifically what I'm analyzing right now. Or, 
  Speaker 2 (29:23 - 29:24): 
@@ -186,7 +186,7 @@ No, just like, is there anything else that you find yourself doing a lot, um, as
  Speaker 2 (30:11 - 30:18): 
 Yeah, I might need to think a bit longer on that, but I'm sure there's yeah. Plenty of things that things are automated would be great. 
  Speaker 1 (30:18 - 30:27): 
-<laugh>. Yeah. Yeah. Like what's the, on that automation thing? Like is or on your kind of, do you use track GBT and stuff in your personal life and all that kind of thing? Like, oh, that's 
+[laugh]. Yeah. Yeah. Like what's the, on that automation thing? Like is or on your kind of, do you use track GBT and stuff in your personal life and all that kind of thing? Like, oh, that's 
  Speaker 2 (30:27 - 30:27): 
 All. 
  Speaker 1 (30:27 - 30:33): 
@@ -208,7 +208,7 @@ Yeah. Yeah.
  Speaker 1 (32:00 - 32:39): 
 Um, and are there any sort of either methodologies, um, that you'd love to have access to? Or like do the team ever say like, we'd like you to look at this in a particular way or using a particular framework? Um, or is it fairly kind of fairly open in terms of how you go about it? The each researcher chooses their different, um, their own different ways of working. Like what would you say, um, is, is your, is your experience? Yeah. Like, and, and do you need data to sort of suggest anything like that? Like, oh, if you use such and such a framework, um, you may be able to analyze a certain topic area in a particular, particular sort of way. Way. 
  Speaker 2 (32:40 - 32:58): 
-Yeah. In terms of just like at the beginning of the project, deciding how to approach the research and mm-Hmm. <affirmative>, things like that. Yeah. Um, this project wasn't involved in that, but I think it's always gonna be useful as well to have, I guess, AI help in that sense because it can sometimes be subjective to 
+Yeah. In terms of just like at the beginning of the project, deciding how to approach the research and mm-Hmm. [affirmative], things like that. Yeah. Um, this project wasn't involved in that, but I think it's always gonna be useful as well to have, I guess, AI help in that sense because it can sometimes be subjective to 
  Speaker 1 (32:58 - 32:59): 
 Oh yeah. 
  Speaker 2 (32:59 - 33:12): 
@@ -220,7 +220,7 @@ So don't use it for recording participants. Um, yeah. But love to get feedback o
  Speaker 1 (34:31 - 35:19): 
 And then that will appear stray in your project files, um, on the left as well. So again, if you were doing some either internal conversations, um, or in future, if you were doing client conversations, client meetings where you just wanna capture all of that, uh, um, sort of context into your project, um, I can give you a much, much richer source of, um, of material to then kind of, uh, be working with. And again, you can go through a similar sort of analysis process, create some notes, and that can become like the framework. So say you did an internal meeting where you discussed, you're gonna use a specific framework, you can kind of build a, um, uh, a note, for example, um, that has all of the, the specification for that, um, change that into a source. And then when you select your sources instead of just clicking Lewis, you could click Lewis and that kind of, that context. 
  Speaker 1 (35:20 - 35:57): 
-And then it would just give Ada again, a little bit of a richer context to guide the responses that she's giving you. So, um, so yeah, love to have a little play with that. If you do get an opportunity, um, and give, giving us some feedback on that would be great. Um, but yeah, I'm happy to do as many prompting sessions as is helpful. Um, or if something just comes to mind, it's like that sort of thing. It's like when you are using it, usually, like Ben sends you really angry emails going, Dave's not doing this <laugh>. Okay, we'll work on that. We'll work on that. And they can usually get, um, a fix done like relatively quickly for Yeah. Um, for specific things. So we, yeah, just feel free to, to reach out if there's anything that I can help with. 
+And then it would just give Ada again, a little bit of a richer context to guide the responses that she's giving you. So, um, so yeah, love to have a little play with that. If you do get an opportunity, um, and give, giving us some feedback on that would be great. Um, but yeah, I'm happy to do as many prompting sessions as is helpful. Um, or if something just comes to mind, it's like that sort of thing. It's like when you are using it, usually, like Ben sends you really angry emails going, Dave's not doing this [laugh]. Okay, we'll work on that. We'll work on that. And they can usually get, um, a fix done like relatively quickly for Yeah. Um, for specific things. So we, yeah, just feel free to, to reach out if there's anything that I can help with. 
  Speaker 2 (35:58 - 36:03): 
 That's good. No, you're right. It's when you're doing it is when you, you you come across things, you're like, okay, yeah, 
  Speaker 1 (36:03 - 36:04): 

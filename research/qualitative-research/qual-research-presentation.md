@@ -8,15 +8,15 @@ Yeah. Exciting. Okay. So, um, I, let's hand over and we'll, um, we'll get going.
 Speaker 1 (0:11 - 0:14): 
 Oh yeah, I'm very excited. I'm sorry I couldn't do it a bit later. 
 Speaker 0 (0:15 - 0:31): 
-No worries. We always just want more time and more, like it's always that bit like if we want more, could we do, but I think it's in a really good position to share and, um, talk you through and talk about sort of next steps in. So, um, but I don't want to steal any thunder, so I'll not anymore <laugh> 
+No worries. We always just want more time and more, like it's always that bit like if we want more, could we do, but I think it's in a really good position to share and, um, talk you through and talk about sort of next steps in. So, um, but I don't want to steal any thunder, so I'll not anymore [laugh] 
 Speaker 2 (0:32 - 0:44): 
 And Dave, I thought I'd just introduce myself 'cause I know. Yeah. So I'm Julia, I'm the growth strategist at the scale up and I've been working closely with Anna to, to dive into all of the insights for today. 
 Speaker 1 (0:45 - 0:49): 
 Lovely to meet you. Seen your name on various things, but it great to meet you in person. Here's 
 Speaker 2 (0:49 - 0:50): 
-The face, <laugh>, 
+The face, [laugh], 
 Speaker 0 (0:51 - 0:51): 
-<laugh>. 
+[laugh]. 
 Speaker 1 (0:53 - 1:03): 
 Go for it. I'm excited for this. Very excited. I know this is sort of like I part one of of two 'cause we kind of all, all gets grounded in the quant as well, but, um, yeah, very excited. 
 Speaker 0 (1:04 - 1:05): 
@@ -26,7 +26,7 @@ No, exactly. So, um, yeah, Dave's kind of, uh, stole what I was to say. So, um, 
 Speaker 3 (2:06 - 2:56): 
 Um, and then also thinking about how we communicate the product important for us to kind of draw out, um, what is it that excites 'em about beings? So what particular features, benefits or attributes, give them confidence, it's the solution that will solve those problems. Um, but also understanding some of the core blockers and what could make beings a difficult sell into, um, the target audience. So that's the main chunk of it today is just sort of update on, on those learnings from the qual. Um, but then also as you mentioned, we want to, then the next stage of that is the quant research where we'll be sort of testing and prioritizing these insights and also looking to segment them, um, by audiences so we can get to kind of clear articulation of where the biggest opportunity is, um, and what that audience value proposition is for, for that. 
 Speaker 3 (2:57 - 4:13): 
-Um, so that's what we're gonna get through today. Um, in terms of just a recap on what, how we've, what we've been doing and to get to this stage. So, um, obviously <inaudible> conducted quite a few audience interviews. In fact, I think he'd done about 20 or so, uh, or about 19 or so. Um, so we were making use of that, um, insight and that data. So Juliet's been working through synthesizing all the, the data from those transcripts into what we call sort of voice of the customer database, which is basically, um, just a collection of kind of all the different coding that we do on the call data. Um, but we've got, therefore got kind of all the language that they're talking about when they talk about these problems and, and goals that we, we need to talk around in order to understand the value. Um, so we've been synthesizing those, that data from Garret's interviews, but we also conducted our own, uh, additional interviews to fill, um, the gaps in terms of personas that weren't so well represented in, in who GRI had spoken to. Um, so this is a kind of better view of who we spoke to. Um, so majority of the people that we spoke to were, um, qua researchers. Um, we had a pretty even 
+Um, so that's what we're gonna get through today. Um, in terms of just a recap on what, how we've, what we've been doing and to get to this stage. So, um, obviously [inaudible] conducted quite a few audience interviews. In fact, I think he'd done about 20 or so, uh, or about 19 or so. Um, so we were making use of that, um, insight and that data. So Juliet's been working through synthesizing all the, the data from those transcripts into what we call sort of voice of the customer database, which is basically, um, just a collection of kind of all the different coding that we do on the call data. Um, but we've got, therefore got kind of all the language that they're talking about when they talk about these problems and, and goals that we, we need to talk around in order to understand the value. Um, so we've been synthesizing those, that data from Garret's interviews, but we also conducted our own, uh, additional interviews to fill, um, the gaps in terms of personas that weren't so well represented in, in who GRI had spoken to. Um, so this is a kind of better view of who we spoke to. Um, so majority of the people that we spoke to were, um, qua researchers. Um, we had a pretty even 
 Speaker 1 (4:15 - 4:17): 
 You source prolific people, is that your No, 
 Speaker 3 (4:17 - 4:24): 
@@ -62,23 +62,23 @@ I know it.
 Speaker 3 (10:31 - 10:39): 
 Cool, cool. So, um, this is language database for you to produce in your own time, um, any 
 Speaker 1 (10:39 - 10:46): 
-Of that <laugh>, but yes, we'll take a look. I'm super interested in that actually, really, really interested in that. Um, but yeah, we can come back to that. 
+Of that [laugh], but yes, we'll take a look. I'm super interested in that actually, really, really interested in that. Um, but yeah, we can come back to that. 
 Speaker 3 (10:47 - 12:01): 
 Cool. So just to kind of take a bit of a deeper dive then into some of those themes and, um, what we've learned around the core research questions. So obviously one of our big, uh, goals is to really understand the reasons why someone would buy, um, beings. Um, and we use the theory of job to be done as we've been, as we've kind of gone through before. Um, but really it's understanding what are the problems, struggles, um, and goals that, um, our audience have when it comes to, um, research and how do they then define, um, what making progress and the better kind of life around that particular job looks like. Um, so in order to kind of answer these questions, we've split, um, what we've learned into, you know, what are their core pains and also what are their kind of core, what are they really looking for in terms of how they define the making progress or, or kind of better reality that tool could help them get to, um, I dunno if we'll have time here through all of these, but, um, I, I want to kind of focus in on the ones that we feel we've learned a lot more around in addition to the, what we kind of mapped out more hypothesis mapping. 
 Speaker 3 (12:02 - 12:41): 
 Um, but I will go brief in brief, uh, run through all of them. So in terms of the pains, we've kind of got a, a category which is kind of just general qual research pains. So what are the kind of issues that these organizations face and researchers face when it comes to conducting qual research? Um, the main one being time constraints. Um, researchers and and organizations are really kind of feeling that pressure to deliver, uh, qual research insights quickly. Um, and when qual itself is quite a time consuming activity, it makes the, um, ability to kind of manage the, that those projects effectively difficult. Um, 
 Speaker 1 (12:41 - 12:58): 
-Sorry, quick one is, is your impression from the conversations that the time is the time it takes to conduct the interview or the time it takes to analyze the interview and code it and tag it and get the useful insights out of it? What would you say or what you got if you don't dunno, <laugh> 
+Sorry, quick one is, is your impression from the conversations that the time is the time it takes to conduct the interview or the time it takes to analyze the interview and code it and tag it and get the useful insights out of it? What would you say or what you got if you don't dunno, [laugh] 
 Speaker 3 (12:59 - 13:14): 
 It, it's a combination of all of it. It's definitely they recognize that the analysis takes a chunk of time, um, but equally sort of setting up the, the study scheduling the participants, that takes significantly longer than a research project. Mm. Um, so I 
 Speaker 1 (13:14 - 13:46): 
-Wonder if we could do again, probably as a separate little piece of work, but further down the line just to kind of just to understand through the process a bit better, where they feel their time is what takes the longest <laugh> and therefore what, what would have the biggest impact in terms of what we build next. Um, we're just thinking about what we're doing in Q4 in the products and so what we prioritize and actually obviously we'll build it around one of these jobs to be done that you come up with, but actually if there's something that directly impacts one of these in quite a, a big way, um, that would obviously make sense to prioritize that. 
+Wonder if we could do again, probably as a separate little piece of work, but further down the line just to kind of just to understand through the process a bit better, where they feel their time is what takes the longest [laugh] and therefore what, what would have the biggest impact in terms of what we build next. Um, we're just thinking about what we're doing in Q4 in the products and so what we prioritize and actually obviously we'll build it around one of these jobs to be done that you come up with, but actually if there's something that directly impacts one of these in quite a, a big way, um, that would obviously make sense to prioritize that. 
 Speaker 3 (13:46 - 14:11): 
 Yeah, I think it's interesting because although they recognize that the analysis takes a big chunk of time, it's not necessarily what they want help speeding up, they just want more time to be able to spend on, on doing that. Where it's more of the kind of more manual, um, repetitive labor intensive kind of admin tasks, um, that they would actually prefer take less of their time than the analysis. Cool. Um, 
 Speaker 1 (14:11 - 14:13): 
 And so through this process, what was that for you? 
 Speaker 3 (14:15 - 14:19): 
-<laugh>? I dunno. Juliet did the, the main chunk of the analysis really didn't you? Juliet? So, 
+[laugh]? I dunno. Juliet did the, the main chunk of the analysis really didn't you? Juliet? So, 
 Speaker 2 (14:20 - 14:20): 
 Yeah. 
 Speaker 3 (14:21 - 14:21): 
@@ -86,7 +86,7 @@ Um,
 Speaker 2 (14:21 - 14:36): 
 But again, that is the funnest part of being a researcher going through and actually like pulling out those juicy insights rather than setting up trying to recruit and getting people canceling on you and having to find other people. That is never fun for anyone. 
 Speaker 1 (14:36 - 14:40): 
-So that recruitment process is just time consuming and painful and really dull <laugh>. 
+So that recruitment process is just time consuming and painful and really dull [laugh]. 
 Speaker 2 (14:40 - 14:43): 
 Yeah. And it's not where our skill sets lie, not 
 Speaker 1 (14:43 - 14:53): 
@@ -104,7 +104,7 @@ And that a hundred percent fits into the sort of first step of the kind of perso
 Speaker 1 (18:37 - 19:08): 
 'cause there's lots of people that can talk about bias in all sorts of fascinating different ways. Um, so maybe that's just something to take into that, that world. I think obviously this kind of AI and research and prompt engineering would feed into webinars really effectively. Um, and we are doing quite a lot of work in the background on the product side, just trying to work out what our, um, prompt engineering system and how the user customizes it for them, and then how it, it learns their, their methodologies and their preferences. Um, so again, that will feed into more of a webinar type approach, I think 
 Speaker 3 (19:09 - 20:04): 
-<inaudible> Yeah, absolutely. Thanks. So that, those are kind of general, more general, um, challenges with core research, but now I just wanna look at it across the challenges across the research process. So it's kind of just a brief look. Obviously we've spoken about the difficulty with recruitment. The main challenge there is that there's often a trade off between the speed at which you can recruit participants and the, um, confidence that you can have in that they have the right quality and relevant to the research question. Um, people do express sort of uncertainty in actually designing the research, choosing the right methods, um, and designing the right questions to ask. Um, a big core challenge as well is obviously aligning the research question, sorry, research plans and methods with the strategic objectives. So whether that's business objectives for in-house researchers or the kind, the kind of client strategic objectives, um, in an agency. 
+[inaudible] Yeah, absolutely. Thanks. So that, those are kind of general, more general, um, challenges with core research, but now I just wanna look at it across the challenges across the research process. So it's kind of just a brief look. Obviously we've spoken about the difficulty with recruitment. The main challenge there is that there's often a trade off between the speed at which you can recruit participants and the, um, confidence that you can have in that they have the right quality and relevant to the research question. Um, people do express sort of uncertainty in actually designing the research, choosing the right methods, um, and designing the right questions to ask. Um, a big core challenge as well is obviously aligning the research question, sorry, research plans and methods with the strategic objectives. So whether that's business objectives for in-house researchers or the kind, the kind of client strategic objectives, um, in an agency. 
 Speaker 3 (20:04 - 20:38): 
 Um, so there are nuances here that we will pull out, especially as we come out from the survey, um, for, for the agencies, you know, this aligning research with those strategic objectives is actually really core part of that competitive process. That's a really core part of their actual business model, um, is being able to make sure that their research plans are more pointed and, and kind of really aligned well with those, um, strategic objectives and going beyond maybe the brief that's been given to them to gather them. Kind of that further input, that further context into it. 
 Speaker 1 (20:39 - 20:54): 
@@ -130,7 +130,7 @@ Yeah. And I think it's really, we'll come on to talking about the anxieties, but
 Speaker 0 (24:39 - 24:44): 
 It is that human plus tech, um, that we've theme that we've talked about before. 
 Speaker 1 (24:45 - 24:51): 
-Mm. Which we don't like AI plus HR or whatever it is, but we need to find some other way of being able to talk about it. <laugh>. 
+Mm. Which we don't like AI plus HR or whatever it is, but we need to find some other way of being able to talk about it. [laugh]. 
 Speaker 3 (24:53 - 26:22): 
 Yeah. Um, in terms of like using AI currently for, um, synthesis part and the analysis, um, a core challenge is that is they can't fully rely on it. Um, it really does require human oversight. Um, and that's in terms of just preparing data, even transcriptions, you know, they, they do need to go through those manually to make sure that the, uh, it has been captured correctly. Um, but also, yeah, generally in terms of like the summaries that are generated as well, there's a huge need to kind of balance that AI and automation with hu human oversight to make sure that the output is accurate and, and relevant, um, collaboration as well. Um, collaboration is really important to core researchers because it is one of the ways that they aim to reduce bias, um, in the process. So, um, ensuring that there's those set up communication channels and regular updates, um, where they're sort of checking in with both stakeholders and, you know, collaborators, um, is, is a challenge as well. So that's an interesting one. Um, and then coming on to kind of the, the final stage, which is, you know, reporting on findings and influencing the action. Um, so communication comes in here as well because part of that is keeping those stakeholders engaged and updated throughout the research process, making sure that they're up to date and in the loop with what's been being learned throughout the process. Um, 
 Speaker 2 (26:23 - 26:37): 
@@ -144,7 +144,7 @@ Briefly, you pretty much always use Miro or are you using slides and PowerPoint 
 Speaker 3 (27:28 - 27:37): 
 Yeah, it really depends on the kind of, um, communication preferences of, of the clients that, yeah. Um, often it's people do prefer a PowerPoint deck Mm-Hmm. 
 Speaker 1 (27:37 - 27:38): 
-<affirmative> death by PowerPoint. 
+[affirmative] death by PowerPoint. 
 Speaker 3 (27:41 - 28:37): 
 Um, and then finally, you know, part of that, um, presentation as well, but over and above that is actually just convincing stakeholders of the value of the research. Um, and it kind of comes in at the start as well, but like really kind of being able to, with the idea of needing to align research objectives with business objectives or strategic objectives, it is a big challenge for, for researchers to demonstrate the value of their research. Um, and that's, say, that's one of the core, core challenges. So, um, what we've done then with the jobs and outcomes is keep them aligned around those themes that we went through at the start. Um, so speed, um, really the kind of outcome of speeding up the process is to free up the time, free up researchers time, um, to spend on more high, higher value tasks and ultimately accelerate the time to insight. 
 Speaker 3 (28:38 - 29:42): 
@@ -154,25 +154,25 @@ Um, ultimately enabling them then to kind of meet those tight qual, uh, time res
 Speaker 3 (30:40 - 31:35): 
 So delegating those more mundane tasks, again, coming back to just allowing researchers to focus on the parts of the work that they enjoy the most and where they feel they can add the most value. Um, so, you know, like Juliet said, it's like where they, what they're actually trained to be doing is where they wanna be spending their time. Um, and then for the stakeholders, you know, ILI is about being able to kind of deliver those timely and more kind of impactful, um, outputs to increase that satisfaction, um, on the kind of strengthen point. Um, this one we've got quite a few with within, um, this strengthening, it's all about kind of just being able to enhance the actual output, so richer, more impactful outputs, um, and beings helps throughout the research process to get to this outcome. So we've mentioned aligning the plans with those, with the broader context, with the stakeholder context to make sure that it is really pointed. 
 Speaker 3 (31:35 - 32:34): 
-Um, and, um, you know, it's actually gonna contribute to those, um, decisions and those, uh, strategic objectives. Recruiting also, we've put in here, so we mentioned the challenge with the trade off often between, um, speed and, um, relevance and quality. Um, so the ability to kind of more quickly find, uh, the most, the high quality and relevant samples, um, ultimately it's just gonna increase the quality of the data and the insight generated. Um, in terms of strengthening the, the process and the outputs, the ability to sort of see experiences in more detail in, um, firsthand through the, the Beings platform, um, via those kind of multicam streams allows them to capture those kind of detailed nuances and the more unspoken insights that they wouldn't get, um, if they weren't to do it at <inaudible>. Um, is there 
+Um, and, um, you know, it's actually gonna contribute to those, um, decisions and those, uh, strategic objectives. Recruiting also, we've put in here, so we mentioned the challenge with the trade off often between, um, speed and, um, relevance and quality. Um, so the ability to kind of more quickly find, uh, the most, the high quality and relevant samples, um, ultimately it's just gonna increase the quality of the data and the insight generated. Um, in terms of strengthening the, the process and the outputs, the ability to sort of see experiences in more detail in, um, firsthand through the, the Beings platform, um, via those kind of multicam streams allows them to capture those kind of detailed nuances and the more unspoken insights that they wouldn't get, um, if they weren't to do it at [inaudible]. Um, is there 
 Speaker 1 (32:34 - 32:55): 
 Anything about context there, or not particularly out interest? So something we get from the YouTube team a lot is they're trying to understand context. So they're trying to understand how they're creators that are using primarily the YouTube app and other apps as part of the creation process. They wanna understand like where they are, what they're doing, like what's going on behind the scenes, rather than just purely, um, sort of nuance and and unspoken. 
 Speaker 3 (32:57 - 33:10): 
 Yeah, a hundred percent. I should put that in there. That did definitely come out. Um, and also, you know, generally, like there are researchers that do specific, um, context based studies, so it's sort of more the kind of eth eth type research. 
 Speaker 1 (33:14 - 33:48): 
-Was there much like, was the language quite researchy, <laugh>, if you see what I mean? Because like, I'm very aware that there's, um, there can be quite a lot of snobbery in that kind of research world where there's, where if you're speaking the right language and we, you are using all the right terms for the different types of research, um, obviously it, um, it's going to attract the right, like a different sort of researcher compared to somebody that's doing research more generally as part of other things that they might do, for example, in a marketing agency. Um, I don't know, what was the language like that people were using? 
+Was there much like, was the language quite researchy, [laugh], if you see what I mean? Because like, I'm very aware that there's, um, there can be quite a lot of snobbery in that kind of research world where there's, where if you're speaking the right language and we, you are using all the right terms for the different types of research, um, obviously it, um, it's going to attract the right, like a different sort of researcher compared to somebody that's doing research more generally as part of other things that they might do, for example, in a marketing agency. Um, I don't know, what was the language like that people were using? 
 Speaker 2 (33:50 - 34:14): 
 I think from my side, um, you know, obviously they're using research terms, they, they're not gonna sort of, um, put in layman's terms or simplify, but generally speaking they're, they're talking about their pains and their struggles, which are pretty like standard Yeah. Struggles. So it was quite, you know, like everyday language, just conversational. Yeah. Cool. 
 Speaker 3 (34:15 - 34:45): 
-Yeah, and we'll also come on to when we're talking through the kind of blockers, but simplicity is, is really, really important. Mm-Hmm. <affirmative>. Um, and also we, there's an opportunity potentially as well for in these, in-house teams, often it's not just the dedicated researchers doing research. Um, there are sort of designers that will be conducting the most research due to the fact that the research team is so busy handling and at capacity. Um, it's sometimes important to have a more accessible tool that people who do research but aren't dedicated researchers can understand how to use. 
+Yeah, and we'll also come on to when we're talking through the kind of blockers, but simplicity is, is really, really important. Mm-Hmm. [affirmative]. Um, and also we, there's an opportunity potentially as well for in these, in-house teams, often it's not just the dedicated researchers doing research. Um, there are sort of designers that will be conducting the most research due to the fact that the research team is so busy handling and at capacity. Um, it's sometimes important to have a more accessible tool that people who do research but aren't dedicated researchers can understand how to use. 
 Speaker 1 (34:45 - 34:51): 
 And that's what every product manager at Google tells us. They don't wanna wait for the research team even though they're supposed to 
 Speaker 2 (34:51 - 34:51): 
-<laugh>. 
+[laugh]. 
 Speaker 3 (34:54 - 35:38): 
 Um, so we've mentioned, uh, seeing experiences firsthand, maintaining that human touch is also, uh, something that they really want to be doing in the research to enhance the strengths. So we've mentioned the importance of that to actually, um, make participants feel comfortable enough to evoke those deep, more deep insights in qual. Um, and then we've talked about actually making them better at what they do. So, um, so the language that came up here in terms of how they see AI being useful to strengthen their research is seeing it as a sort of spamming partner or a collaborator to actually kind of optimize their efforts, make sure they haven't missed anything, um, and also reduce some of the bias that they may have if they can, um, have a conversation, uh, with the AI about something. 
 Speaker 1 (35:39 - 36:00): 
-And just briefly on language around that, obviously in the tech space, it's often called kind of co-pilot or assistant or chat agent, isn't it? Um, was it dscout? Maybe we found that was chef and sous. Chef <laugh>. Yeah. Um, I think we sort of need to try and find our own own way 'cause that of just articulating that, but yeah. Love it. Thank you. Keep going. 
+And just briefly on language around that, obviously in the tech space, it's often called kind of co-pilot or assistant or chat agent, isn't it? Um, was it dscout? Maybe we found that was chef and sous. Chef [laugh]. Yeah. Um, I think we sort of need to try and find our own own way 'cause that of just articulating that, but yeah. Love it. Thank you. Keep going. 
 Speaker 3 (36:00 - 37:13): 
 Yeah. Um, and then sort of influencing better decisions. So this is all around kind of being able to distill that large amount of data into those clear and actionable insights, um, which are specifically tailored to vastly the objectives, the strategic objectives, but also the context of the particular stakeholder that they're reporting to. Um, we've also got strengthening the stakeholder relationships, um, so building trust, creating opportunities for involvement, um, just yeah, enhancing and strengthening the kind of strength stakeholder. Um, buy-in, if you like, in into the research. Um, and then scale. Um, so really scale is about expanding that scope of qual, um, to make the insights qual research more reliable. So scaling up, being able to handle more qual data, um, in the short timelines that they're, they have. So to be able to broaden that scope without sacrificing on depth and quality by having to rely on something like quantum. Um, and then also, so scaling the research across markets, so being able to kind of synthesize multiple different, um, data sets in different regions to get a more kind of holistic and reliable view. 
 Speaker 3 (37:15 - 37:53): 
@@ -196,7 +196,7 @@ Yeah. It's fascinating, fascinating. What I found, um, with enterprises and repo
 Speaker 2 (41:20 - 41:43): 
 Yep. Um, so, um, the research ops, so there's some, some, you know, agencies and in-house as well, um, actually have teams created that are solely focused on, um, making the research process better. Um, and so looking for these tools, actively seeking for, for ways to do that. Mm-Hmm. 
 Speaker 1 (41:43 - 41:43): 
-<affirmative>. 
+[affirmative]. 
 Speaker 2 (41:44 - 42:24): 
 Um, so, um, kind similar to the researchers with large data sets. Um, they also, you know, some have really specialized, um, niche projects as well, like working in different languages, um, working across the, across the globe. So they need to, um, find a tool that will help them handle those requirements. Um, yeah. And then, and then finally just generally, like we've spoken about just a desire and, and, um, a a need to improve their research capabilities and processes. 
 Speaker 1 (42:25 - 42:26): 
@@ -222,7 +222,7 @@ And what I did see in some, some, some of the interviews, you know, they're sett
 Speaker 1 (46:06 - 46:08): 
 That crap, but it's included 
 Speaker 2 (46:08 - 47:18): 
-<laugh>. Exactly. <laugh>, um, customization of reports. So this goes in line with the flexibility and, and the, the ability to, you know, tailor reports that, um, you know, cater to the specific needs of, um, the stakeholders involved or you know, who, who's act what you are delivering and to who it's for, um, is really important. So being able to personalize and, and customize is, is, is really important. Um, global reach. So this is, is is really thinking about, uh, recruitment side of it as well. Um, and being able to, um, attract and recruit participants across the, across the globe. Um, one person, um, in an interview was talking about, you know, having the ability to recruit another countries and, and people sort of pretend they speak French when they don't speak French. And, and, you know, making sure that the tool has language verifications is one thing that came up and making sure that, you know, people aren't slipping through the lines of screeners and, and, um, yeah. High quality participants. 
+[laugh]. Exactly. [laugh], um, customization of reports. So this goes in line with the flexibility and, and the, the ability to, you know, tailor reports that, um, you know, cater to the specific needs of, um, the stakeholders involved or you know, who, who's act what you are delivering and to who it's for, um, is really important. So being able to personalize and, and customize is, is, is really important. Um, global reach. So this is, is is really thinking about, uh, recruitment side of it as well. Um, and being able to, um, attract and recruit participants across the, across the globe. Um, one person, um, in an interview was talking about, you know, having the ability to recruit another countries and, and people sort of pretend they speak French when they don't speak French. And, and, you know, making sure that the tool has language verifications is one thing that came up and making sure that, you know, people aren't slipping through the lines of screeners and, and, um, yeah. High quality participants. 
 Speaker 3 (47:19 - 47:27): 
 Um, David, a quick question on this, like global reach part. Um, obviously translation of transcriptions also a big one. I 
 Speaker 1 (47:29 - 48:39): 
@@ -242,7 +242,7 @@ Definitely. So, um, I mean, we talked about this in the pools, but you know, the
 Speaker 3 (52:27 - 52:28): 
 Mm-Hmm. 
 Speaker 1 (52:28 - 52:54): 
-<affirmative> and <inaudible>, that's essentially what PLM addresses, right? Um, because it fundamentally is about them creating something that manages all of this. So if they send a transcript off the Gemini to get some sort of response back, they've already provided the, the context and the nuance and that, that set of understanding to be able to manage, um, manage those effectively and they can give obviously, feedback on it as soon as they, um, see something that comes back. Um, 
+[affirmative] and [inaudible], that's essentially what PLM addresses, right? Um, because it fundamentally is about them creating something that manages all of this. So if they send a transcript off the Gemini to get some sort of response back, they've already provided the, the context and the nuance and that, that set of understanding to be able to manage, um, manage those effectively and they can give obviously, feedback on it as soon as they, um, see something that comes back. Um, 
 Speaker 3 (52:56 - 53:15): 
 Yeah, that context window is a huge, um, yeah. Differentiator of the ability for ado to sort of be there throughout the whole project and have that context. Mm. It's definitely a huge differentiator. Um, is that, uh, yeah. 
 Speaker 2 (53:15 - 53:46): 
@@ -262,29 +262,29 @@ Exactly. Cool. So the final two.
 Speaker 2 (54:53 - 55:38): 
 Um, so yeah, difficulty to get buying. Um, so just like being able to justify the cost of, and, and the return of investment, um, to stakeholders, um, or leadership teams. Um, so therefore blocking them to be able to actually invest further into tools that will help support the research process. Mm-Hmm. Um, and the idea that using ai, um, researchers feel that it just will make them lazy or come, you know, be lazy in their own work and also, uh, reducing their own skills. Um, so, you know, we spoke about that earlier as well, so didn't wanna, don't wanna, um, go too much into it. 'cause I know we've only got two minutes left. Yeah. 
 Speaker 1 (55:38 - 55:42): 
-Yes. When I learned to read a map, I stopped remembering where things were. <laugh>. 
+Yes. When I learned to read a map, I stopped remembering where things were. [laugh]. 
 Speaker 2 (55:42 - 55:43): 
-Yeah, <laugh>. 
+Yeah, [laugh]. 
 Speaker 3 (55:46 - 57:05): 
-Um, cool. So, so I'm out of time Dave. So I just wanna quickly, um, just outline the next steps. Um, so obviously we've got, uh, a wealth of insight. You know, this is just some of, um, what we will actually be kind of put putting into the survey. Um, but what we wanna do is create a survey kind of really helping us then calculate, I guess, the opportunity, um, to create value around each of those jobs to be done based on kind of where, who faces the, the biggest problems, um, and who kind of yeah. Has the biggest, um, need for a tool like beings. Um, and we'll do that by kind of recruiting from across the segments and sort of split the data and comparing then these opportunities. Um, so that's our, that's our next step I think. Just wanted to have a chat with you around sort of recruitment for the survey. Mm-Hmm. <affirmative>. So we normally recommend an absolute minimum of 50 participants in the quant survey per segment. Mm. Um, so in terms of the two segments, we can look at agencies as a whole as a segment or obviously we could split them further into agency, um, small agencies and large agencies. And the same for in-house. Um, it's obviously up to you, um, in regard regarding kind of the cost of them recruiting those 50 per segment. 
+Um, cool. So, so I'm out of time Dave. So I just wanna quickly, um, just outline the next steps. Um, so obviously we've got, uh, a wealth of insight. You know, this is just some of, um, what we will actually be kind of put putting into the survey. Um, but what we wanna do is create a survey kind of really helping us then calculate, I guess, the opportunity, um, to create value around each of those jobs to be done based on kind of where, who faces the, the biggest problems, um, and who kind of yeah. Has the biggest, um, need for a tool like beings. Um, and we'll do that by kind of recruiting from across the segments and sort of split the data and comparing then these opportunities. Um, so that's our, that's our next step I think. Just wanted to have a chat with you around sort of recruitment for the survey. Mm-Hmm. [affirmative]. So we normally recommend an absolute minimum of 50 participants in the quant survey per segment. Mm. Um, so in terms of the two segments, we can look at agencies as a whole as a segment or obviously we could split them further into agency, um, small agencies and large agencies. And the same for in-house. Um, it's obviously up to you, um, in regard regarding kind of the cost of them recruiting those 50 per segment. 
 Speaker 4 (57:07 - 57:07): 
 Um, 
 Speaker 1 (57:07 - 58:21): 
-Uh, yeah, no, cool. Absolutely fine. Like I, I guess Hashi and I think of these in terms of we've got two audiences, one that will go through a B2B sales process. So book a demo, talk to Dave, blah, blah, blah. And then the others, that's the product led growth side, which is the LinkedIn ads. They'll see something and they'll click it and they'll self self-serve. And we're hoping <laugh> that kind of the marketing agencies, market research agencies in their sort of various guises will fall into the product led growth side. Um, only really the very large market research agencies might go into the B2B sales process flow. Um, but really it would be kind of the, the different area segments with internal research teams that would primarily go into the B2B sales flow. Um, so I'm interested in, um, yeah, what size are those overall in the UK and then in the US and, and then in Europe. You see what I mean? And then of those, do we feel like we've got what, what, what become, you know, we need a statistically valid sample, right? So based on the, the overall size. And so I would go the, uh, my approach is to normally go to sales navigator, pick out the job titles, pick out the size, look at the quantities and the numbers, just to get a sense of, right, well, how many people are, they're actually doing this. Um, and sort of work back from there. Mm-Hmm. 
+Uh, yeah, no, cool. Absolutely fine. Like I, I guess Hashi and I think of these in terms of we've got two audiences, one that will go through a B2B sales process. So book a demo, talk to Dave, blah, blah, blah. And then the others, that's the product led growth side, which is the LinkedIn ads. They'll see something and they'll click it and they'll self self-serve. And we're hoping [laugh] that kind of the marketing agencies, market research agencies in their sort of various guises will fall into the product led growth side. Um, only really the very large market research agencies might go into the B2B sales process flow. Um, but really it would be kind of the, the different area segments with internal research teams that would primarily go into the B2B sales flow. Um, so I'm interested in, um, yeah, what size are those overall in the UK and then in the US and, and then in Europe. You see what I mean? And then of those, do we feel like we've got what, what, what become, you know, we need a statistically valid sample, right? So based on the, the overall size. And so I would go the, uh, my approach is to normally go to sales navigator, pick out the job titles, pick out the size, look at the quantities and the numbers, just to get a sense of, right, well, how many people are, they're actually doing this. Um, and sort of work back from there. Mm-Hmm. 
 Speaker 4 (58:21 - 58:21): 
-<affirmative>. 
+[affirmative]. 
 Speaker 1 (58:22 - 58:28): 
 But yeah, happy to discuss this a bit more offline over the rest of the day or tomorrow, just to get you up and running quickly on that, if that's helpful. 
 Speaker 4 (58:29 - 58:29): 
 Love. 
 Speaker 1 (58:30 - 58:35): 
-Cool. Thank you. That was amazing. Absolutely amazing. Love it. <laugh>. Hashi. Done anything from you? 
+Cool. Thank you. That was amazing. Absolutely amazing. Love it. [laugh]. Hashi. Done anything from you? 
 Speaker 4 (58:36 - 58:38): 
 No. Really exciting. I was, I was, uh, 
 Speaker 1 (58:39 - 58:39): 
 Blown away. Was 
 Speaker 4 (58:40 - 58:43): 
-Fascinated. Yes. <laugh>. Yeah. Blown away. Blown away right away. <laugh>. 
+Fascinated. Yes. [laugh]. Yeah. Blown away. Blown away right away. [laugh]. 
 Speaker 1 (58:43 - 58:51): 
 Um, aji, have you got time to just stay on after or do you want do, yeah. Okay. We'll stay on in that case. Um, thank you so much. 
 Speaker 4 (58:51 - 58:55): 
@@ -296,13 +296,13 @@ Nice meeting you. Bye
 Speaker 1 (58:58 - 58:59): 
 Bye-Bye. 
 Speaker 4 (59:01 - 59:03): 
-Okay. It's awesome. Three rdo <laugh>. 
+Okay. It's awesome. Three rdo [laugh]. 
 Speaker 1 (59:04 - 59:08): 
 Yeah. Oh, we can't even remove them, can we? Because we're not the host. They're the host. 
 Speaker 4 (59:08 - 59:09): 
 No. 
 Speaker 1 (59:10 - 59:14): 
-<laugh> funny. Let's jump into another meeting. Yes. Um, okay, cool. Speak to you there. Bye. Yeah.
+[laugh] funny. Let's jump into another meeting. Yes. Um, okay, cool. Speak to you there. Bye. Yeah.
 
 ---
 *Converted from original Word document.*

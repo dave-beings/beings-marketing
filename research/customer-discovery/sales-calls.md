@@ -130,12 +130,12 @@ S1
 Speaker 1
 02:48
 02:48
-<laugh>. What is it you like so much about Zoom then?
+[laugh]. What is it you like so much about Zoom then?
 S0
 Speaker 0
 02:51
 02:51
-<laugh>? Everything. You know, it never crashes. It always works. Never wags. Um, I've been using it for like four years.
+[laugh]? Everything. You know, it never crashes. It always works. Never wags. Um, I've been using it for like four years.
 S1
 Speaker 1
 02:59
@@ -190,7 +190,7 @@ S1
 Speaker 1
 03:50
 03:50
-<laugh>,
+[laugh],
 S0
 Speaker 0
 03:51
@@ -235,7 +235,7 @@ S0
 Speaker 0
 04:53
 04:53
-Two were were four and one. They were trying to Yeah. Make some agreement between themselves and it didn't work out. <laugh>, <laugh>.
+Two were were four and one. They were trying to Yeah. Make some agreement between themselves and it didn't work out. [laugh], [laugh].
 S1
 Speaker 1
 05:05
@@ -250,17 +250,17 @@ S1
 Speaker 1
 05:13
 05:13
-Oh, okay. Lovely. C uh, so how do you know Mark, and, uh, more importantly, like how did knowing Mark mean that you took this phone call <laugh>?
+Oh, okay. Lovely. C uh, so how do you know Mark, and, uh, more importantly, like how did knowing Mark mean that you took this phone call [laugh]?
 S0
 Speaker 0
 05:25
 05:25
-Um, well, I take pretty much any phone call he would suggest me. It takes <laugh> <laugh>. Oh, bless him. So I have no idea. I have no idea what to do. So we, we will have to discuss that. But, uh, the way I know Mark is, uh, yeah, that, that goes back quite, quite a decade, I think. Um, so I was, um, I was a CDO at a, uh, at a large, uh, telco company. Mm-Hmm. <affirmative> at one point. Uh, and, uh, yeah, he was, uh, his, his team was working with, with, with my team on some Android services and stuff. Yes. At that point we were, we were, um, well that was 2000 15, 16, 17. So yeah, we were building like telco driven ecosystem kind of stuff, and we're looking for all sorts of different services and strong partnerships. And one of the units I was running was, was the, uh, digital partnerships thing.
+Um, well, I take pretty much any phone call he would suggest me. It takes [laugh] [laugh]. Oh, bless him. So I have no idea. I have no idea what to do. So we, we will have to discuss that. But, uh, the way I know Mark is, uh, yeah, that, that goes back quite, quite a decade, I think. Um, so I was, um, I was a CDO at a, uh, at a large, uh, telco company. Mm-Hmm. [affirmative] at one point. Uh, and, uh, yeah, he was, uh, his, his team was working with, with, with my team on some Android services and stuff. Yes. At that point we were, we were, um, well that was 2000 15, 16, 17. So yeah, we were building like telco driven ecosystem kind of stuff, and we're looking for all sorts of different services and strong partnerships. And one of the units I was running was, was the, uh, digital partnerships thing.
 S0
 Speaker 0
 06:25
 06:25
-Mm-Hmm. <affirmative>. So we worked with Apple's, Facebook's, Google's, all these guys. And so Mark's team, which was also my team from the previous job, so, um, right. Uh, uh, he, they, they introduced me to him. He came over to Moscow and we met a couple of times and discussing all the strategic kind of projects. And ever since then, we've been in touch for whatever reason. I don't know really. <laugh>, he's a nice guy. Now, his team has even more people whom I know, because I worked for Apple before that for quite a long time. And, uh, some of the guys who work for him now in northern Europe and the uk, uh, they used to be my, uh, mates in, in, in the Apple London office. And yeah. So we have more, uh, connection than you would imagine. Yeah.
+Mm-Hmm. [affirmative]. So we worked with Apple's, Facebook's, Google's, all these guys. And so Mark's team, which was also my team from the previous job, so, um, right. Uh, uh, he, they, they introduced me to him. He came over to Moscow and we met a couple of times and discussing all the strategic kind of projects. And ever since then, we've been in touch for whatever reason. I don't know really. [laugh], he's a nice guy. Now, his team has even more people whom I know, because I worked for Apple before that for quite a long time. And, uh, some of the guys who work for him now in northern Europe and the uk, uh, they used to be my, uh, mates in, in, in the Apple London office. And yeah. So we have more, uh, connection than you would imagine. Yeah.
 S1
 Speaker 1
 07:17
@@ -275,17 +275,17 @@ S1
 Speaker 1
 08:12
 08:12
-Very cool. Um, so yeah, so what is it that you do then? So obviously it says it's got a nice fancy title on LinkedIn, and obviously that's Sanofi. Um, I've worked with Sanofi at some point in my history, like a long time ago as a contractor. Um, but mm-Hmm. <affirmative>, yeah. Not for a long time. And it was in a very different kind of area to what I'm doing now. Um, but yeah. What is it that you do?
+Very cool. Um, so yeah, so what is it that you do then? So obviously it says it's got a nice fancy title on LinkedIn, and obviously that's Sanofi. Um, I've worked with Sanofi at some point in my history, like a long time ago as a contractor. Um, but mm-Hmm. [affirmative], yeah. Not for a long time. And it was in a very different kind of area to what I'm doing now. Um, but yeah. What is it that you do?
 S0
 Speaker 0
 08:34
 08:34
-Uh, so I'm part of that unit, which is called, um, digital healthcare, um, Mm-Hmm. <affirmative> essentially, uh, this is, this is like a little startup, uh, within the corporation. Um, Mm-Hmm. <affirmative> not that little anymore, but I guess. But, uh, uh, so what we do is we, we do patient, uh, orientated services. So, uh, uh, specifically in the area of, uh, chronic disease management like your, you know, diabetes, cardiovascular, all that stuff that happens to you and then never goes away really. And you have to adjust your lifestyle and whatnot. Hmm. Uh, and, uh, like from a big picture perspective, there are two, two boxes really of stuff we do. One is, uh, your very standardized, very pharma, um, so-called psps, uh, patient support programs. Mm-Hmm. <affirmative>. So this is a very standardized, very specific term. And, uh, there you just do, um, essentially digital services around your drug, uh, administration process.
+Uh, so I'm part of that unit, which is called, um, digital healthcare, um, Mm-Hmm. [affirmative] essentially, uh, this is, this is like a little startup, uh, within the corporation. Um, Mm-Hmm. [affirmative] not that little anymore, but I guess. But, uh, uh, so what we do is we, we do patient, uh, orientated services. So, uh, uh, specifically in the area of, uh, chronic disease management like your, you know, diabetes, cardiovascular, all that stuff that happens to you and then never goes away really. And you have to adjust your lifestyle and whatnot. Hmm. Uh, and, uh, like from a big picture perspective, there are two, two boxes really of stuff we do. One is, uh, your very standardized, very pharma, um, so-called psps, uh, patient support programs. Mm-Hmm. [affirmative]. So this is a very standardized, very specific term. And, uh, there you just do, um, essentially digital services around your drug, uh, administration process.
 S0
 Speaker 0
 09:44
 09:44
-Okay. Yeah. So you, you can have a certain, you know, uh, I don't know, Dupixent, which is our major, major drug now, which is, uh, around, uh, asthma, uh mm-Hmm. Chronic customer condition. Mm-Hmm. And, uh, yeah. And you need to have an app where you can kind of quickly diagnose yourself through a, uh, phone and then get the, uh, get the, you know, education elements and, you know, know what you're doing and connect with your doctor and have a telemed in there. So, you know, stuff like that. Who, um, that's one box. This is pretty standard. Uh, we are sort of just supporting, uh, the pharma brands. And on the other side, what we're trying to do really is, is, is build a, um, platform, um, for, um, well, right now we're focused on diabetes mainly. Mm-Hmm. <affirmative> on, um, like a disease management thing.
+Okay. Yeah. So you, you can have a certain, you know, uh, I don't know, Dupixent, which is our major, major drug now, which is, uh, around, uh, asthma, uh mm-Hmm. Chronic customer condition. Mm-Hmm. And, uh, yeah. And you need to have an app where you can kind of quickly diagnose yourself through a, uh, phone and then get the, uh, get the, you know, education elements and, you know, know what you're doing and connect with your doctor and have a telemed in there. So, you know, stuff like that. Who, um, that's one box. This is pretty standard. Uh, we are sort of just supporting, uh, the pharma brands. And on the other side, what we're trying to do really is, is, is build a, um, platform, um, for, um, well, right now we're focused on diabetes mainly. Mm-Hmm. [affirmative] on, um, like a disease management thing.
 S0
 Speaker 0
 10:39
@@ -295,7 +295,7 @@ S0
 Speaker 0
 11:36
 11:36
-It is already officially a, um, an epidemic by, uh, the World, world Health Organization standards. Uh, yeah. Give them the number of people who are sick with it, and the number of, and and, and the growth really, the, the speed with which you get, you add new patients, it is technically a, an epidemic. Yeah. Yeah. Um, and so I, I'm not gonna go into a lot of details. So we, we do, um, uh, things around that. Uh, and what I do specifically is, is, um, I am in charge of regional strategy and operations. So, which, which that, what that means is I, I am in charge of launching specific local projects. Mm-Hmm. <affirmative>, because healthcare is fragmented by, by design. It is, it is embedded into, you know, national healthcare systems Yeah. Stuff. So it, it is local inherently, and you, you don't have like global healthcare market or something. It doesn't, doesn't exist because it's all usually government driven or local regulation driven, et cetera. Mm-Hmm. <affirmative>. Um, but we're trying to adopt our, uh, global strategy and global solutions to, uh, be relevant to particular markets. And so I'm in charge of rolling out those, those specific countries. Um, so right now
+It is already officially a, um, an epidemic by, uh, the World, world Health Organization standards. Uh, yeah. Give them the number of people who are sick with it, and the number of, and and, and the growth really, the, the speed with which you get, you add new patients, it is technically a, an epidemic. Yeah. Yeah. Um, and so I, I'm not gonna go into a lot of details. So we, we do, um, uh, things around that. Uh, and what I do specifically is, is, um, I am in charge of regional strategy and operations. So, which, which that, what that means is I, I am in charge of launching specific local projects. Mm-Hmm. [affirmative], because healthcare is fragmented by, by design. It is, it is embedded into, you know, national healthcare systems Yeah. Stuff. So it, it is local inherently, and you, you don't have like global healthcare market or something. It doesn't, doesn't exist because it's all usually government driven or local regulation driven, et cetera. Mm-Hmm. [affirmative]. Um, but we're trying to adopt our, uh, global strategy and global solutions to, uh, be relevant to particular markets. And so I'm in charge of rolling out those, those specific countries. Um, so right now
 S1
 Speaker 1
 13:01
@@ -315,17 +315,17 @@ S0
 Speaker 0
 13:18
 13:18
-Yeah. Yeah. So there, there are two elements of this. First of all, we are essentially focused on building the backend Mm. For the system. 'cause the, the overall business model is, uh, is, is is data management. So we're giving the actual end user service for free. We don't charge for it. Mm-Hmm mm-Hmm. <affirmative>. Um, and, uh, we do that in exchange for data. So we get data from the customers and then we anonymize it and all these other things which pharma has to do. Um, and, uh, then we reuse it in a way that we enhance the, uh, you know, the, the experience and essentially give that back to the end user and, you know, make the services better. Mm-Hmm. And, uh, the backend stuff can, can work globally. It is, it is not easy. Uh, like markets like China, for example, that that would be incredibly difficult to, uh, to, uh, pull this off in.
+Yeah. Yeah. So there, there are two elements of this. First of all, we are essentially focused on building the backend Mm. For the system. 'cause the, the overall business model is, uh, is, is is data management. So we're giving the actual end user service for free. We don't charge for it. Mm-Hmm mm-Hmm. [affirmative]. Um, and, uh, we do that in exchange for data. So we get data from the customers and then we anonymize it and all these other things which pharma has to do. Um, and, uh, then we reuse it in a way that we enhance the, uh, you know, the, the experience and essentially give that back to the end user and, you know, make the services better. Mm-Hmm. And, uh, the backend stuff can, can work globally. It is, it is not easy. Uh, like markets like China, for example, that that would be incredibly difficult to, uh, to, uh, pull this off in.
 S0
 Speaker 0
 14:21
 14:21
-But still, we have a Chinese project as well, which is completely separated from the rest of it, but Right. Well's follow, they're, they're not that many markets which are at as crazy as, as the Chinese. Okay. The rest are more favorable. And then when it comes to the front end services, which, which are customer facing and customer, both patient facing and physician facing, and the care team facing Mm-Hmm. <affirmative>, all of those were not intending to build our, you know, ourselves. We have built elements, uh mm-Hmm. <affirmative>. And we know how to, you know, like, I'll give you an example. For example, the education piece like pharma is, is huge in that. So if pharma has decades of experience training, uh, both care teams and patients on certain solutions to battle with those diseases, right? So for example, we know we have our content, we, we, you know, we have all of this figured out, but the front end services really use, uh, partnerships.
+But still, we have a Chinese project as well, which is completely separated from the rest of it, but Right. Well's follow, they're, they're not that many markets which are at as crazy as, as the Chinese. Okay. The rest are more favorable. And then when it comes to the front end services, which, which are customer facing and customer, both patient facing and physician facing, and the care team facing Mm-Hmm. [affirmative], all of those were not intending to build our, you know, ourselves. We have built elements, uh mm-Hmm. [affirmative]. And we know how to, you know, like, I'll give you an example. For example, the education piece like pharma is, is huge in that. So if pharma has decades of experience training, uh, both care teams and patients on certain solutions to battle with those diseases, right? So for example, we know we have our content, we, we, you know, we have all of this figured out, but the front end services really use, uh, partnerships.
 S0
 Speaker 0
 15:27
 15:27
-So we come into the market, we look for what's best there in the area. Mm-Hmm. <affirmative>. And, uh, we partner with them Mm-Hmm. <affirmative>. And we launch our stuff through those local partners, uh, that also gives us access and, you know, makes it easier to enter, because like the, my my, my main project now is Saudi Arabia. Okay. Uh, that is, and, and my second project now, which was just signed actually last week, uh, finally all the paperwork and we're launching the kickoff two weeks from now is Mexico. So you, you can't really find too many commonalities between two, those, those two places, <laugh> very, uh, very different, as different as could be. Right? Yeah. Almost. So, and that way it's really, as you say, it's very hard to see how you can stretch one solution to be relevant to so diverse environment. Yeah. Yeah. Also, you know, the regulation is very different.
+So we come into the market, we look for what's best there in the area. Mm-Hmm. [affirmative]. And, uh, we partner with them Mm-Hmm. [affirmative]. And we launch our stuff through those local partners, uh, that also gives us access and, you know, makes it easier to enter, because like the, my my, my main project now is Saudi Arabia. Okay. Uh, that is, and, and my second project now, which was just signed actually last week, uh, finally all the paperwork and we're launching the kickoff two weeks from now is Mexico. So you, you can't really find too many commonalities between two, those, those two places, [laugh] very, uh, very different, as different as could be. Right? Yeah. Almost. So, and that way it's really, as you say, it's very hard to see how you can stretch one solution to be relevant to so diverse environment. Yeah. Yeah. Also, you know, the regulation is very different.
 S0
 Speaker 0
 16:29
@@ -335,7 +335,7 @@ S0
 Speaker 0
 17:27
 17:27
-Um, there's not much regulation. So this is like a wild west, so you can do a lot of things there. Yeah, yeah. Yeah. Um, and well, Saudi Arabia area, yeah. It is very opposite. So there everything is completely like, controlled and very tight. Um, yeah. And just to finish all the speech, so I'm, I'm actually, uh, I have got no background in, in, in healthcare. So that's my first and last maybe job, uh, in the, in the area. Uh, and so I worked before in the telco business for quite some time. That's when I met Mark for about 10 years. I worked for two major telecom companies. Yeah. Doing new services and stuff. Mm-Hmm. <affirmative>. And then I worked for Apple for some time, and then I worked for, uh, also software development company in Singapore Global one where we did blockchain based solutions for data protection. Uh, okay. And then the last one,
+Um, there's not much regulation. So this is like a wild west, so you can do a lot of things there. Yeah, yeah. Yeah. Um, and well, Saudi Arabia area, yeah. It is very opposite. So there everything is completely like, controlled and very tight. Um, yeah. And just to finish all the speech, so I'm, I'm actually, uh, I have got no background in, in, in healthcare. So that's my first and last maybe job, uh, in the, in the area. Uh, and so I worked before in the telco business for quite some time. That's when I met Mark for about 10 years. I worked for two major telecom companies. Yeah. Doing new services and stuff. Mm-Hmm. [affirmative]. And then I worked for Apple for some time, and then I worked for, uh, also software development company in Singapore Global one where we did blockchain based solutions for data protection. Uh, okay. And then the last one,
 S1
 Speaker 1
 18:27
@@ -345,7 +345,7 @@ S0
 Speaker 0
 18:28
 18:28
-Innovative stuff. Yeah. Always innovative. Yeah, exactly. And the last thing I did before joining pharma, I worked for a video game company. So that was, uh, that was fun. It's like Mexico and Saudi Arabia. You can't really see a lot of similarities between video games and then healthcare. Yeah. Because as far as it gets really <laugh>, uh, in, in many ways. Uh, but it was fun. Yeah. I was a VP for new business development and, um, and, and, and a major publisher. So I had to source games Yeah. To publish.
+Innovative stuff. Yeah. Always innovative. Yeah, exactly. And the last thing I did before joining pharma, I worked for a video game company. So that was, uh, that was fun. It's like Mexico and Saudi Arabia. You can't really see a lot of similarities between video games and then healthcare. Yeah. Because as far as it gets really [laugh], uh, in, in many ways. Uh, but it was fun. Yeah. I was a VP for new business development and, um, and, and, and a major publisher. So I had to source games Yeah. To publish.
 S1
 Speaker 1
 19:02
@@ -360,7 +360,7 @@ S1
 Speaker 1
 19:05
 19:05
-That sounds so totally different <laugh> to what
+That sounds so totally different [laugh] to what
 S0
 Speaker 0
 19:08
@@ -380,12 +380,12 @@ S1
 Speaker 1
 19:22
 19:22
-Uh, so we are a customer research startup. We started in January, 2023. Uh, and Google was our first customer <laugh>. Uh, so we got very fortunate with them. Uh, it was very timely. I, I created a, an early prototype of, uh, a customer engagement, customer research system, uh, that allowed field research Mm-Hmm. <affirmative>. So it allowed remote re uh, research to take place instead of, like, historically where the Google's researchers would either bring participants into their lab environments in their offices, or where their researchers would go out, you know, with a clipboard and type up all the notes and ask questions of customers as they go. Uh, we kind of facilitated, uh, is a web RTC based system, but also some of the higher end kind of broadcast protocols integrated in there for the higher end camera systems in the lab environments. Um, but essentially we created a, um, a research system, uh, that the Google UX team could use primarily for product research.
+Uh, so we are a customer research startup. We started in January, 2023. Uh, and Google was our first customer [laugh]. Uh, so we got very fortunate with them. Uh, it was very timely. I, I created a, an early prototype of, uh, a customer engagement, customer research system, uh, that allowed field research Mm-Hmm. [affirmative]. So it allowed remote re uh, research to take place instead of, like, historically where the Google's researchers would either bring participants into their lab environments in their offices, or where their researchers would go out, you know, with a clipboard and type up all the notes and ask questions of customers as they go. Uh, we kind of facilitated, uh, is a web RTC based system, but also some of the higher end kind of broadcast protocols integrated in there for the higher end camera systems in the lab environments. Um, but essentially we created a, um, a research system, uh, that the Google UX team could use primarily for product research.
 S1
 Speaker 1
 20:15
 20:15
-Um, but mm-Hmm. <affirmative>, uh, but I'm looking more broadly to get into customer research and, and healthcare longer term, because I think there's a big opportunity to have a, a more impactful, um, uh, more impact basically in the healthcare world. Longer term. I think research in the field can be such a hard thing to do and such a hard thing to do well. But I think the tools that, that we have these days, the, the, the ability to have that real time communication and the ability to apply natural language processing to what a research is saying and to what a participant is answering to make sure that they get better quality research and better quality insights out of the systems. Um, so yeah, that's kind of what I'm about. Uh, was really interested to hear what you were saying there about your kind of patient engagement, um, and sort of how you, how you go about doing that, um, to see if there's any Yeah. Any challenges that you have. You know, we've just, uh, raised finance, um, and so we've got a reasonable amount of money, uh, and I'm just trying to work out exactly where to spend that money next. Um, in terms of what to, what to lean into. Um, and I'd love to start making ways into healthcare, but I do appreciate it's probably a three to five year journey. 'cause it's quite a challenge, a regulatory challenge from everything that everyone tells me. Um,
+Um, but mm-Hmm. [affirmative], uh, but I'm looking more broadly to get into customer research and, and healthcare longer term, because I think there's a big opportunity to have a, a more impactful, um, uh, more impact basically in the healthcare world. Longer term. I think research in the field can be such a hard thing to do and such a hard thing to do well. But I think the tools that, that we have these days, the, the, the ability to have that real time communication and the ability to apply natural language processing to what a research is saying and to what a participant is answering to make sure that they get better quality research and better quality insights out of the systems. Um, so yeah, that's kind of what I'm about. Uh, was really interested to hear what you were saying there about your kind of patient engagement, um, and sort of how you, how you go about doing that, um, to see if there's any Yeah. Any challenges that you have. You know, we've just, uh, raised finance, um, and so we've got a reasonable amount of money, uh, and I'm just trying to work out exactly where to spend that money next. Um, in terms of what to, what to lean into. Um, and I'd love to start making ways into healthcare, but I do appreciate it's probably a three to five year journey. 'cause it's quite a challenge, a regulatory challenge from everything that everyone tells me. Um,
 S0
 Speaker 0
 21:30
@@ -410,7 +410,7 @@ S0
 Speaker 0
 22:47
 22:47
-Uh, the regulation is something you can read about. Mm-Hmm. <affirmative>. And essentially it, it is being tackled by filling out forms Right. With the right words and sending them to the right people. And then waiting until they, you know, like
+Uh, the regulation is something you can read about. Mm-Hmm. [affirmative]. And essentially it, it is being tackled by filling out forms Right. With the right words and sending them to the right people. And then waiting until they, you know, like
 S1
 Speaker 1
 23:02
@@ -445,7 +445,7 @@ S1
 Speaker 1
 24:05
 24:05
-<laugh> ghost in the machine.
+[laugh] ghost in the machine.
 S0
 Speaker 0
 24:07
@@ -560,7 +560,7 @@ S0
 Speaker 0
 26:48
 26:48
-What, what we get is we get scared usually <laugh>. Yes. The reality is we shouldn't because they are fundamentally different in the way they perceive everything. And, uh, usually when you get scared, you think others are hostile and they're trying to get to you.
+What, what we get is we get scared usually [laugh]. Yes. The reality is we shouldn't because they are fundamentally different in the way they perceive everything. And, uh, usually when you get scared, you think others are hostile and they're trying to get to you.
 S1
 Speaker 1
 27:07
@@ -570,7 +570,7 @@ S0
 Speaker 0
 27:09
 27:09
-Which is really not the case. They have a very different agenda. But anyhow, that's a whole different story. What, what, what I'm bringing this up is, is because there, this latest guy, uh, I, I can I can send you an email, but, uh, uh, a Chinese writer, he wrote, um, um, like three books, uh mm-Hmm. <affirmative> sci-Fi books Done by a Chinese guy for the Chinese audience. Mm-Hmm. <affirmative>. So it is incredibly, uh, I don't know how to put that. I don't know the words for it, but it, it, it's, it, it is very complex. Very, uh, very well, a lot of sus Mm-Hmm. <affirmative>, you know, the way you wouldn't imagine how, how, how terrified you get when you watch or read that. Yeah. Yeah. And they have a very different view, and it's about aliens. Okay. The, the fact that we're not alone in the universe and, uh Mm-Hmm. <affirmative> that the universe is actually coming to us, um Mm-Hmm. <affirmative>. And, um, it'll not be pleasant when we meet with those other guys. Right. Um, it's pretty fun. But, and what's it called? Just launched? Uh, it's called the Three Body Problem.
+Which is really not the case. They have a very different agenda. But anyhow, that's a whole different story. What, what, what I'm bringing this up is, is because there, this latest guy, uh, I, I can I can send you an email, but, uh, uh, a Chinese writer, he wrote, um, um, like three books, uh mm-Hmm. [affirmative] sci-Fi books Done by a Chinese guy for the Chinese audience. Mm-Hmm. [affirmative]. So it is incredibly, uh, I don't know how to put that. I don't know the words for it, but it, it, it's, it, it is very complex. Very, uh, very well, a lot of sus Mm-Hmm. [affirmative], you know, the way you wouldn't imagine how, how, how terrified you get when you watch or read that. Yeah. Yeah. And they have a very different view, and it's about aliens. Okay. The, the fact that we're not alone in the universe and, uh Mm-Hmm. [affirmative] that the universe is actually coming to us, um Mm-Hmm. [affirmative]. And, um, it'll not be pleasant when we meet with those other guys. Right. Um, it's pretty fun. But, and what's it called? Just launched? Uh, it's called the Three Body Problem.
 S1
 Speaker 1
 28:19
@@ -660,7 +660,7 @@ S0
 Speaker 0
 33:19
 33:19
-Yes. Huge part of our, um, experience, which we try to build into those solutions is exactly, um, is exactly about, uh, lifestyle consumer normal UX ui, which is not typical for the healthcare world. Mm-Hmm. <affirmative>. Yeah. Usually everything is screwed up completely here and it's cumbersome to use and whatever. Yeah. Yeah. So that's probably the best place to start and not, you know, people like us. Um, so what I suggest we do, because we do a bunch of UX UI research now and we're designing the platform and there is a whole team which is dedicated to, um, to, uh, experience. Yeah. And, uh, we love working with new partners. So Mm-Hmm. <affirmative> over the last two years since I was in France, I think we hired about a dozen of new vendors across the board because usually we can't get, as a team, we can't get what we need to get through traditional normal pharma.
+Yes. Huge part of our, um, experience, which we try to build into those solutions is exactly, um, is exactly about, uh, lifestyle consumer normal UX ui, which is not typical for the healthcare world. Mm-Hmm. [affirmative]. Yeah. Usually everything is screwed up completely here and it's cumbersome to use and whatever. Yeah. Yeah. So that's probably the best place to start and not, you know, people like us. Um, so what I suggest we do, because we do a bunch of UX UI research now and we're designing the platform and there is a whole team which is dedicated to, um, to, uh, experience. Yeah. And, uh, we love working with new partners. So Mm-Hmm. [affirmative] over the last two years since I was in France, I think we hired about a dozen of new vendors across the board because usually we can't get, as a team, we can't get what we need to get through traditional normal pharma.
 S1
 Speaker 1
 34:18
@@ -680,7 +680,7 @@ S0
 Speaker 0
 34:44
 34:44
-Yeah. Lemme gimme a second. Um, so there is an email I sent you. Um, cool. Now what you should do is send me some sort of three page deck or whatever you have, uh, in terms of, you know, telling us about yourself a little bit. Um, and you know, and mentioned that you want to, you know, tap into healthcare somehow, um, et cetera. Mm-Hmm. <affirmative>. Yeah. So I would then connect you with, um, a girl who is in charge of experience. Mm-Hmm. <affirmative> a part of our team. Uh, she's based in Vancouver, Canada, so on the west coast Yeah, yeah. Of Amer America. So that's, that's a little bit of a challenge in terms of time zones, but, uh,
+Yeah. Lemme gimme a second. Um, so there is an email I sent you. Um, cool. Now what you should do is send me some sort of three page deck or whatever you have, uh, in terms of, you know, telling us about yourself a little bit. Um, and you know, and mentioned that you want to, you know, tap into healthcare somehow, um, et cetera. Mm-Hmm. [affirmative]. Yeah. So I would then connect you with, um, a girl who is in charge of experience. Mm-Hmm. [affirmative] a part of our team. Uh, she's based in Vancouver, Canada, so on the west coast Yeah, yeah. Of Amer America. So that's, that's a little bit of a challenge in terms of time zones, but, uh,
 S1
 Speaker 1
 35:35
@@ -705,12 +705,12 @@ S1
 Speaker 1
 36:59
 36:59
-Oh, okay. <crosstalk>. Have you got an, an agency that you partner with on that?
+Oh, okay. [crosstalk]. Have you got an, an agency that you partner with on that?
 S0
 Speaker 0
 37:02
 37:02
-Oh, there is an internal team, first of all, an internal team. Yeah. You can talk to, uh, and then also because Sanofi is, is huge. I mean, that's a massive Yeah, yeah. Massive company. We have, um, essentially three pretty much separate, uh, we call them gbu, global business units. Yeah. Uh, which operate, uh, with completely different types of products. So I am part of, so-called general medicines, which is Mm-Hmm. <affirmative> everything, essentially all the pharma stuff. It's uh, you also can call it just the pharma business. Yeah. Then there is another one which is SFI past, which is vaccines. They only do vaccine business. Mm-Hmm. <affirmative>, which might not be something, uh, that you, you could go into. I think that's a very, very specific, very government driven kind of operation. Yeah. Uh, and then there is the third one, which is called consumer healthcare. Okay. Uh, which is your, uh, over the counter stuff.
+Oh, there is an internal team, first of all, an internal team. Yeah. You can talk to, uh, and then also because Sanofi is, is huge. I mean, that's a massive Yeah, yeah. Massive company. We have, um, essentially three pretty much separate, uh, we call them gbu, global business units. Yeah. Uh, which operate, uh, with completely different types of products. So I am part of, so-called general medicines, which is Mm-Hmm. [affirmative] everything, essentially all the pharma stuff. It's uh, you also can call it just the pharma business. Yeah. Then there is another one which is SFI past, which is vaccines. They only do vaccine business. Mm-Hmm. [affirmative], which might not be something, uh, that you, you could go into. I think that's a very, very specific, very government driven kind of operation. Yeah. Uh, and then there is the third one, which is called consumer healthcare. Okay. Uh, which is your, uh, over the counter stuff.
 S1
 Speaker 1
 38:07
@@ -730,7 +730,7 @@ S0
 Speaker 0
 38:21
 38:21
-Exactly the FMCG business with the FMCG business model. Mm-Hmm. <affirmative> a lot of TV and internet advertising. Okay. So because this is what, there's a lot of products you can sell without a prescription just in the pharmacy. So this is your normal business general. Yeah, yeah, yeah. And so they have way the, the, the bar in terms of regulations is much lower for them. Yeah. Mm-Hmm. <affirmative>. So there you can, in pretty much any market, you can do anything, you can advertise on tv, you can talk to consumers, uh, directly about all of this. You can give 'em samples. I mean, lots of, some things you can do. It's just much more normal kind of business. Yeah. Um, I can connect you with them as well. Uh, and they're, uh, well, they're usually looking for all sorts of new ways of doing stuff because they're just like with FMCG business, they're, they're challenges. They very simple, how do we maximize, uh, our marketing, uh, you know, uh, effects with spending less money. And then, uh, usually you sort of need to dig deeper into the insights and tailor your communications and your product packaging and all the things you can change Yeah. To the needs of those customers across the world. Um, and I obviously know a bunch of people there, so, uh, I can connect with them as well. So we have at least three different,
+Exactly the FMCG business with the FMCG business model. Mm-Hmm. [affirmative] a lot of TV and internet advertising. Okay. So because this is what, there's a lot of products you can sell without a prescription just in the pharmacy. So this is your normal business general. Yeah, yeah, yeah. And so they have way the, the, the bar in terms of regulations is much lower for them. Yeah. Mm-Hmm. [affirmative]. So there you can, in pretty much any market, you can do anything, you can advertise on tv, you can talk to consumers, uh, directly about all of this. You can give 'em samples. I mean, lots of, some things you can do. It's just much more normal kind of business. Yeah. Um, I can connect you with them as well. Uh, and they're, uh, well, they're usually looking for all sorts of new ways of doing stuff because they're just like with FMCG business, they're, they're challenges. They very simple, how do we maximize, uh, our marketing, uh, you know, uh, effects with spending less money. And then, uh, usually you sort of need to dig deeper into the insights and tailor your communications and your product packaging and all the things you can change Yeah. To the needs of those customers across the world. Um, and I obviously know a bunch of people there, so, uh, I can connect with them as well. So we have at least three different,
 S1
 Speaker 1
 39:43
@@ -900,17 +900,17 @@ S0
 Speaker 0
 01:50
 01:50
-Cool. Let me go. Okay, fabulous. Um, so yeah, let me just, uh, you know, when you've just switched off everything, you're trying to get everything up and running again. Uh, yeah. So, um, yeah. So I've been, uh, quite, quite fortunate over the last year to, um, to, uh, I started a software company, uh, and, uh, we were very lucky to win Google as a first customer, which, um, essentially allowed us to work very closely with their internal research team focused on their qualitative research. Mm-Hmm. <affirmative>. Um, so they're mainly doing usability studies, which isn't necessarily directly relating to, to what you do, but just really interested to understand, um, yeah, I guess how you use research in the, in the, in your specific disease space and what some of those challenges are, um, to, uh, yeah, to see if, uh, as we develop our product, um, um, you know, it's, it's never, I'm not selling you anything right now.
+Cool. Let me go. Okay, fabulous. Um, so yeah, let me just, uh, you know, when you've just switched off everything, you're trying to get everything up and running again. Uh, yeah. So, um, yeah. So I've been, uh, quite, quite fortunate over the last year to, um, to, uh, I started a software company, uh, and, uh, we were very lucky to win Google as a first customer, which, um, essentially allowed us to work very closely with their internal research team focused on their qualitative research. Mm-Hmm. [affirmative]. Um, so they're mainly doing usability studies, which isn't necessarily directly relating to, to what you do, but just really interested to understand, um, yeah, I guess how you use research in the, in the, in your specific disease space and what some of those challenges are, um, to, uh, yeah, to see if, uh, as we develop our product, um, um, you know, it's, it's never, I'm not selling you anything right now.
 S0
 Speaker 0
 02:41
 02:41
-It's, it's very early, early stages. Um, but I'd love to make sure that we are prepared for, um, being able to help in healthcare longer term, um, in <inaudible>, that that may be. Um, so yeah, I'd love to just understand a little bit about, about your space, what you do, what those challenges are. Um, that'd be fantastic. You know, our kind of tagline for now is that we do AI for customer research, um, which is quite broad. We essentially have one customer, which is Google, um, and a few other small people that have, uh, dipped, dipped their toe. Um, and I think what Google found quite useful was just the ability for their researchers to do their qualitative research remotely. Um, you know, they're obviously, they're very global organization, um, and they've got different compliance risks that they have to manage in different, uh, jurisdictions, and that they're very sort of hot on that. So, um, being such an early stage startup, we could, you know, deploy systems into very specific areas and make sure we knew exactly where data was being held and what the retention policies were, and kind of set that up exactly as they needed it. So they got quite a configured, customized solution. Um, but yeah, I mean, tell me a little bit about what you do. You've obviously been involved in with Pfizer and then with Roche and you strictly experienced in this space. Um, yeah,
+It's, it's very early, early stages. Um, but I'd love to make sure that we are prepared for, um, being able to help in healthcare longer term, um, in [inaudible], that that may be. Um, so yeah, I'd love to just understand a little bit about, about your space, what you do, what those challenges are. Um, that'd be fantastic. You know, our kind of tagline for now is that we do AI for customer research, um, which is quite broad. We essentially have one customer, which is Google, um, and a few other small people that have, uh, dipped, dipped their toe. Um, and I think what Google found quite useful was just the ability for their researchers to do their qualitative research remotely. Um, you know, they're obviously, they're very global organization, um, and they've got different compliance risks that they have to manage in different, uh, jurisdictions, and that they're very sort of hot on that. So, um, being such an early stage startup, we could, you know, deploy systems into very specific areas and make sure we knew exactly where data was being held and what the retention policies were, and kind of set that up exactly as they needed it. So they got quite a configured, customized solution. Um, but yeah, I mean, tell me a little bit about what you do. You've obviously been involved in with Pfizer and then with Roche and you strictly experienced in this space. Um, yeah,
 S1
 Speaker 1
 03:48
 03:48
-Yeah. Just before I do, just one quick question. So when, when you talk about research and consumer research Yeah. What, what do you mean? Right, because I, I wanna check we're talking about the same thing because the kind of consumer research that, for example, you might be talking about or that you, that Google needs is very different from the kind of research that we do. So we do market research, we do note pulls. We, we do interviews. Mm-Hmm. <affirmative>. Um, and, but, but where we have a bit of a black hole is in, in the kind of digital space and knowing how to use that properly, given that we're so heavily regulated in what we're allowed to do and say Yeah. What kind of research we can do with, um, you know, with patients, individuals that are not doctors Exactly. Patients, you know, that the bottom line is we would love to have better relationships with our patients. However, you know, they're always very high risk relationships, particularly when we're doing different sorts of research and we're trying to communicate because that's, yeah. I, i illegal in most countries outside of the US to communicate directly. So w when you talk about research, what, what are, what do you, um, what do you mean?
+Yeah. Just before I do, just one quick question. So when, when you talk about research and consumer research Yeah. What, what do you mean? Right, because I, I wanna check we're talking about the same thing because the kind of consumer research that, for example, you might be talking about or that you, that Google needs is very different from the kind of research that we do. So we do market research, we do note pulls. We, we do interviews. Mm-Hmm. [affirmative]. Um, and, but, but where we have a bit of a black hole is in, in the kind of digital space and knowing how to use that properly, given that we're so heavily regulated in what we're allowed to do and say Yeah. What kind of research we can do with, um, you know, with patients, individuals that are not doctors Exactly. Patients, you know, that the bottom line is we would love to have better relationships with our patients. However, you know, they're always very high risk relationships, particularly when we're doing different sorts of research and we're trying to communicate because that's, yeah. I, i illegal in most countries outside of the US to communicate directly. So w when you talk about research, what, what are, what do you, um, what do you mean?
 S0
 Speaker 0
 04:47
@@ -920,17 +920,17 @@ S1
 Speaker 1
 05:16
 05:16
-It is. So, uh, lemme give you a bit of background, right. So I'll tell you a little bit about, um, me and my, my background, what I do now, Mm-Hmm. So I, um, mark's right. I'm, I'm assuming he's sort of shared a little bit of, um, background or you've been, been onto LinkedIn, <laugh>. Yeah. Yeah. Um, but, so I, I did about 18 years at Pfizer, and I've been at Roche now for 10, 12 years. Mm-Hmm. <affirmative>. Um, I've done a bit of everything, but primarily my, my, my roles over the last 10, 15 years have been, um, kind of general management of disease portfolios, kind of mm-Hmm. <affirmative>, um, within either UK board or, uh, working for global, uh, the global team. And, and global is really where I'm, I am now. And where I'll probably stay for a while now 'cause it's what I like.
+It is. So, uh, lemme give you a bit of background, right. So I'll tell you a little bit about, um, me and my, my background, what I do now, Mm-Hmm. So I, um, mark's right. I'm, I'm assuming he's sort of shared a little bit of, um, background or you've been, been onto LinkedIn, [laugh]. Yeah. Yeah. Um, but, so I, I did about 18 years at Pfizer, and I've been at Roche now for 10, 12 years. Mm-Hmm. [affirmative]. Um, I've done a bit of everything, but primarily my, my, my roles over the last 10, 15 years have been, um, kind of general management of disease portfolios, kind of mm-Hmm. [affirmative], um, within either UK board or, uh, working for global, uh, the global team. And, and global is really where I'm, I am now. And where I'll probably stay for a while now 'cause it's what I like.
 S1
 Speaker 1
 05:55
 05:55
-Yeah. Um, I tend to work more in rare diseases, so, Mm-Hmm. <affirmative>, spinal muscular atrophy and new gene therapies for Duchenne muscular dystrophy. So, Mm-Hmm. <affirmative>, um, where we have a smaller number of patients, but where the communities themselves are much more integrated, so patient groups, patients Mm-Hmm. <affirmative> doctors rather than something like high blood pressure where, you know, you don't, you know, everybody with high blood pressure doesn't talk to each other and know each other and necessarily join a, um, a patient support group. Mm-Hmm. If one of your children has Duchenne muscular dystrophy or spinal muscular atrophy, they, they're like a small family, so Yeah. Outside even of the, of the individual countries that they live in. Mm-Hmm. The, the HCPs, the healthcare professionals tend to know each other. Yeah. A number of, um, therapy area experts tends to be smaller Mm-Hmm. Um, but also patients, patient groups, uh, and healthcare professionals have much closer relationship with their patients.
+Yeah. Um, I tend to work more in rare diseases, so, Mm-Hmm. [affirmative], spinal muscular atrophy and new gene therapies for Duchenne muscular dystrophy. So, Mm-Hmm. [affirmative], um, where we have a smaller number of patients, but where the communities themselves are much more integrated, so patient groups, patients Mm-Hmm. [affirmative] doctors rather than something like high blood pressure where, you know, you don't, you know, everybody with high blood pressure doesn't talk to each other and know each other and necessarily join a, um, a patient support group. Mm-Hmm. If one of your children has Duchenne muscular dystrophy or spinal muscular atrophy, they, they're like a small family, so Yeah. Outside even of the, of the individual countries that they live in. Mm-Hmm. The, the HCPs, the healthcare professionals tend to know each other. Yeah. A number of, um, therapy area experts tends to be smaller Mm-Hmm. Um, but also patients, patient groups, uh, and healthcare professionals have much closer relationship with their patients.
 S1
 Speaker 1
 06:46
 06:46
-So, Mm-Hmm. A typical neuromuscular physician, I don't know, they might, you know, if they're a, if they're a specialist neuromuscular, they might have 50 or 60 Duchenne patients. They'll probably know them all and they'll probably have looked after them for, for many, many years. Yeah. Most of those guys will, um, will also be part of patient groups. Mm-Hmm. <affirmative>. So that, that's duchenne on, on spinal muscular atrophy. There's the three versions of spinal muscular atrophy. The more severe one, which is type one, which is kind of deadly if it's not treated before. Mm-Hmm. Age two. Um, and our treatment will stop them from dying, uh, will stop 'em from dying and, and tend to lead to a, effectively a normal life. Yeah. But the biggest opportunity for us is in what's called a type two and type three patients. So these are less severe forms, often aren't diagnosed till later.
+So, Mm-Hmm. A typical neuromuscular physician, I don't know, they might, you know, if they're a, if they're a specialist neuromuscular, they might have 50 or 60 Duchenne patients. They'll probably know them all and they'll probably have looked after them for, for many, many years. Yeah. Most of those guys will, um, will also be part of patient groups. Mm-Hmm. [affirmative]. So that, that's duchenne on, on spinal muscular atrophy. There's the three versions of spinal muscular atrophy. The more severe one, which is type one, which is kind of deadly if it's not treated before. Mm-Hmm. Age two. Um, and our treatment will stop them from dying, uh, will stop 'em from dying and, and tend to lead to a, effectively a normal life. Yeah. But the biggest opportunity for us is in what's called a type two and type three patients. So these are less severe forms, often aren't diagnosed till later.
 S1
 Speaker 1
 07:30
@@ -980,12 +980,12 @@ S1
 Speaker 1
 09:48
 09:48
-We have untreated adults or, or untreated older patients with type two and type three, of which there's about 40% of the total population untreated. Yeah. But then we also have a competitor medicine, um, which many patients are still on 'cause it came first mm-Hmm mm-Hmm. <affirmative>. Um, and a lot of patients don't wanna switch across. Right. Even though our treatment, um, doesn't have to be injected in the spine. It's an oral treatment you can take at home. Yeah. Possibly has efficacy benefits as well, depending on who you believe on, on, on how you interpret the science. Mm-Hmm. <affirmative>. Um, but there are lots of good reasons why most of these people should be looking to switch cross. Many have, we are now the market leader. Yeah. Um, but we still have these two groups of patients, those that are on the existing treatment, and those that are on no treatment that for whatever reason are not being treated.
+We have untreated adults or, or untreated older patients with type two and type three, of which there's about 40% of the total population untreated. Yeah. But then we also have a competitor medicine, um, which many patients are still on 'cause it came first mm-Hmm mm-Hmm. [affirmative]. Um, and a lot of patients don't wanna switch across. Right. Even though our treatment, um, doesn't have to be injected in the spine. It's an oral treatment you can take at home. Yeah. Possibly has efficacy benefits as well, depending on who you believe on, on, on how you interpret the science. Mm-Hmm. [affirmative]. Um, but there are lots of good reasons why most of these people should be looking to switch cross. Many have, we are now the market leader. Yeah. Um, but we still have these two groups of patients, those that are on the existing treatment, and those that are on no treatment that for whatever reason are not being treated.
 S1
 Speaker 1
 10:32
 10:32
-Yeah. Yeah. We, we do an all, a whole load of research with patients and with, um, and with physicians to fi to figure out why that is. Mm-Hmm. <affirmative>, um, most of those are good old fashioned primary research. Right. So sit, sit, sitting down, interviewing neuromuscular physicians and specialists. Mm-Hmm. <affirmative> asking a series of questions, responding to stimuli. Mm-Hmm. <affirmative>. Um, same thing with the patients. Just, just, you know, series of questions. Are you treated? Yes. No. Yeah. And once, once they passed the screening, you know, we asked them a lot about things like when they, when they were treated, how did they decide on what treatment, you know, what did they make the decision? How well informed were they? Yeah. Yeah. What advice of the doctor, what did the doctor say to them? Mm-Hmm. <affirmative>. Um, what, what, what effectively made the final decision? Mm-Hmm. <affirmative>. So we do some of that's primary research. Some of that's done as questionnaires online. Mm-Hmm. <affirmative>. Um, but the
+Yeah. Yeah. We, we do an all, a whole load of research with patients and with, um, and with physicians to fi to figure out why that is. Mm-Hmm. [affirmative], um, most of those are good old fashioned primary research. Right. So sit, sit, sitting down, interviewing neuromuscular physicians and specialists. Mm-Hmm. [affirmative] asking a series of questions, responding to stimuli. Mm-Hmm. [affirmative]. Um, same thing with the patients. Just, just, you know, series of questions. Are you treated? Yes. No. Yeah. And once, once they passed the screening, you know, we asked them a lot about things like when they, when they were treated, how did they decide on what treatment, you know, what did they make the decision? How well informed were they? Yeah. Yeah. What advice of the doctor, what did the doctor say to them? Mm-Hmm. [affirmative]. Um, what, what, what effectively made the final decision? Mm-Hmm. [affirmative]. So we do some of that's primary research. Some of that's done as questionnaires online. Mm-Hmm. [affirmative]. Um, but the
 S0
 Speaker 0
 11:21
@@ -995,17 +995,17 @@ S1
 Speaker 1
 12:02
 12:02
-Um, uh, and it's expensive, you know, I think that Yeah. You know, it, uh, on, on on my p and LI would say that, um, I mean, I don't control the p and l for, for re So the, the way we operate is you have two global general managers if you like. Mm-Hmm. <affirmative>, you have the strategic general manager, uh, and they deal with this, you know, the, the headline strategy Mm-Hmm. Uh, and which requires the research. And then you have the operational general manager, which is like what I do. Mm-Hmm. <affirmative> I'm responsible for, for the hundred affiliates. Mm-Hmm. <affirmative>, I'm responsible for inputting in and being part of the core strategy team. Yeah. Um, but the strategy sort of director is, is responsible. Mm-Hmm. <affirmative>, I'm responsible for making sure that that strategy is then taken to a hundred different countries and they act upon it and, and work up tactical plans and deliver on them.
+Um, uh, and it's expensive, you know, I think that Yeah. You know, it, uh, on, on on my p and LI would say that, um, I mean, I don't control the p and l for, for re So the, the way we operate is you have two global general managers if you like. Mm-Hmm. [affirmative], you have the strategic general manager, uh, and they deal with this, you know, the, the headline strategy Mm-Hmm. Uh, and which requires the research. And then you have the operational general manager, which is like what I do. Mm-Hmm. [affirmative] I'm responsible for, for the hundred affiliates. Mm-Hmm. [affirmative], I'm responsible for inputting in and being part of the core strategy team. Yeah. Um, but the strategy sort of director is, is responsible. Mm-Hmm. [affirmative], I'm responsible for making sure that that strategy is then taken to a hundred different countries and they act upon it and, and work up tactical plans and deliver on them.
 S1
 Speaker 1
 12:47
 12:47
-Um, and then feedback into the strategy. And so, and so it goes round. So between the two of us, if you like, we are the two bosses. Yeah. It's the easiest way of thinking about it. We're the two, the two kind of general managers of the, of the brand. And that's marketing medical access, which is getting reimbursement for medicines and so on. Mm-Hmm. <affirmative> and everything else. Um, but we deal with medicines, you know, once they're past the research stage when prior to launch. So we reach a point called pgo, which is when pivotal trials will start. And at the point we know that we are having a phase three pivotal trial. That's when the kind of more the commercial team would take over. Yeah. Which is, which is when they would set up, uh, an I squad, which is what we are. Uh, and we look after these two brands and we've, and we've looked after them since the, the first final major clinical trial.
+Um, and then feedback into the strategy. And so, and so it goes round. So between the two of us, if you like, we are the two bosses. Yeah. It's the easiest way of thinking about it. We're the two, the two kind of general managers of the, of the brand. And that's marketing medical access, which is getting reimbursement for medicines and so on. Mm-Hmm. [affirmative] and everything else. Um, but we deal with medicines, you know, once they're past the research stage when prior to launch. So we reach a point called pgo, which is when pivotal trials will start. And at the point we know that we are having a phase three pivotal trial. That's when the kind of more the commercial team would take over. Yeah. Which is, which is when they would set up, uh, an I squad, which is what we are. Uh, and we look after these two brands and we've, and we've looked after them since the, the first final major clinical trial.
 S1
 Speaker 1
 13:31
 13:31
-Okay. We started about four years ago. Yeah. We've been in the market with one medicine for three years. The second medicine for gene therapy. We're just waiting for regulatory approval for EMA from European medicines as, uh, association authority. Sorry. Um, and, and then we'll be launching there. But there is, we are now at a very competitive stage within SMA. So our major competitor, which is Biogen, which is, which is another big company. Mm-Hmm. <affirmative>, um, are a very aggressive marketing company as Pfizer were when I worked there. Roche is a far more scientific Swiss conservative Yeah. Uh, company. Um, and, and the way we train our, um, customer facing colleagues Mm-Hmm. We don't call them sales rep. These are the sales rep. Are
+Okay. We started about four years ago. Yeah. We've been in the market with one medicine for three years. The second medicine for gene therapy. We're just waiting for regulatory approval for EMA from European medicines as, uh, association authority. Sorry. Um, and, and then we'll be launching there. But there is, we are now at a very competitive stage within SMA. So our major competitor, which is Biogen, which is, which is another big company. Mm-Hmm. [affirmative], um, are a very aggressive marketing company as Pfizer were when I worked there. Roche is a far more scientific Swiss conservative Yeah. Uh, company. Um, and, and the way we train our, um, customer facing colleagues Mm-Hmm. We don't call them sales rep. These are the sales rep. Are
 S0
 Speaker 0
 14:11
@@ -1020,7 +1020,7 @@ S1
 Speaker 1
 15:03
 15:03
-As it relates to the conversation the physician has with the patient. So in other words, rather than just saying, here's the medicine, this is how it works, we now know from research we've done Mm-Hmm. That there's a, it seems like most physicians feel like they're presenting their patients with one of these two options. Mm-Hmm. Well, one of three options, really. The original treatment, our treatment or no treatment. Yeah. And patients choose on the basis of that conversation, patients tell us. Yeah. That quite often their doctor guided them to one treatment or another. Mm-Hmm. <affirmative>, a lot of doctors tell us they're often them a fair choice and, and present them equally. Yeah. Yeah. I think it's good. And there's a bit of a mismatch because Yeah. Yeah. Doctors probably think they're presenting an equal choice, but they have their own personal biases, which I think they find it hard to Yeah,
+As it relates to the conversation the physician has with the patient. So in other words, rather than just saying, here's the medicine, this is how it works, we now know from research we've done Mm-Hmm. That there's a, it seems like most physicians feel like they're presenting their patients with one of these two options. Mm-Hmm. Well, one of three options, really. The original treatment, our treatment or no treatment. Yeah. And patients choose on the basis of that conversation, patients tell us. Yeah. That quite often their doctor guided them to one treatment or another. Mm-Hmm. [affirmative], a lot of doctors tell us they're often them a fair choice and, and present them equally. Yeah. Yeah. I think it's good. And there's a bit of a mismatch because Yeah. Yeah. Doctors probably think they're presenting an equal choice, but they have their own personal biases, which I think they find it hard to Yeah,
 S0
 Speaker 0
 15:47
@@ -1060,7 +1060,7 @@ S1
 Speaker 1
 16:16
 16:16
-Well, that's what I meant. In internally or externally. So from, from an external point of view, we, we have a panel of about half a dozen by we, I mean, Roche has a panel of, uh, of approved kind of marketers, and they go through the whole procurement process and Sure. Agreed terms. Um, but we don't, we don't have one individual, um, research we use, well probably even 10. Um, and across the 13, so, so I'm only one of about 13 franchises. Um, Mm-Hmm. <affirmative>. And of those 12 or 13 franchises, they may all use different researchers. Yeah.
+Well, that's what I meant. In internally or externally. So from, from an external point of view, we, we have a panel of about half a dozen by we, I mean, Roche has a panel of, uh, of approved kind of marketers, and they go through the whole procurement process and Sure. Agreed terms. Um, but we don't, we don't have one individual, um, research we use, well probably even 10. Um, and across the 13, so, so I'm only one of about 13 franchises. Um, Mm-Hmm. [affirmative]. And of those 12 or 13 franchises, they may all use different researchers. Yeah.
 S1
 Speaker 1
 16:46
@@ -1075,12 +1075,12 @@ S1
 Speaker 1
 18:25
 18:25
-Mm-Hmm. Insights, people that work for our policy and healthcare, all kind of overlapping in the kind of research that they do. Yeah. Yeah. One of the recommendations that we made was to bring all this group together into a single kind of data and insights department. Mm-Hmm. <affirmative>. Um, so that, A, there's less duplication, but b we can make sure that we can, we can bring in insights from all different, all different channels can bring in research. Yeah. And then the other thing we have is we have, uh, uh, a customer management system or, you know, the customer, customer relationship management system Mm-Hmm. Which is now coordinated across, or, or, um, aligned across all of our different countries or most of them Mm-Hmm. <affirmative>. And so now every time they, our customer facing colleagues see doctors, for example, and then type in comments and so on.
+Mm-Hmm. Insights, people that work for our policy and healthcare, all kind of overlapping in the kind of research that they do. Yeah. Yeah. One of the recommendations that we made was to bring all this group together into a single kind of data and insights department. Mm-Hmm. [affirmative]. Um, so that, A, there's less duplication, but b we can make sure that we can, we can bring in insights from all different, all different channels can bring in research. Yeah. And then the other thing we have is we have, uh, uh, a customer management system or, you know, the customer, customer relationship management system Mm-Hmm. Which is now coordinated across, or, or, um, aligned across all of our different countries or most of them Mm-Hmm. [affirmative]. And so now every time they, our customer facing colleagues see doctors, for example, and then type in comments and so on.
 S1
 Speaker 1
 19:13
 19:13
-Yep. We have a tool which does use AI to actually go, to go through, there could be 5,000 comments that were made over the last two months Yep. And it goes through them all and summarizes the five key points that Mm-Hmm. <affirmative> come from 5,000 different coming in about two seconds. Yeah. Yeah. Which we found super useful. And I think that our thinking now is, and, and, and a massive hot topic within Roche and many other drug companies is Yeah. How can we get, you know, we are, we're, we are very analog when it comes to the way that we do research. Mm-Hmm. <affirmative>, it's very much talking to folk, um, doing a little bit of, uh, social media kind of insights gathering, you know, through, through watching what people are saying on different website.
+Yep. We have a tool which does use AI to actually go, to go through, there could be 5,000 comments that were made over the last two months Yep. And it goes through them all and summarizes the five key points that Mm-Hmm. [affirmative] come from 5,000 different coming in about two seconds. Yeah. Yeah. Which we found super useful. And I think that our thinking now is, and, and, and a massive hot topic within Roche and many other drug companies is Yeah. How can we get, you know, we are, we're, we are very analog when it comes to the way that we do research. Mm-Hmm. [affirmative], it's very much talking to folk, um, doing a little bit of, uh, social media kind of insights gathering, you know, through, through watching what people are saying on different website.
 S0
 Speaker 0
 19:56
@@ -1095,22 +1095,22 @@ S0
 Speaker 0
 20:27
 20:27
-Would say. Yeah. Yeah. And just I'm interested in that kind of insights lead internally. Um, presumably they have a huge amount of, um, you know, Roche related knowledge that it actually comes down to their interpretation. Presumably the external research agencies can only get so far, and then somebody internally really has to be able to actually direct a lot of that analysis. Yeah. Um, you know, what we're trying to develop is this kind of, this personalized researcher superpower ai. Do you see what I mean? Because it needs to be trained on what they know to be able to apply the right context and therefore pull out the right insights. Because, you know, anybody can ask an AI these days based on 5,000 comments, the the wrong question <laugh>. Um, and so we're actually trying to develop a way to, um, to, to train the AI and personalize the AI around particular researchers because it's the expertise that they bring, um, that kind of provides the, the real additional value. Um, does that make sense? Does that, does that ring true for you? Or you, I mean, it could know the insights Dunno,
+Would say. Yeah. Yeah. And just I'm interested in that kind of insights lead internally. Um, presumably they have a huge amount of, um, you know, Roche related knowledge that it actually comes down to their interpretation. Presumably the external research agencies can only get so far, and then somebody internally really has to be able to actually direct a lot of that analysis. Yeah. Um, you know, what we're trying to develop is this kind of, this personalized researcher superpower ai. Do you see what I mean? Because it needs to be trained on what they know to be able to apply the right context and therefore pull out the right insights. Because, you know, anybody can ask an AI these days based on 5,000 comments, the the wrong question [laugh]. Um, and so we're actually trying to develop a way to, um, to, to train the AI and personalize the AI around particular researchers because it's the expertise that they bring, um, that kind of provides the, the real additional value. Um, does that make sense? Does that, does that ring true for you? Or you, I mean, it could know the insights Dunno,
 S1
 Speaker 1
 21:29
 21:29
-<laugh> It could do. I th I mean, I don't even know if it relies upon quite right now. I would say that the, the way that we gather insights is too disparate for any one single thing to read through it all as, as an AI and make, I think the, the, the first thing we need to do is to get our shit together and get all of the kind of different insight levels that we have Mm-Hmm. Um, pulled together in one place so that something could analyze it. And, and that's what I don't for, for now. We still operate very much within disease areas and disease teams. Mm-Hmm. <affirmative>, uh, there are a lot of insights that sit, uh, at a more macro level just within healthcare, for example, or within countries or within areas Yeah. Um, that we really should be able to overlay, which we can't Mm-Hmm.
+[laugh] It could do. I th I mean, I don't even know if it relies upon quite right now. I would say that the, the way that we gather insights is too disparate for any one single thing to read through it all as, as an AI and make, I think the, the, the first thing we need to do is to get our shit together and get all of the kind of different insight levels that we have Mm-Hmm. Um, pulled together in one place so that something could analyze it. And, and that's what I don't for, for now. We still operate very much within disease areas and disease teams. Mm-Hmm. [affirmative], uh, there are a lot of insights that sit, uh, at a more macro level just within healthcare, for example, or within countries or within areas Yeah. Um, that we really should be able to overlay, which we can't Mm-Hmm.
 S1
 Speaker 1
 22:12
 22:12
-Or depending on who you are. So let's say we can, but, you know, we don't, we don't do it. We the level of sophistication that a lot of consumer companies would do. Yeah. Yeah. And, and, and part of that is because we can't gather information through the normal tools. So we can look at, we can do the social media listening Mm-Hmm. But we don't, can't do social media listening really with doctors and, you know, we can't ever advertise. I mean, it's not, it's, it's not just unethical Mm-Hmm. <affirmative>, you know, we, we, me would go to prison if I, if I did anything, which mentioned a drug name to a patient directly, you know? Yeah. Yeah. Gotcha. So, so there, we, we are governed by a set of rules that, you know, where we are so restricted in what we can ask. 'cause we can't ever ask about an individual treatment.
+Or depending on who you are. So let's say we can, but, you know, we don't, we don't do it. We the level of sophistication that a lot of consumer companies would do. Yeah. Yeah. And, and, and part of that is because we can't gather information through the normal tools. So we can look at, we can do the social media listening Mm-Hmm. But we don't, can't do social media listening really with doctors and, you know, we can't ever advertise. I mean, it's not, it's, it's not just unethical Mm-Hmm. [affirmative], you know, we, we, me would go to prison if I, if I did anything, which mentioned a drug name to a patient directly, you know? Yeah. Yeah. Gotcha. So, so there, we, we are governed by a set of rules that, you know, where we are so restricted in what we can ask. 'cause we can't ever ask about an individual treatment.
 S1
 Speaker 1
 22:54
 22:54
-We just have to ask general questions. And so that makes it hard for us to draw Mm-Hmm. Uh, draw conclusions. We can ask more direct questions in consumer research where, you know, where they have given explicit permission for us to, to do the research and we're paying them. Yeah. Yeah. But again, you're only, you're only often looking at a subset of patients then. Yeah. And, and it's not, it's not the same as Google gathering hundreds of millions of pieces of data and putting it through ai AI to solve a challenge. Yeah. We have a much smaller cohort. Yeah. Don't forget that we also have oncology, we also have neurology, we also have ophthalmology. We also have a load of other disease areas, um, which are much bigger. Mm-Hmm. <affirmative>. Um, and each of these would, would benefit in different ways from a different approach. And then you have the macro level, which is kinda like healthcare trends in countries and areas and so on. Mm-Hmm. <affirmative>, which would overlay on top of what's happening with different disease areas, which would all be useful to try and pull together into some kind of cohesive statement. We use IMSA lot, you know, we use, um, salesforce.com a lot. Yeah. Um, tho those, those are our kind of big data providers. Yeah. Um, and we, as I said, we use a whole variety of different market research companies, most of whom are kind of, uh, agencies of, you know, a OR for us Mm-Hmm. So, um, yeah, it, it
+We just have to ask general questions. And so that makes it hard for us to draw Mm-Hmm. Uh, draw conclusions. We can ask more direct questions in consumer research where, you know, where they have given explicit permission for us to, to do the research and we're paying them. Yeah. Yeah. But again, you're only, you're only often looking at a subset of patients then. Yeah. And, and it's not, it's not the same as Google gathering hundreds of millions of pieces of data and putting it through ai AI to solve a challenge. Yeah. We have a much smaller cohort. Yeah. Don't forget that we also have oncology, we also have neurology, we also have ophthalmology. We also have a load of other disease areas, um, which are much bigger. Mm-Hmm. [affirmative]. Um, and each of these would, would benefit in different ways from a different approach. And then you have the macro level, which is kinda like healthcare trends in countries and areas and so on. Mm-Hmm. [affirmative], which would overlay on top of what's happening with different disease areas, which would all be useful to try and pull together into some kind of cohesive statement. We use IMSA lot, you know, we use, um, salesforce.com a lot. Yeah. Um, tho those, those are our kind of big data providers. Yeah. Um, and we, as I said, we use a whole variety of different market research companies, most of whom are kind of, uh, agencies of, you know, a OR for us Mm-Hmm. So, um, yeah, it, it
 S0
 Speaker 0
 24:12
@@ -1130,7 +1130,7 @@ S1
 Speaker 1
 24:53
 24:53
-Well, what I, I, this is a personal view, right. So, um, I think if you ask most people within our industry, they would say that actually our insights are pretty good. Mm-Hmm. Um, because, because we've always been good at doing primary market research and paying a lot of money for it. Yeah. Yeah. Uh, but I always sense with, with any of the research that we do, Mm-Hmm. By definition you end up, whether it's, whether it's online questionnaires or whether it's interviews Mm-Hmm. <affirmative>, there's, there's often only certain sorts of doctors that get involved in that. Mm-Hmm. <affirmative>, um, often I feel that they, they have a good sense of who, who is running the, uh, research Mm-Hmm. <affirmative>. And I always feel it's slightly biased towards more positive and more of what we want to hear than less of what we wanna hear. Yeah. Trust,
+Well, what I, I, this is a personal view, right. So, um, I think if you ask most people within our industry, they would say that actually our insights are pretty good. Mm-Hmm. Um, because, because we've always been good at doing primary market research and paying a lot of money for it. Yeah. Yeah. Uh, but I always sense with, with any of the research that we do, Mm-Hmm. By definition you end up, whether it's, whether it's online questionnaires or whether it's interviews Mm-Hmm. [affirmative], there's, there's often only certain sorts of doctors that get involved in that. Mm-Hmm. [affirmative], um, often I feel that they, they have a good sense of who, who is running the, uh, research Mm-Hmm. [affirmative]. And I always feel it's slightly biased towards more positive and more of what we want to hear than less of what we wanna hear. Yeah. Trust,
 S0
 Speaker 0
 25:39
@@ -1140,27 +1140,27 @@ S1
 Speaker 1
 25:40
 25:40
-Yeah. So there's a bit of that. Yeah. Um, but the, the, the, the bit that I think is the major, the major gap across all healthcare right now Mm-Hmm. <affirmative> is, is a true understanding of the impact of the patient, um, choice. Right. So what is it that they're going, so, so if you go back 20 years, you know, people would go to their doctor and say, I've got this, this hurts. Mm-Hmm. Doctor would say, you've got this problem. Mm-Hmm. And here's the medicine that you need. Right? Yeah. Nowadays, most people might follow that first stage where they say, I'm, I feel a bit weak. What's wrong with me? You run a few tests and they say, this is, this is what you've got. Yeah. We'll talk about it. They go back, consult Dr. Google, thank you, mark <laugh>, uh, consult, consult Dr. Google, uh, look at all the treatments, go on to patient websites and groups and go back to the doctor often with a relative or whatever, and have a discussion, you know, about treatment.
+Yeah. So there's a bit of that. Yeah. Um, but the, the, the, the bit that I think is the major, the major gap across all healthcare right now Mm-Hmm. [affirmative] is, is a true understanding of the impact of the patient, um, choice. Right. So what is it that they're going, so, so if you go back 20 years, you know, people would go to their doctor and say, I've got this, this hurts. Mm-Hmm. Doctor would say, you've got this problem. Mm-Hmm. And here's the medicine that you need. Right? Yeah. Nowadays, most people might follow that first stage where they say, I'm, I feel a bit weak. What's wrong with me? You run a few tests and they say, this is, this is what you've got. Yeah. We'll talk about it. They go back, consult Dr. Google, thank you, mark [laugh], uh, consult, consult Dr. Google, uh, look at all the treatments, go on to patient websites and groups and go back to the doctor often with a relative or whatever, and have a discussion, you know, about treatment.
 S1
 Speaker 1
 26:33
 26:33
-Mm-Hmm. <affirmative>. And so we've always regarded our healthcare professionals as being our primary customers. Yeah. Um, and I now, I feel strongly, and not everyone agrees with me in the industry, but I feel strongly that nowadays the impact of that patient voice and that consumer, and it's, you know, the end user Yeah. Yeah. Uh, is far more important than we ever credit for. And yet we invest less and less and less money really in understanding Yeah. What it is that they want, what it is they're finding out what their concerns are. Lemme give you, lemme give you an example. Um, so I've already mentioned with, for our smma treatment. Yeah. We, uh, so we're just about to produce a tablet form of, of, of the oral. So the oral treatment we have now is like a liquid Mm-Hmm. <affirmative>, we're about to produce a tablet.
+Mm-Hmm. [affirmative]. And so we've always regarded our healthcare professionals as being our primary customers. Yeah. Um, and I now, I feel strongly, and not everyone agrees with me in the industry, but I feel strongly that nowadays the impact of that patient voice and that consumer, and it's, you know, the end user Yeah. Yeah. Uh, is far more important than we ever credit for. And yet we invest less and less and less money really in understanding Yeah. What it is that they want, what it is they're finding out what their concerns are. Lemme give you, lemme give you an example. Um, so I've already mentioned with, for our smma treatment. Yeah. We, uh, so we're just about to produce a tablet form of, of, of the oral. So the oral treatment we have now is like a liquid Mm-Hmm. [affirmative], we're about to produce a tablet.
 S1
 Speaker 1
 27:21
 27:21
-Mm-Hmm. <affirmative>. Um, and the other treatment, the original treatment is a spinal injection, which you have to have every three or four months. Okay. Um, they both work, they both work pretty well. They're both well thought of. Um, and the, and the tablet form will, doesn't need to be kept in the fridge. It, you can travel with it and all the rest of it. Mm-Hmm. <affirmative>, I still don't think we really understand what difference does that make, you know? Yeah, yeah. We're talking about doesn't need to be refrigerated. You can travel with it, you know, um, you don't need to take time off school. Um, when you start what, however, I would like to get to a a point where we, we really understand what are the kind of inherent drivers of why someone would choose one treatment over another. What difference does it really make to their life?
+Mm-Hmm. [affirmative]. Um, and the other treatment, the original treatment is a spinal injection, which you have to have every three or four months. Okay. Um, they both work, they both work pretty well. They're both well thought of. Um, and the, and the tablet form will, doesn't need to be kept in the fridge. It, you can travel with it and all the rest of it. Mm-Hmm. [affirmative], I still don't think we really understand what difference does that make, you know? Yeah, yeah. We're talking about doesn't need to be refrigerated. You can travel with it, you know, um, you don't need to take time off school. Um, when you start what, however, I would like to get to a a point where we, we really understand what are the kind of inherent drivers of why someone would choose one treatment over another. What difference does it really make to their life?
 S1
 Speaker 1
 28:06
 28:06
-Mm-Hmm. Um, why would someone choose not to be treated? Yeah. Yeah. And, and get under the skin of that, right? Mm-Hmm. Because that for me is we can then, we can then talk to our customer facing roles to say and inform our marketing around Okay, within in that context, how do we change the kind of narrative and discussion that we are having Mm-Hmm. <affirmative> about the tablet, rather than to just talk about the features of what a tablet provides. Yeah, yeah, yeah. Talk about it in, in, through the, through the lens of what is it about your patients that you can offer them with this tablet. Yeah, yeah. That make you a better doctor. Yeah. Yeah. And how can you have that conversation with them Mm-Hmm. Rather than just talking about features of the tablet itself. Mm-Hmm. And that's the bit that I just don't think, whether it's this disease area or others, what you really have a good idea about.
+Mm-Hmm. Um, why would someone choose not to be treated? Yeah. Yeah. And, and get under the skin of that, right? Mm-Hmm. Because that for me is we can then, we can then talk to our customer facing roles to say and inform our marketing around Okay, within in that context, how do we change the kind of narrative and discussion that we are having Mm-Hmm. [affirmative] about the tablet, rather than to just talk about the features of what a tablet provides. Yeah, yeah, yeah. Talk about it in, in, through the, through the lens of what is it about your patients that you can offer them with this tablet. Yeah, yeah. That make you a better doctor. Yeah. Yeah. And how can you have that conversation with them Mm-Hmm. Rather than just talking about features of the tablet itself. Mm-Hmm. And that's the bit that I just don't think, whether it's this disease area or others, what you really have a good idea about.
 S1
 Speaker 1
 28:55
 28:55
-Um, and, and that's only going in one direction, right? Yeah. So there will come a, there will come a stage where, um, I mean, and, and don't forget the UK's a bad example because the UK has the NHS, which is all paid for and so on. Yeah. Yeah. In the US we already see this as much more of a trend of people demand certain medicines and certain levels of quality and so on, which is why they charge more for drugs because mm-Hmm. They know that there's a consumer demand that drives it. Mm-Hmm. And doctors are not brave enough to tell their patients no. Yeah, yeah, yeah. Whereas in the UK, they have nice and one or two other things and they can just say, no, we're not giving you that. Yeah. Yeah. So I'm thinking globally here, if, if you, if, if you, that, that patient demand is increasing, that importance of, um, customer preference at a patient level, end user is increasing. And our ability to, to gather those insights and apply them in marketing and customer facing opportunities Mm-Hmm. <affirmative> is, is not growing at the same rate that that opportunity is presenting itself.
+Um, and, and that's only going in one direction, right? Yeah. So there will come a, there will come a stage where, um, I mean, and, and don't forget the UK's a bad example because the UK has the NHS, which is all paid for and so on. Yeah. Yeah. In the US we already see this as much more of a trend of people demand certain medicines and certain levels of quality and so on, which is why they charge more for drugs because mm-Hmm. They know that there's a consumer demand that drives it. Mm-Hmm. And doctors are not brave enough to tell their patients no. Yeah, yeah, yeah. Whereas in the UK, they have nice and one or two other things and they can just say, no, we're not giving you that. Yeah. Yeah. So I'm thinking globally here, if, if you, if, if you, that, that patient demand is increasing, that importance of, um, customer preference at a patient level, end user is increasing. And our ability to, to gather those insights and apply them in marketing and customer facing opportunities Mm-Hmm. [affirmative] is, is not growing at the same rate that that opportunity is presenting itself.
 S0
 Speaker 0
 29:50
@@ -1195,12 +1195,12 @@ S1
 Speaker 1
 31:43
 31:43
-Yeah. So, so I I I see, I see two major opportunities, right? Mm. For me, there's an opportunity which you've already talked about, which is working out who the big players are within market. And, and I would focus on the bigger companies, right? So top, top 20 pharma companies. Mm-Hmm. And whi, which are the AOLs that they use, you know, which are the big agencies that they use for market research. Mm-Hmm. And for data as well, which is mainly IQVA for most people. Mm-Hmm. But that tends, IQVA tends to provide, um, tends to provide data on sort of demographics and sales and market research, sorry, market shares and, you know, like, like classic sales data. Yeah. Uh, as, as well as kind of demographic ages and stuff like that. Mm-Hmm. <affirmative>. Um, so when, when, when we have to do, we have to do a lot of, uh, forecasting and when we forecast we need, we need to understand exactly, you know, what the number of patients are.
+Yeah. So, so I I I see, I see two major opportunities, right? Mm. For me, there's an opportunity which you've already talked about, which is working out who the big players are within market. And, and I would focus on the bigger companies, right? So top, top 20 pharma companies. Mm-Hmm. And whi, which are the AOLs that they use, you know, which are the big agencies that they use for market research. Mm-Hmm. And for data as well, which is mainly IQVA for most people. Mm-Hmm. But that tends, IQVA tends to provide, um, tends to provide data on sort of demographics and sales and market research, sorry, market shares and, you know, like, like classic sales data. Yeah. Uh, as, as well as kind of demographic ages and stuff like that. Mm-Hmm. [affirmative]. Um, so when, when, when we have to do, we have to do a lot of, uh, forecasting and when we forecast we need, we need to understand exactly, you know, what the number of patients are.
 S1
 Speaker 1
 32:33
 32:33
-And again, I-Q-V-I-R off often helps us with some of that stuff. Mm-Hmm. Um, so the first thing would be yeah. Supporting these agencies across the board to be better at providing more, uh, quicker Mm-Hmm. <affirmative> and more insightful, uh, at insightful looks at that patient and doctor relationship and patient choice Yeah. As an end user for being a patient, but also a better idea across a broader spectrum of people with healthcare professionals. 'cause at the moment, we, we base all of our decisions on 20 or 30 specialists, which get interviewed Yeah, yeah, yeah. In one, in one of four or five big countries. Yeah. And then apply that to 90 different countries. Mm-Hmm. <affirmative>, if there's a way of being able to get ideas and experience from different archetypes of markets and to compare and contrast different points of view Mm-Hmm. That would be a super good, much more powerful, much more helpful for us.
+And again, I-Q-V-I-R off often helps us with some of that stuff. Mm-Hmm. Um, so the first thing would be yeah. Supporting these agencies across the board to be better at providing more, uh, quicker Mm-Hmm. [affirmative] and more insightful, uh, at insightful looks at that patient and doctor relationship and patient choice Yeah. As an end user for being a patient, but also a better idea across a broader spectrum of people with healthcare professionals. 'cause at the moment, we, we base all of our decisions on 20 or 30 specialists, which get interviewed Yeah, yeah, yeah. In one, in one of four or five big countries. Yeah. And then apply that to 90 different countries. Mm-Hmm. [affirmative], if there's a way of being able to get ideas and experience from different archetypes of markets and to compare and contrast different points of view Mm-Hmm. That would be a super good, much more powerful, much more helpful for us.
 S1
 Speaker 1
 33:24
@@ -1210,12 +1210,12 @@ S1
 Speaker 1
 34:17
 34:17
-And then also to think about how you use that in preparing for an omnichannel strategy. So how do you therefore decide, okay, for this archetype Mm-Hmm. <affirmative>, uh, of doctor or patient, we need to primarily use social media and it needs to say this Yeah. But this group of patients, we primarily need to invite them to big meetings where we support them and give them education on this. Yeah. And we follow it up with this. And then the, the second follow up is with something else. Right. And then they get called on by a rep and so on. So being able to understand the archetypes across our main customer groups, both healthcare professionals and patients. Mm-Hmm. <affirmative> be able to accumulate data and, and format an omnis omnichannel strategy. Yeah. Is is the goal of every pharma company right now? Yeah. Yeah. At the moment we are throwing, you know, we do, we do medical congresses, we have reps, you know, of different shapes and sizes, medical specialists.
+And then also to think about how you use that in preparing for an omnichannel strategy. So how do you therefore decide, okay, for this archetype Mm-Hmm. [affirmative], uh, of doctor or patient, we need to primarily use social media and it needs to say this Yeah. But this group of patients, we primarily need to invite them to big meetings where we support them and give them education on this. Yeah. And we follow it up with this. And then the, the second follow up is with something else. Right. And then they get called on by a rep and so on. So being able to understand the archetypes across our main customer groups, both healthcare professionals and patients. Mm-Hmm. [affirmative] be able to accumulate data and, and format an omnis omnichannel strategy. Yeah. Is is the goal of every pharma company right now? Yeah. Yeah. At the moment we are throwing, you know, we do, we do medical congresses, we have reps, you know, of different shapes and sizes, medical specialists.
 S1
 Speaker 1
 35:14
 35:14
-Mm-Hmm. <affirmative>. And, and we're dominated by an old fashioned kind of face-to-face way of dealing. And that's just not the way that many doctors are consuming information. And we occasionally send them an email and we set up the odd website. Mm-Hmm. But it's just, you know, it's, it's nothing like would be done by a decent consumer company now. Yeah. So for me, those are the two opportunities. Something you, you could do to speed up what research is being done. Mm-Hmm. <affirmative>. And then a second opportunity to think about how a, how AI could be used with the research that we get across the board and the data to come up with some omnichannel solutions for different archetypes.
+Mm-Hmm. [affirmative]. And, and we're dominated by an old fashioned kind of face-to-face way of dealing. And that's just not the way that many doctors are consuming information. And we occasionally send them an email and we set up the odd website. Mm-Hmm. But it's just, you know, it's, it's nothing like would be done by a decent consumer company now. Yeah. So for me, those are the two opportunities. Something you, you could do to speed up what research is being done. Mm-Hmm. [affirmative]. And then a second opportunity to think about how a, how AI could be used with the research that we get across the board and the data to come up with some omnichannel solutions for different archetypes.
 S0
 Speaker 0
 35:50
@@ -1230,12 +1230,12 @@ S1
 Speaker 1
 36:26
 36:26
-I mean, it, it being brutally honest, you know, like the way that, uh, so, so they, they agree fees Mm-Hmm. <affirmative>, um, as part of the procurement process when they become an A OR. Yeah. Um, and often we get numbers back from them that I'm sure they just pluck out. Excuse my, they pluck 'em outta the fucking air. I mean, you know, they, they look at the size of the company, the importance of the disease area, the opportunity that might exist. Yeah. Yeah. Uh, and if you're a big company with lots of money and working on a brand that's gonna make a fortune Yeah. And you're well respected. Yeah. They come up with a number. Yeah. Uh, fundamentally it's based upon what kind of research they do. So if it's face-to-face, it's more expensive and the number of people that they interview Mm-Hmm. You know, broadly it's in line with that Mm-Hmm.
+I mean, it, it being brutally honest, you know, like the way that, uh, so, so they, they agree fees Mm-Hmm. [affirmative], um, as part of the procurement process when they become an A OR. Yeah. Um, and often we get numbers back from them that I'm sure they just pluck out. Excuse my, they pluck 'em outta the fucking air. I mean, you know, they, they look at the size of the company, the importance of the disease area, the opportunity that might exist. Yeah. Yeah. Uh, and if you're a big company with lots of money and working on a brand that's gonna make a fortune Yeah. And you're well respected. Yeah. They come up with a number. Yeah. Uh, fundamentally it's based upon what kind of research they do. So if it's face-to-face, it's more expensive and the number of people that they interview Mm-Hmm. You know, broadly it's in line with that Mm-Hmm.
 S1
 Speaker 1
 37:10
 37:10
-Um, but it's not like how many hours it is in the sense that they charge for, but, but we prepare the, the, the stimuli and the questionnaires really in, in collaboration with them because they don't know always about the, they don't have the level of knowledge and the medical knowledge on the disease area. Yeah. We have to work with them on that. Mm-Hmm. Or rather the insights the leads do. Mm-Hmm. <affirmative>, uh, they then do all that research. Sometimes we sit and watch in Mm-Hmm. <affirmative> and or do ad boards or something Mm-Hmm. <affirmative>. And then they go away into a dark room and come back with 200 slides. Yeah,
+Um, but it's not like how many hours it is in the sense that they charge for, but, but we prepare the, the, the stimuli and the questionnaires really in, in collaboration with them because they don't know always about the, they don't have the level of knowledge and the medical knowledge on the disease area. Yeah. We have to work with them on that. Mm-Hmm. Or rather the insights the leads do. Mm-Hmm. [affirmative], uh, they then do all that research. Sometimes we sit and watch in Mm-Hmm. [affirmative] and or do ad boards or something Mm-Hmm. [affirmative]. And then they go away into a dark room and come back with 200 slides. Yeah,
 S0
 Speaker 0
 37:41
@@ -1290,7 +1290,7 @@ S0
 Speaker 0
 38:32
 38:32
-<laugh>. Yeah.
+[laugh]. Yeah.
 S1
 Speaker 1
 38:33
@@ -1300,12 +1300,12 @@ S0
 Speaker 0
 38:36
 38:36
-Yeah. Absolutely. <laugh>. Cool. Alright. Brilliant. Well thank you so much. I, I really appreciate your time and, and going over time as well. Thank you. That
+Yeah. Absolutely. [laugh]. Cool. Alright. Brilliant. Well thank you so much. I, I really appreciate your time and, and going over time as well. Thank you. That
 S1
 Speaker 1
 38:43
 38:43
-That's fine as it happens. My next call at two, so, uh, you, you, you locked down on that one. <laugh> I'll need to eat now. David, if, if you are interested, uh, when you maybe got a bit more idea of what you want to, what your, what you wanna do, what your offering might be. Mm-Hmm. It just so happens that one of my sort of old colleagues on the UK board Yeah. Um, when he, he left and went into kind of data and insights Okay. And he's now the head of that group globally. Oh wow. Um, and so he's, and he's put someone I've been working with on in the kind of way that we are restructuring right now. Mm. He's English guy, really nice bloke. Yeah. And uh, I'm pretty sure if I twisted his arm and just said, look, will you speak to this guy for half an hour? He might say no. Yeah. Yeah. But I would, I would certainly speak to him because also if we were looking at a kind of global vendor at any point in the future to help Yeah, yeah. Think about omnichannel solutions. Yeah. Um, he would be the guy that, you know, that's what keeps him awake at night. Yeah. Yeah.
+That's fine as it happens. My next call at two, so, uh, you, you, you locked down on that one. [laugh] I'll need to eat now. David, if, if you are interested, uh, when you maybe got a bit more idea of what you want to, what your, what you wanna do, what your offering might be. Mm-Hmm. It just so happens that one of my sort of old colleagues on the UK board Yeah. Um, when he, he left and went into kind of data and insights Okay. And he's now the head of that group globally. Oh wow. Um, and so he's, and he's put someone I've been working with on in the kind of way that we are restructuring right now. Mm. He's English guy, really nice bloke. Yeah. And uh, I'm pretty sure if I twisted his arm and just said, look, will you speak to this guy for half an hour? He might say no. Yeah. Yeah. But I would, I would certainly speak to him because also if we were looking at a kind of global vendor at any point in the future to help Yeah, yeah. Think about omnichannel solutions. Yeah. Um, he would be the guy that, you know, that's what keeps him awake at night. Yeah. Yeah.
 S0
 Speaker 0
 39:38
@@ -1340,7 +1340,7 @@ S0
 Speaker 0
 39:54
 39:54
-<laugh>. No, absolutely not. Uh, yeah, no, an introduction there.
+[laugh]. No, absolutely not. Uh, yeah, no, an introduction there.
 S1
 Speaker 1
 39:57
@@ -1459,7 +1459,7 @@ S1
 Speaker 1
 03:31
 03:31
-Yeah. Yeah. We have some, taken some new parts. There is a new restaurant floor, let's say, <laugh>. Nice. Which is quite popular. Uh, yeah. I think like they are trying to consolidate some other offices in this one.
+Yeah. Yeah. We have some, taken some new parts. There is a new restaurant floor, let's say, [laugh]. Nice. Which is quite popular. Uh, yeah. I think like they are trying to consolidate some other offices in this one.
 S2
 Speaker 2
 03:44
@@ -1469,7 +1469,7 @@ S1
 Speaker 1
 03:54
 03:54
-Sure, sure. Um, so I work as a, uh, global marketing manager in Google. Um, I'm, I specifically work on at the intersection of Google Ads and ai. So I, most of my work is around how we can bring all the new AI technology that Google Engineers are working on to Google ads space, specifically towards, you know, uh, acquisition of SMBs for Google Ads, uh, sometimes to, uh, work on, I'll say more future focused use cases. Mm-Hmm. <affirmative>. Um, to be honest, I don't have a specific use case when I reach out to you because, you know, on the website it says, Hey, like, enter your website to create a personalized demo. I, I hit my email and here we are. So I'm, uh, but I'm always curious, right? Uh, I, I like to explore things. I like to see, you know, what startups are, are up to and just to, you know, keep thinking on this front, right. Because lot of my work involves around creating new use cases, ideation. So yeah. I'm, I'm just genuinely curious about, uh, what beings is all about.
+Sure, sure. Um, so I work as a, uh, global marketing manager in Google. Um, I'm, I specifically work on at the intersection of Google Ads and ai. So I, most of my work is around how we can bring all the new AI technology that Google Engineers are working on to Google ads space, specifically towards, you know, uh, acquisition of SMBs for Google Ads, uh, sometimes to, uh, work on, I'll say more future focused use cases. Mm-Hmm. [affirmative]. Um, to be honest, I don't have a specific use case when I reach out to you because, you know, on the website it says, Hey, like, enter your website to create a personalized demo. I, I hit my email and here we are. So I'm, uh, but I'm always curious, right? Uh, I, I like to explore things. I like to see, you know, what startups are, are up to and just to, you know, keep thinking on this front, right. Because lot of my work involves around creating new use cases, ideation. So yeah. I'm, I'm just genuinely curious about, uh, what beings is all about.
 S2
 Speaker 2
 05:03
@@ -1504,7 +1504,7 @@ S1
 Speaker 1
 08:09
 08:09
-Yeah, I think it's all distributed. I will say being honest with you. So I think like, um, yes, there are, like, we have like centralized, I will say UX slash research experts. Mm-Hmm. <affirmative>. Um, but they can only accommodate so much. They can only reserve a given number of, you know, research Mm-Hmm. Um, and some, sometimes there are like individual teams who like to conduct research, but they don't have <inaudible>. Right. But they, you need to go fast, so what do they do? Yeah. So it are centralized teams. Mm-Hmm. But the system is not centralized. Everybody at has it tries to find their own way depending on their use case.
+Yeah, I think it's all distributed. I will say being honest with you. So I think like, um, yes, there are, like, we have like centralized, I will say UX slash research experts. Mm-Hmm. [affirmative]. Um, but they can only accommodate so much. They can only reserve a given number of, you know, research Mm-Hmm. Um, and some, sometimes there are like individual teams who like to conduct research, but they don't have [inaudible]. Right. But they, you need to go fast, so what do they do? Yeah. So it are centralized teams. Mm-Hmm. But the system is not centralized. Everybody at has it tries to find their own way depending on their use case.
 S2
 Speaker 2
 08:45
@@ -1544,12 +1544,12 @@ S1
 Speaker 1
 11:35
 11:35
-I think it's, it's, it's both. I think, uh, I mean, again, I don't have a use case that I want to test right now. Yeah. But of things we do is either testing a certain concepts Mm-Hmm. <affirmative>, um, for example, before Google I was working for Unilever, uh, and Unilever, I think like before you start r and d on any kind of product, you built this a four sized, you know, like a slight looking concepts, which basically with different visual cues, et cetera, that basically describes the customer pain points, the new product and, and the benefits. Mm-Hmm. <affirmative>, and we were testing that concept before we go anywhere. So I think a lot of, I, I mean, it's, there is not an equivalent of this in, in the tech world of it. Right. Because it's either like, we do more like quality research and get the insights from quality research to prototype, uh, demo some kind of a product.
+I think it's, it's, it's both. I think, uh, I mean, again, I don't have a use case that I want to test right now. Yeah. But of things we do is either testing a certain concepts Mm-Hmm. [affirmative], um, for example, before Google I was working for Unilever, uh, and Unilever, I think like before you start r and d on any kind of product, you built this a four sized, you know, like a slight looking concepts, which basically with different visual cues, et cetera, that basically describes the customer pain points, the new product and, and the benefits. Mm-Hmm. [affirmative], and we were testing that concept before we go anywhere. So I think a lot of, I, I mean, it's, there is not an equivalent of this in, in the tech world of it. Right. Because it's either like, we do more like quality research and get the insights from quality research to prototype, uh, demo some kind of a product.
 S1
 Speaker 1
 12:28
 12:28
-Yeah. Um, so I think a lot of the, if I were to explore, I would like to explore testing certain concepts Mm-Hmm. <affirmative> about what might be future products and services. Mm-Hmm. <affirmative>. And, you know, there is also active products I work on. It might be testing a certain feature within that product, right? Yeah. Or it might be testing with SMBs and what might be additional features we can build. Yeah. Um, so yeah, both of those. Um, one, one question. Um, how, like, how, how does it work? Is it like a self-serving tool product you have or you build, you work with? I would love to hear more about like your, your product and what you offer as well.
+Yeah. Um, so I think a lot of the, if I were to explore, I would like to explore testing certain concepts Mm-Hmm. [affirmative] about what might be future products and services. Mm-Hmm. [affirmative]. And, you know, there is also active products I work on. It might be testing a certain feature within that product, right? Yeah. Or it might be testing with SMBs and what might be additional features we can build. Yeah. Um, so yeah, both of those. Um, one, one question. Um, how, like, how, how does it work? Is it like a self-serving tool product you have or you build, you work with? I would love to hear more about like your, your product and what you offer as well.
 S2
 Speaker 2
 13:11
@@ -1619,7 +1619,7 @@ S2
 Speaker 2
 19:43
 19:43
-Yes. Yeah. So they, yeah, they're, they're more focused on the training and on onboarding sort of space. And I don't really like them yet <laugh>, but you can kind of see where the product's heading. Um, and so yeah, I certainly see a world where, um, you can increase the amount of research that one person can do, um, either by using a, a, an AI avatar like that, or even just by having the researcher ask the, in the initial questions, uh, via a recording, um, and then using the LLM to actually prompt, um, for the, the real time kind of responses. Yeah.
+Yes. Yeah. So they, yeah, they're, they're more focused on the training and on onboarding sort of space. And I don't really like them yet [laugh], but you can kind of see where the product's heading. Um, and so yeah, I certainly see a world where, um, you can increase the amount of research that one person can do, um, either by using a, a, an AI avatar like that, or even just by having the researcher ask the, in the initial questions, uh, via a recording, um, and then using the LLM to actually prompt, um, for the, the real time kind of responses. Yeah.
 S1
 Speaker 1
 20:19
@@ -1644,7 +1644,7 @@ S1
 Speaker 1
 21:32
 21:32
-I think, I mean, I think one of the pain points might be, let's say I develop a, I develop a mock or, uh, a certain feature, right? Are testing internally. I want to be able to be at a stage that the next day, like let's say I open a module, right? I'm just thinking out loud at the stage. Yeah. I'm entering my audience Mm-Hmm. I'm answering the questions I want to ask and I'm answering what I want to show. Yeah. And I, I say, okay, done. And then, you know, in 24 hours, 48 hours, whatever. Mm-Hmm. <affirmative> I get, even if, I mean, it might not be a lot of people Mm-Hmm. <affirmative>, but I get at least some feedback on the initial mock feature, whatever, yeah. From my, from a relevant target audience Mm-Hmm. <affirmative> in a digestible format, right. Not just, you know, like a long takes that I need to digest. Yeah, yeah. Real digestible format. Yeah. Uh, like within, within a very short timeframe. But right now I think it's, it's, it's such a, I will say either lengthy or a bit fuzzy and a foggy process for me. Yeah. Right. We have many tools. I think that's the, that's the issue. Mm-Hmm. That's very clear how I can, uh, build that speed into my learning curve, right? Yeah. Yeah. Uh, that I will say is one of the pain points I observed.
+I think, I mean, I think one of the pain points might be, let's say I develop a, I develop a mock or, uh, a certain feature, right? Are testing internally. I want to be able to be at a stage that the next day, like let's say I open a module, right? I'm just thinking out loud at the stage. Yeah. I'm entering my audience Mm-Hmm. I'm answering the questions I want to ask and I'm answering what I want to show. Yeah. And I, I say, okay, done. And then, you know, in 24 hours, 48 hours, whatever. Mm-Hmm. [affirmative] I get, even if, I mean, it might not be a lot of people Mm-Hmm. [affirmative], but I get at least some feedback on the initial mock feature, whatever, yeah. From my, from a relevant target audience Mm-Hmm. [affirmative] in a digestible format, right. Not just, you know, like a long takes that I need to digest. Yeah, yeah. Real digestible format. Yeah. Uh, like within, within a very short timeframe. But right now I think it's, it's, it's such a, I will say either lengthy or a bit fuzzy and a foggy process for me. Yeah. Right. We have many tools. I think that's the, that's the issue. Mm-Hmm. That's very clear how I can, uh, build that speed into my learning curve, right? Yeah. Yeah. Uh, that I will say is one of the pain points I observed.
 S2
 Speaker 2
 22:54
@@ -1719,7 +1719,7 @@ S2
 Speaker 2
 26:08
 26:08
-Let me just mute her, although we're both talking at the same time, <laugh>. Um, but, uh, essentially you can, uh, you send an invite, uh, to your list of people. You can add them in as participants or as observers. Um, you can also stream to different destinations as well. Um, they, once they join, they appear along the top here. So you can see I'm actually in there as well, uh, in real time. And everything's drag and drop. So whatever's on the canvas here in the middle sounded in the green there is what's being recorded. Um, and then you set up your layouts depending on the nature of the, um, the research you're doing, and then you can move back and forth. So this is where you have, um, you know, it's kind of Google meet on steroids. You've got control over what's being recorded. So if you're most interested in, um, when, how they're using the app and integrating with that, then you can have that on screen, um, throughout.
+Let me just mute her, although we're both talking at the same time, [laugh]. Um, but, uh, essentially you can, uh, you send an invite, uh, to your list of people. You can add them in as participants or as observers. Um, you can also stream to different destinations as well. Um, they, once they join, they appear along the top here. So you can see I'm actually in there as well, uh, in real time. And everything's drag and drop. So whatever's on the canvas here in the middle sounded in the green there is what's being recorded. Um, and then you set up your layouts depending on the nature of the, um, the research you're doing, and then you can move back and forth. So this is where you have, um, you know, it's kind of Google meet on steroids. You've got control over what's being recorded. So if you're most interested in, um, when, how they're using the app and integrating with that, then you can have that on screen, um, throughout.
 S2
 Speaker 2
 26:52
@@ -1806,7 +1806,7 @@ Potential Applications of Our Tool for Savills:
 	•	Challenge: Internal meetings and discussions often lack a structured way to capture and share insights.
 	•	Solution: By recording and analysing internal meetings, our tool can highlight key takeaways, action points, and areas of agreement or disagreement. This creates a searchable knowledge base, facilitates better decision-making, and fosters transparency within the organisation.
 Transcript
-<inaudible>.
+[inaudible].
 S1
 Speaker 1
 00:02
@@ -1826,7 +1826,7 @@ S0
 Speaker 0
 00:34
 00:34
-Know, most of what we, well, I suppose, you know what, what, you know, I, I run our commercial property research for Europe and the Middle East. Mm-Hmm. <affirmative>, um, 99% of what we do is, is sort of quant Yeah. Research based on sort of proprietary data sets that we assemble ourselves. Um, or we buy in cleanup from external sources. Um, you know, we, we, I guess we've sort of, we embraced sort of big data, data and machine learning with, with many of those things as much as we could quite early on. Um, and I suppose going through the second, the second phase of that, which is probably more around wider working practices within the business. So, you know, we, like every other mid-size business is being sort of heavily courted by Microsoft to, uh, take copilot globally. Yeah. Yeah. Um, and so we've got, you know, a reasonable number of trials that we've been running across the business, including in my teams. Yeah. Yeah. Um, I expect,
+Know, most of what we, well, I suppose, you know what, what, you know, I, I run our commercial property research for Europe and the Middle East. Mm-Hmm. [affirmative], um, 99% of what we do is, is sort of quant Yeah. Research based on sort of proprietary data sets that we assemble ourselves. Um, or we buy in cleanup from external sources. Um, you know, we, we, I guess we've sort of, we embraced sort of big data, data and machine learning with, with many of those things as much as we could quite early on. Um, and I suppose going through the second, the second phase of that, which is probably more around wider working practices within the business. So, you know, we, like every other mid-size business is being sort of heavily courted by Microsoft to, uh, take copilot globally. Yeah. Yeah. Um, and so we've got, you know, a reasonable number of trials that we've been running across the business, including in my teams. Yeah. Yeah. Um, I expect,
 S1
 Speaker 1
 01:49
@@ -1916,7 +1916,7 @@ S0
 Speaker 0
 09:47
 09:47
-External? Yeah. You know, we, you know, we, we, we, we probably do, you know, in my patch, you know, we might do, you know, one you big <inaudible> piece a year and a, you know, half a dozen things on SurveyMonkey and that's it. Yeah. Yeah. Um, you know, we are not, you know, despite being a sort of medium sized company, we're not a medium-sized spender on this stuff. We'd be more likely to engage with you on a sort of pay-per-view basis than on a sort of global enterprise type basis.
+External? Yeah. You know, we, you know, we, we, we, we probably do, you know, in my patch, you know, we might do, you know, one you big [inaudible] piece a year and a, you know, half a dozen things on SurveyMonkey and that's it. Yeah. Yeah. Um, you know, we are not, you know, despite being a sort of medium sized company, we're not a medium-sized spender on this stuff. We'd be more likely to engage with you on a sort of pay-per-view basis than on a sort of global enterprise type basis.
 S1
 Speaker 1
 10:22
@@ -1966,7 +1966,7 @@ S0
 Speaker 0
 12:13
 12:13
-To <crosstalk>? Yeah, yeah, absolutely. Yeah. Yeah. Yeah. But again, the sort of, it's not that important because the quality of tight research is, is, is probably less than 1% of what we need. Um, so not, not having a particularly efficient way of doing it is not a problem. Yeah. Um, you know, if we were to agree to with Microsoft to go sort of in a full co-pilot rollout across our business, then obviously we use it because it would be a central it costs, but Yeah. Yeah. It, it isn't a gaping hole in my life not having this because frankly, there are a lot of people out there who will take notes and write them up for us if we pay them. Yeah. Yeah. But it's one of those things, you know, the reason why I thought it was worth the call is like, you know, you never know. I, you know, I never know when, you know, someone could ring up tomorrow and one of our clients and go, is there any chance you could do? Yeah. Um, you know, we do a lot of work, but, you know, we, the people who own one the Westfield shopping centers in the uk and they might just come to us and go, look, we haven't got time to do it. Could you do a survey on X? Yeah,
+To [crosstalk]? Yeah, yeah, absolutely. Yeah. Yeah. Yeah. But again, the sort of, it's not that important because the quality of tight research is, is, is probably less than 1% of what we need. Um, so not, not having a particularly efficient way of doing it is not a problem. Yeah. Um, you know, if we were to agree to with Microsoft to go sort of in a full co-pilot rollout across our business, then obviously we use it because it would be a central it costs, but Yeah. Yeah. It, it isn't a gaping hole in my life not having this because frankly, there are a lot of people out there who will take notes and write them up for us if we pay them. Yeah. Yeah. But it's one of those things, you know, the reason why I thought it was worth the call is like, you know, you never know. I, you know, I never know when, you know, someone could ring up tomorrow and one of our clients and go, is there any chance you could do? Yeah. Um, you know, we do a lot of work, but, you know, we, the people who own one the Westfield shopping centers in the uk and they might just come to us and go, look, we haven't got time to do it. Could you do a survey on X? Yeah,
 S1
 Speaker 1
 13:31
@@ -1991,12 +1991,12 @@ S1
 Speaker 1
 14:09
 14:09
-Yeah. I guess in terms of what, when you do go to spend with the market research agencies, um, you sort of, perhaps you were suggesting that maybe you actually, you might be better to do some of that in-house if it was kind of more cost effective. Like what sort of spend would you be replacing or would you, what would it need to do to <crosstalk>? It
+Yeah. I guess in terms of what, when you do go to spend with the market research agencies, um, you sort of, perhaps you were suggesting that maybe you actually, you might be better to do some of that in-house if it was kind of more cost effective. Like what sort of spend would you be replacing or would you, what would it need to do to [crosstalk]? It
 S0
 Speaker 0
 14:25
 14:25
-Depends what we're doing. Like I would say generally we don't go to the market research agencies for, um, their tools or their methodology. We go to them for their user base. Yeah. So the reason why we always go and find ourselves going back to <inaudible> or one of their peers is, you know, literally, you know, we can say to them, we want to engage with decision makers in mid-size companies in the telecom sector across Europe. Yeah. Um, and we know that list isn't perfect, but it's better than our list. Yeah, yeah. Yeah. Um, you know, the, the analysis, you know, we str you know, we write the survey, we do the, we don't, we never pay them to analyze the data 'cause we've got lots of analysts who can do it. So. Yeah. Yeah. You know, we're not, it, we don't have a burning need for a tool, I think is is the case and where we're doing a sort of, you know, where we're doing a sort of a smaller thing again. We'll, we can do it very cheaply ourselves in house when we'll send it to, you know, a list of people that we know. So, you know, what we're buying in usually is is the, is the mailing list the tool? The
+Depends what we're doing. Like I would say generally we don't go to the market research agencies for, um, their tools or their methodology. We go to them for their user base. Yeah. So the reason why we always go and find ourselves going back to [inaudible] or one of their peers is, you know, literally, you know, we can say to them, we want to engage with decision makers in mid-size companies in the telecom sector across Europe. Yeah. Um, and we know that list isn't perfect, but it's better than our list. Yeah, yeah. Yeah. Um, you know, the, the analysis, you know, we str you know, we write the survey, we do the, we don't, we never pay them to analyze the data 'cause we've got lots of analysts who can do it. So. Yeah. Yeah. You know, we're not, it, we don't have a burning need for a tool, I think is is the case and where we're doing a sort of, you know, where we're doing a sort of a smaller thing again. We'll, we can do it very cheaply ourselves in house when we'll send it to, you know, a list of people that we know. So, you know, what we're buying in usually is is the, is the mailing list the tool? The
 S1
 Speaker 1
 15:38
@@ -2006,7 +2006,7 @@ S1
 Speaker 1
 16:44
 16:44
-Um, so it's that ability to, um, to personalize the AI for their use to, to speed up that analysis piece. Um, and really in terms of the analysis, what it, what it's doing is, is, uh, is asking the, the user, the, the researcher in your case to, um, just to tag, just to codify the different elements within the, within the transcript. And that's how it learns and what it is that you're looking for. I think with tools like copilot, you know, they'll get better and better and better, but there'll always be a generic level of, of offering, um, because they just can't, um, you know, personalize it to every, every different person's use case. Um, so that, yeah, that's where we're trying to get to with it. Um, uh, okay. Cool. Um, I mean, it sounds like there's not huge amounts f from your perspective to explore, but, uh, for me, like we're very early stage. We are a, a year and a half old. Uh, we've just raised a million pounds to, so, you know, build the future of research. And so really for me, it's so useful to get into this sort of conversation just to understand in these different areas, uh, how much qualitative research or quantitative people do, and also get a feeling for, um, uh, for the conversational side of things. Right? Mm-Hmm. <affirmative>
+Um, so it's that ability to, um, to personalize the AI for their use to, to speed up that analysis piece. Um, and really in terms of the analysis, what it, what it's doing is, is, uh, is asking the, the user, the, the researcher in your case to, um, just to tag, just to codify the different elements within the, within the transcript. And that's how it learns and what it is that you're looking for. I think with tools like copilot, you know, they'll get better and better and better, but there'll always be a generic level of, of offering, um, because they just can't, um, you know, personalize it to every, every different person's use case. Um, so that, yeah, that's where we're trying to get to with it. Um, uh, okay. Cool. Um, I mean, it sounds like there's not huge amounts f from your perspective to explore, but, uh, for me, like we're very early stage. We are a, a year and a half old. Uh, we've just raised a million pounds to, so, you know, build the future of research. And so really for me, it's so useful to get into this sort of conversation just to understand in these different areas, uh, how much qualitative research or quantitative people do, and also get a feeling for, um, uh, for the conversational side of things. Right? Mm-Hmm. [affirmative]
 S1
 Speaker 1
 17:57
@@ -2076,7 +2076,7 @@ S0
 Speaker 0
 23:37
 23:37
-<crosstalk> and how does it work in a live
+[crosstalk] and how does it work in a live
 S1
 Speaker 1
 23:39
@@ -2141,7 +2141,7 @@ S0
 Speaker 0
 24:56
 24:56
-And there is, you know, there is a, there are, as far as I'm aware, there are half a dozen sort of major players in that space who do most of these things. Yeah. Yeah. Um, but I don't know who they are. Uh, yeah. But yeah, no, I can reach out and, and, and provide an introduction to the pro someone in our planning consultancy business who will know the answer to that. Mm-Hmm. Um, I think, you know, the mystery shopper thing, you know, it's not likely that we would go down this route. I think the issue of it's very, you know, it's very, you know, it's very, um, very sensitive for us. Um, so, you know, we stick with a couple of tried and trusted providers. Mm-Hmm. <affirmative>, um,
+And there is, you know, there is a, there are, as far as I'm aware, there are half a dozen sort of major players in that space who do most of these things. Yeah. Yeah. Um, but I don't know who they are. Uh, yeah. But yeah, no, I can reach out and, and, and provide an introduction to the pro someone in our planning consultancy business who will know the answer to that. Mm-Hmm. Um, I think, you know, the mystery shopper thing, you know, it's not likely that we would go down this route. I think the issue of it's very, you know, it's very, you know, it's very, um, very sensitive for us. Um, so, you know, we stick with a couple of tried and trusted providers. Mm-Hmm. [affirmative], um,
 S1
 Speaker 1
 25:44
@@ -2171,17 +2171,17 @@ S0
 Speaker 0
 26:50
 26:50
-Yeah. <crosstalk>, so if, if we wanted to do a, a one off, you know, like we, we're never gonna be enormously enamored with the idea of paying, paying an annual fee for something that we don't know how much we're gonna use it. Yeah. And, you know, we're always gonna be keen with a Yeah. I want to, you know, pick up the phone and go, Dave, we've got this project Mm-Hmm. You know, how much would you charge Yeah. To facilitate us doing it better. Yeah. Yeah. Um, and I think then there's a question of actually, is it a situation where, because your team know the software Yeah. They would be more involved? Or is it just hand, you know, is your business model just about handing us a tool and we have to work out how to use it ourselves? Um,
+Yeah. [crosstalk], so if, if we wanted to do a, a one off, you know, like we, we're never gonna be enormously enamored with the idea of paying, paying an annual fee for something that we don't know how much we're gonna use it. Yeah. And, you know, we're always gonna be keen with a Yeah. I want to, you know, pick up the phone and go, Dave, we've got this project Mm-Hmm. You know, how much would you charge Yeah. To facilitate us doing it better. Yeah. Yeah. Um, and I think then there's a question of actually, is it a situation where, because your team know the software Yeah. They would be more involved? Or is it just hand, you know, is your business model just about handing us a tool and we have to work out how to use it ourselves? Um,
 S1
 Speaker 1
 27:38
 27:38
-No, not at all. I think the more that we talk to our end customers, the more they say like, we want a done for us service, please, Dave. Mm-Hmm. Uh, and with the best intentions, yes, I was hoping to build a software business, but I think the reality is that it's, it's, it's mixed is is the requirement. And as you can imagine with someone like Google was, requires a huge amount of hand haunting <laugh> Yeah. A different way
+No, not at all. I think the more that we talk to our end customers, the more they say like, we want a done for us service, please, Dave. Mm-Hmm. Uh, and with the best intentions, yes, I was hoping to build a software business, but I think the reality is that it's, it's, it's mixed is is the requirement. And as you can imagine with someone like Google was, requires a huge amount of hand haunting [laugh] Yeah. A different way
 S0
 Speaker 0
 28:01
 28:01
-<crosstalk>. But just think like, you know, having to learn how to use another software tool for a very occasional use is not great. Yeah. It's not worth, and then paying for it, paying for the, is never gonna be a particularly easy selling to our business. Uh, whereas just here is a use, you know, a team that can make a previously quite painful and unscientific piece of work less painful.
+[crosstalk]. But just think like, you know, having to learn how to use another software tool for a very occasional use is not great. Yeah. It's not worth, and then paying for it, paying for the, is never gonna be a particularly easy selling to our business. Uh, whereas just here is a use, you know, a team that can make a previously quite painful and unscientific piece of work less painful.
 S1
 Speaker 1
 28:25
@@ -2271,7 +2271,7 @@ S0
 Speaker 0
 31:34
 31:34
-<crosstalk>? Yeah. Yeah. They do. You know, because you know, their, their job, their business is about keeping their tenants happy. Mm. Um, and it can be everything from, you know, we have a, we have a property management tool that we've developed, which, you know, I managed on the ground have on a phone and it essentially, it's a non-AI based of what you are offering, which is they're having a chat with the manager of, of, you know, h and m in a shopping center in Glasgow. And she mentions the fact that the light in the loading area has been flickering for a week. And our guy or girl can just quickly enter it on the app and Nice. We see it, our facilities team see it, our contractors see it, the client sees it, everyone sees it simultaneously. Yeah. Yeah. And they see the workflow attached. Um,
+[crosstalk]? Yeah. Yeah. They do. You know, because you know, their, their job, their business is about keeping their tenants happy. Mm. Um, and it can be everything from, you know, we have a, we have a property management tool that we've developed, which, you know, I managed on the ground have on a phone and it essentially, it's a non-AI based of what you are offering, which is they're having a chat with the manager of, of, you know, h and m in a shopping center in Glasgow. And she mentions the fact that the light in the loading area has been flickering for a week. And our guy or girl can just quickly enter it on the app and Nice. We see it, our facilities team see it, our contractors see it, the client sees it, everyone sees it simultaneously. Yeah. Yeah. And they see the workflow attached. Um,
 S1
 Speaker 1
 32:22
