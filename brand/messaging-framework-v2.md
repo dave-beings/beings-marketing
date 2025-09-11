@@ -102,3 +102,17 @@ While competitors like Remesh and Discuss.io focus on specific stages of the res
 Our long-term, defensible moat is our personalization loop. The platform learns from every user interaction, training custom models that make our AI co-pilot, Aida, progressively smarter and more attuned to each researcher's unique context. This creates a powerful network effect and makes the platform indispensable.
 
 We have validated our approach with the research team at Google and are now seeking seed funding. We have a capital-efficient "Buy and Build" strategy, allowing us to focus investment on our proprietary IP. This funding will be used to scale our engineering team, accelerate the development of our personalization engine, and bring Beings to market.
+
+---
+
+## Executive Summary & Positioning
+
+**Beings is an Enterprise SaaS platform** that organisations use for customer experience & market research, enabling companies to gather, analyse, and leverage human insights to make informed decisions, improve products, and enhance customer experiences.
+
+**Core Positioning:**
+- AI for research at scale. AI that makes research more human. 
+- Change starts with understanding people.
+- Qualitative research at quantitative scale.
+
+**Market Context:**
+Inspired by a collaboration with Google's global infrastructure team, Beings is revolutionising the $81 billion market research industry with Beam, our moderated 'in-context' SaaS solution for customer experience and market research. Targeting the 100,000+ customer researchers within the Global 2000, Beam harnesses AI to transform how businesses understand their customers.

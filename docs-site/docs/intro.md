@@ -1,59 +1,66 @@
 # Beings Marketing Knowledge Base
 
-Welcome to the **Beings Marketing Knowledge Base** - your comprehensive guide to our marketing strategy, brand guidelines, content plans, and sales support materials.
+Welcome to the **Beings Marketing Knowledge Base** - your comprehensive collection of marketing strategy, brand guidelines, content plans, research insights, and sales support materials.
 
 ## 🎯 Quick Navigation
 
-:::tip Start Here - High Priority 🔴
-**Essential sections for CMO review:**
-- [🎯 Strategy & Planning](./strategy/2025-marketing-strategy) - Core strategic framework
-- [🎨 Brand & Messaging](./brand/Brand_Voice_Guide) - Brand voice and positioning  
-- [📝 Content Strategy](./strategy/content-planning/lead-nurturing-system) - Content execution plans
-:::
-
-:::info Medium Priority 🟡
-**Supporting materials:**
-- [🔍 Market Research](./research/market-sizing-tam-sam-som) - Market insights
-:::
-
-:::note Low Priority 🟢
-**Sales enablement:**
-- [💼 Sales Support](./sales/customer-testimonials-library) - Testimonials and social proof
+:::tip Getting Started
+**Explore our marketing materials:**
+- [🎯 Strategy](./strategy/2025-marketing-strategy) - Marketing strategy, plans, and objectives
+- [🎨 Brand](./brand/Brand_Voice_Guide) - Brand guidelines, messaging, and positioning  
+- [📝 Content](./content/hero-shots-creative-strategy) - Blog posts, guides, scripts, and content strategy
+- [🔍 Research](./research/market-sizing-tam-sam-som) - Market insights, competitor analysis, and customer research
+- [💼 Sales](./sales/customer-testimonials-library) - Sales support and testimonials
 :::
 
 ## 📊 Knowledge Base Overview
 
-| Section | Priority | Files | Description |
-|---------|----------|-------|-------------|
-| Strategy & Planning | 🔴 High | 7 | Core marketing strategy, objectives, and quarterly plans |
-| Brand & Messaging | 🔴 High | 8 | Brand guidelines, voice, personas, and value propositions |
-| Market Research | 🟡 Medium | 1 | Market sizing and customer insights |
-| Sales Support | 🟢 Low | 2 | Testimonials and social proof materials |
+| Section | Files | Description |
+|---------|-------|-------------|
+| **Strategy** | 12+ | Marketing strategy, quarterly plans, content planning, and execution frameworks |
+| **Brand** | 8 | Brand guidelines, voice, personas, messaging frameworks, and value propositions |
+| **Content** | 50+ | Blog posts, guides, video scripts, newsletters, and content strategy materials |
+| **Research** | 25+ | Market sizing, competitor analysis, customer interviews, and research insights |
+| **Sales** | 2 | Customer testimonials, social proof, and sales enablement materials |
 
 ## 🚀 How to Use This Knowledge Base
 
-1. **Start with the high-priority sections** to understand the strategic foundation
-2. **Use the sidebar navigation** to browse through documents systematically  
-3. **Use the search function** (🔍) to find specific topics or keywords
-4. **Follow the recommended review order** for comprehensive understanding
+1. **Browse by section** using the sidebar navigation to explore different areas
+2. **Use the search function** (🔍) to find specific topics, keywords, or documents
+3. **Click through documents** to understand our comprehensive marketing approach
+4. **Follow cross-references** between documents to see how everything connects
 
-## 📋 Recommended Review Process
+## 📂 What You'll Find
 
-### Phase 1: Strategic Foundation (High Priority)
-1. **[Marketing Strategy](./strategy/2025-marketing-strategy)** - Overall strategic direction
-2. **[Quarterly Objectives](./strategy/2025-quarterly-objectives)** - Specific goals and metrics
-3. **[Brand Voice Guide](./brand/Brand_Voice_Guide)** - Communication approach
-4. **[Audience Personas](./brand/Audience_Personas)** - Target customer profiles
+### 🎯 Strategy Section
+- **Core Strategy**: Overall marketing direction and strategic framework
+- **2025 Plans**: Quarterly objectives and tactical execution plans
+- **Content Planning**: Detailed content calendars, nurturing systems, and workflows
+- **Marketing OS**: Our systematic approach to marketing operations
 
-### Phase 2: Execution Planning (High Priority)  
-1. **[Content Strategy](./strategy/content-planning/lead-nurturing-system)** - Content planning workflows
-2. **[Content Calendar](./strategy/content-planning/q1-2025-substack-calendar)** - Tactical execution plans
-3. **[Messaging Framework](./brand/messaging-framework-v2)** - Key messages and positioning
+### 🎨 Brand Section  
+- **Brand Voice**: Communication guidelines and tone of voice
+- **Messaging**: Frameworks for consistent messaging across channels
+- **Personas**: Detailed target customer profiles and segments
+- **Value Props**: Core value propositions and positioning statements
 
-### Phase 3: Supporting Materials
-1. **[Market Research](./research/market-sizing-tam-sam-som)** - Market opportunity analysis
-2. **[Sales Support](./sales/customer-testimonials-library)** - Social proof and testimonials
+### 📝 Content Section
+- **Blog Posts**: Published and draft articles on AI in research
+- **Guides**: Onboarding materials and prompting guides
+- **Video Scripts**: Scripts for product demos and educational content
+- **Newsletters**: AI series, craft series, and industry updates
+- **Case Studies**: Development frameworks and success stories
+
+### 🔍 Research Section
+- **Market Analysis**: Market sizing, TAM/SAM/SOM analysis
+- **Competitor Analysis**: Detailed competitive landscape research
+- **Customer Research**: Interview transcripts and discovery insights
+- **Message Mining**: Jobs-to-be-done framework and voice of customer data
+
+### 💼 Sales Section
+- **Testimonials**: Customer success stories and social proof
+- **Sales Support**: Materials to support the sales process
 
 ---
 
-*This knowledge base contains the complete marketing foundation for Beings, organized for systematic CMO review and strategic planning.*
+*This knowledge base contains our complete marketing foundation - feel free to explore and click through any section that interests you.*
